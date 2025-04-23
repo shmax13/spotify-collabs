@@ -1,39 +1,87 @@
-Artist 1,Artist 2,Shared Neighbors,Genre Overlap,Popularity Diff
-Rina Sawayama,Shygirl,3,0,5
-Perfume Genius,Caroline Polachek,2,1,2
-Christine and the Queens,Weyes Blood,2,1,2
-Lady Gaga,Billie Eilish,1,0,1
-Blood Orange,Björk,1,1,8
-Yeah Yeah Yeahs,Weyes Blood,1,0,9
-Santigold,St. Vincent,1,0,3
-Santigold,Brian Eno,1,0,5
-Grimes,Weyes Blood,1,1,10
-Father John Misty,Weyes Blood,1,0,10
-FKA twigs,Björk,1,1,4
-Shygirl,SOPHIE,1,1,8
-Shygirl,Blood Orange,1,0,10
-Shygirl,Thom Yorke,1,0,3
-Shygirl,Caroline Polachek,1,0,0
-PJ Harvey,Björk,1,1,5
-Brian Eno,St. Vincent,1,0,2
-Christine and the Queens,Aldous Harding,1,0,8
-Christine and the Queens,Shygirl,1,0,5
-Christine and the Queens,Yaeji,1,0,6
-Christine and the Queens,Rina Sawayama,1,0,0
-Sharon Van Etten,Kurt Vile,1,1,4
-Thom Yorke,Arca,1,0,1
-Thom Yorke,Fever Ray,1,0,8
-Róisín Murphy,St. Vincent,1,1,9
-Róisín Murphy,Brian Eno,1,0,7
-Fever Ray,ANOHNI,1,0,3
-Weyes Blood,Aldous Harding,1,0,10
-Weyes Blood,Cat Power,1,0,4
-Arca,Fever Ray,1,0,9
-Arca,Empress Of,1,0,7
-Arca,FKA twigs,1,0,8
-Rina Sawayama,Caroline Polachek,1,0,5
-Rina Sawayama,Yaeji,1,1,6
-Rina Sawayama,Arca,1,0,3
-SOPHIE,Björk,1,0,10
-Eartheater,Arca,1,1,8
-Eartheater,Empress Of,1,0,1
+Artist 1,Artist 2,Shared Neighbors,Genre Overlap,Popularity Diff,Same Country,Same City,Score
+Rina Sawayama,Shygirl,3,0,4,False,False,31.0
+Perfume Genius,Caroline Polachek,2,1,2,True,False,26.67
+Christine and the Queens,Weyes Blood,2,1,2,True,False,26.67
+Charli xcx,Arca,2,1,25,False,False,23.19
+Lady Gaga,Björk,2,1,29,False,False,23.17
+Lady Gaga,Empress Of,2,0,40,True,False,22.12
+Charli xcx,Empress Of,2,0,32,False,False,20.15
+Lana Del Rey,Caroline Polachek,1,0,29,True,True,17.17
+Sharon Van Etten,Kurt Vile,1,1,4,True,False,16.0
+Lady Gaga,Caroline Polachek,1,1,31,True,False,15.16
+Christine and the Queens,Lady Gaga,1,1,36,True,False,15.14
+Eartheater,Lady Gaga,1,1,41,True,False,15.12
+Yaeji,Billie Eilish,1,1,43,True,False,15.11
+Shygirl,Caroline Polachek,1,0,0,False,False,15.0
+Lady Gaga,Billie Eilish,1,0,1,True,False,14.5
+Eartheater,Empress Of,1,0,1,True,False,14.5
+FKA twigs,Björk,1,1,4,False,False,14.0
+PJ Harvey,Björk,1,1,5,False,False,13.83
+Rina Sawayama,Yaeji,1,1,7,False,False,13.62
+Blood Orange,Björk,1,1,8,False,False,13.56
+Shygirl,SOPHIE,1,1,8,False,False,13.56
+Eartheater,Arca,1,1,8,False,False,13.56
+Róisín Murphy,St. Vincent,1,1,9,False,False,13.5
+Grimes,Weyes Blood,1,1,10,False,False,13.45
+Christine and the Queens,Grimes,1,1,12,False,False,13.38
+Arca,ANOHNI,1,1,12,False,False,13.38
+Eartheater,Björk,1,1,12,False,False,13.38
+Lorde,Billie Eilish,1,1,15,False,False,13.31
+Eartheater,FKA twigs,1,1,16,False,False,13.29
+Santigold,St. Vincent,1,0,3,True,False,13.25
+Lady Gaga,Blood Orange,1,1,21,False,False,13.23
+Lorde,Rina Sawayama,1,1,21,False,False,13.23
+Lady Gaga,FKA twigs,1,1,25,False,False,13.19
+Lorde,Yaeji,1,1,28,False,False,13.17
+Rina Sawayama,Billie Eilish,1,1,36,False,False,13.14
+Weyes Blood,Cat Power,1,0,4,True,False,13.0
+Christine and the Queens,Yaeji,1,0,6,True,False,12.71
+Yeah Yeah Yeahs,Weyes Blood,1,0,9,True,False,12.5
+Christine and the Queens,Rina Sawayama,1,0,1,False,False,12.5
+Thom Yorke,Arca,1,0,1,False,False,12.5
+Father John Misty,Weyes Blood,1,0,11,True,False,12.42
+Christine and the Queens,Yeah Yeah Yeahs,1,0,11,True,False,12.42
+Yaeji,Caroline Polachek,1,0,11,True,False,12.42
+Father John Misty,Cat Power,1,0,15,True,False,12.31
+SOPHIE,Blood Orange,1,0,18,True,False,12.26
+Lana Del Rey,Perfume Genius,1,0,31,True,False,12.16
+Caroline Polachek,Billie Eilish,1,0,32,True,False,12.15
+Christine and the Queens,Billie Eilish,1,0,37,True,False,12.13
+Lady Gaga,Yaeji,1,0,42,True,False,12.12
+Brian Eno,St. Vincent,1,0,2,False,False,11.67
+Rina Sawayama,Arca,1,0,2,False,False,11.67
+Shygirl,Thom Yorke,1,0,3,False,False,11.25
+Fever Ray,ANOHNI,1,0,3,False,False,11.25
+Rina Sawayama,Caroline Polachek,1,0,4,False,False,11.0
+Santigold,Brian Eno,1,0,5,False,False,10.83
+Christine and the Queens,Shygirl,1,0,5,False,False,10.83
+Róisín Murphy,Brian Eno,1,0,7,False,False,10.62
+Arca,Empress Of,1,0,7,False,False,10.62
+Christine and the Queens,Aldous Harding,1,0,8,False,False,10.56
+Thom Yorke,Fever Ray,1,0,8,False,False,10.56
+Arca,FKA twigs,1,0,8,False,False,10.56
+Arca,Fever Ray,1,0,9,False,False,10.5
+Shygirl,Blood Orange,1,0,10,False,False,10.45
+Weyes Blood,Aldous Harding,1,0,10,False,False,10.45
+SOPHIE,Björk,1,0,10,False,False,10.45
+Shygirl,Fever Ray,1,0,11,False,False,10.42
+Thom Yorke,ANOHNI,1,0,11,False,False,10.42
+Empress Of,Björk,1,0,11,False,False,10.42
+Yaeji,Shygirl,1,0,11,False,False,10.42
+Fiona Apple,Courtney Barnett,1,0,12,False,False,10.38
+Róisín Murphy,Santigold,1,0,12,False,False,10.38
+Lorde,Lady Gaga,1,0,14,False,False,10.33
+Shygirl,ANOHNI,1,0,14,False,False,10.33
+Empress Of,FKA twigs,1,0,15,False,False,10.31
+Grimes,Charli xcx,1,0,16,False,False,10.29
+Charli xcx,FKA twigs,1,0,17,False,False,10.28
+Lorde,Caroline Polachek,1,0,17,False,False,10.28
+Lorde,Shygirl,1,0,17,False,False,10.28
+Yeah Yeah Yeahs,Aldous Harding,1,0,19,False,False,10.25
+Charli xcx,Björk,1,0,21,False,False,10.23
+Christine and the Queens,Lorde,1,0,22,False,False,10.22
+Charli xcx,Perfume Genius,1,0,25,False,False,10.19
+Charli xcx,Weyes Blood,1,0,26,False,False,10.19
+Shygirl,Billie Eilish,1,0,32,False,False,10.15
+Eartheater,Charli xcx,1,0,33,False,False,10.15
+Lady Gaga,SOPHIE,1,0,39,False,False,10.12
