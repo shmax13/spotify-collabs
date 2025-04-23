@@ -11,6 +11,7 @@ spotipy = "^2.25.1"
 neo4j = "^5.28.1"
 torch = "^2.6.0"
 pandas = "^2.2.3"
+musicbrainzngs = "^0.7.1"
 
 
 [build-system]

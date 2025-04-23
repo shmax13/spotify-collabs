@@ -3,6 +3,7 @@ from spotipy.oauth2 import SpotifyClientCredentials
 import csv
 import os
 import time
+import musicbrainzngs
 
 # Spotify API credentials
 # not concealed so this can be easily run
@@ -11,20 +12,58 @@ MY_CLIENT_SECRET = '656be244cf7c4ca6b7134bc13c415f83'
 
 # auth setup
 client_credentials_manager = SpotifyClientCredentials(client_id=MY_CLIENT_ID, client_secret=MY_CLIENT_SECRET)
-sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
+sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager, requests_timeout=20)
+
+# setup MusicBrainz
+musicbrainzngs.set_useragent("spotifycollabs", "0.1", "maximilian.j.pfeil@gmail.com")
 
 ARTISTS_FILE = 'data/artists.csv'
 COLLABORATIONS_FILE = 'data/collaborations.csv'
 
-# get artist details from artist ID
+
+def get_musicbrainz_info(artist_name):
+    try:
+        result = musicbrainzngs.search_artists(artist=artist_name, limit=1)
+        if result['artist-list']:
+            artist = result['artist-list'][0]
+            return {
+                'country': artist.get('country'),
+                'begin_area': artist.get('begin-area', {}).get('name')
+            }
+    except Exception as e:
+        print(f"MusicBrainz error for '{artist_name}': {e}")
+    return {'country': None, 'begin_area': None}
+
 def get_artist_info(artist_id):
     artist = sp.artist(artist_id)
+    albums = sp.artist_albums(artist_id, album_type='album', limit=25)['items']
+    years = []
+
+    for album in albums:
+        if 'release_date' in album:
+            year = album['release_date'].split('-')[0]
+            if year.isdigit():
+                years.append(int(year))
+
+    debut_year = min(years) if years else None
+    last_active_year = max(years) if years else None
+    active_years = last_active_year - debut_year + 1 if debut_year and last_active_year else None
+
+    # Get extra info from MusicBrainz
+    mb_info = get_musicbrainz_info(artist['name'])
+
     return {
         'id': artist['id'],
         'name': artist['name'],
         'followers': artist['followers']['total'],
         'genres': ', '.join(artist['genres']),
         'popularity': artist['popularity'],
+        'num_albums': len(albums),
+        'debut_year': debut_year,
+        'last_active_year': last_active_year,
+        'active_years': active_years,
+        'country': mb_info['country'],
+        'begin_area': mb_info['begin_area']
     }
 
 # get collaborations from artist ID
@@ -48,8 +87,11 @@ def get_collaborations(artist_id):
 # save artist info
 def save_artist(artist):
     file_exists = os.path.exists(ARTISTS_FILE)
-    with open(ARTISTS_FILE, 'a', newline='') as csvfile:
-        fieldnames = ['id', 'name', 'followers', 'genres', 'popularity']
+    with open(ARTISTS_FILE, 'a', newline='', encoding='utf-8') as csvfile:
+        fieldnames = [
+            'id', 'name', 'followers', 'genres', 'popularity',
+            'num_albums', 'debut_year', 'last_active_year', 'active_years', 'country', 'begin_area'
+        ]
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         if not file_exists:
             writer.writeheader()
@@ -87,14 +129,25 @@ def search_artists_by_genre(genre_name, limit=50):
 
         for artist in new_artists:
             if artist['id'] not in seen_ids:
+                # Get additional artist details using get_artist_info
+                artist_info = get_artist_info(artist['id'])
+
+                # Add the fetched artist info to the artists list
                 artists.append({
-                    'id': artist['id'],
-                    'name': artist['name'],
-                    'followers': artist['followers']['total'],
-                    'genres': ', '.join(artist.get('genres', [])),
-                    'popularity': artist['popularity']
+                    'id': artist_info['id'],
+                    'name': artist_info['name'],
+                    'followers': artist_info['followers'],
+                    'genres': artist_info['genres'],
+                    'popularity': artist_info['popularity'],
+                    'num_albums': artist_info['num_albums'],
+                    'debut_year': artist_info['debut_year'],
+                    'last_active_year': artist_info['last_active_year'],
+                    'active_years': artist_info['active_years'],
+                    'country': artist_info['country'],
+                    'begin_area': artist_info['begin_area']
                 })
                 seen_ids.add(artist['id'])
+
             if len(artists) >= limit:
                 break
 
@@ -108,7 +161,6 @@ def build_genre_graph(genre_name, top_x=50):
     ensure_csv_headers()
 
     # Step 1: Get top X artists by genre
-    print(f"Searching top {top_x} artists for genre: {genre_name}")
     artists = search_artists_by_genre(genre_name, limit=top_x)
     if not artists:
         print("No artists found.")
@@ -123,6 +175,10 @@ def build_genre_graph(genre_name, top_x=50):
 
     # Step 3: Save intra-group collaborations
     print("Finding internal collaborations...")
+    total_artists = len(artists)
+    progress_interval = total_artists // 10  # Log progress every 10% of artists processed
+    processed = 0
+
     for artist in artists:
         artist_id = artist['id']
         collaborations = get_collaborations(artist_id)
@@ -131,14 +187,18 @@ def build_genre_graph(genre_name, top_x=50):
             if collab_id in discovered_ids:
                 save_collaboration(artist_id, collab_id)
 
-       # try not to hit API limits 
-        time.sleep(1)
+        # log progress
+        processed += 1
+        if processed % progress_interval == 0 or processed == total_artists:
+            print(f"Progress: {processed}/{total_artists} artists processed...")
 
-    print(f"Finished building genre graph with {len(discovered_ids)} artists.")
+        # try avoid API limit
+        time.sleep(0.5)
 
 # add headers to CSV files so they can be parsed later
 def ensure_csv_headers():
-    header_artists = ["id", "name", "followers", "genres", "popularity"]
+    header_artists = ["id", "name", "followers", "genres", "popularity", "num_albums",
+                       "debut_year", "last_active_year", "active_years", "country", "begin_area"]
     header_collabs = ["artist_1", "artist_2"]
     
     if not os.path.exists(ARTISTS_FILE) or os.stat(ARTISTS_FILE).st_size == 0:

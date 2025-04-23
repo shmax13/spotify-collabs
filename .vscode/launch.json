@@ -3,19 +3,33 @@
     // Hover to view descriptions of existing attributes.
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
-    "configurations": [
+    "configurations": [        
         {
             "name": "Load Spotify Data",
             "type": "debugpy",
             "request": "launch",
-            "program": "src/spotimain.py",
+            "program": "src/load_spotify_data.py",
             "console": "integratedTerminal"
         },
         {
-            "name": "Load Neo4j",
+            "name": "Populate Neo4j",
             "type": "debugpy",
             "request": "launch",
-            "program": "src/main.py",
+            "program": "src/populate_neo4j.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Logical Knowledge",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "src/logical_knowledge.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Print Results",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "src/print_results.py",
             "console": "integratedTerminal"
         }
     ]
