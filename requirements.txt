@@ -1,0 +1,13 @@
+# requirements list for Python 3.9.21
+torch==2.6.0
+torch-geometric==2.5.0
+torch-scatter==2.1.2
+torch-sparse==0.6.18
+torch-cluster==1.6.3
+pandas
+scikit-learn
+spotipy
+musicbrainzngs
+neo4j
+
+-f https://data.pyg.org/whl/torch-2.6.0+cpu.html
