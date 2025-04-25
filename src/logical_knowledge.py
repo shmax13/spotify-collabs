@@ -7,7 +7,7 @@ AUTH = ("neo4j", "knowledgegraphs")
 driver = GraphDatabase.driver(URI, auth=AUTH)
 
 def write_predictions_to_log(
-    log_path="data/predicted_collaborations.csv",
+    log_path="predictions/logical_rules.csv",
     weight_common_neighbors=10.0,
     weight_genre_overlap=3.0,
     weight_popularity=5.0,

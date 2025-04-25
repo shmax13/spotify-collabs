@@ -1,0 +1,83 @@
+import pandas as pd
+import torch
+from torch_geometric.nn import Node2Vec
+from sklearn.metrics.pairwise import cosine_similarity
+
+# Load data
+artists_df = pd.read_csv("data/artists.csv")
+collabs_df = pd.read_csv("data/collaborations.csv").dropna()
+
+# Keep only artists that appear in collaborations
+connected_ids = set(collabs_df["artist_1"]) | set(collabs_df["artist_2"])
+artists_df = artists_df[artists_df["id"].isin(connected_ids)].reset_index(drop=True)
+
+# Rebuild mappings
+id_map = {artist_id: idx for idx, artist_id in enumerate(artists_df["id"])}
+
+# Build edge_index tensor
+edge_index = torch.tensor([
+    [id_map[a] for a in collabs_df["artist_1"]],
+    [id_map[b] for b in collabs_df["artist_2"]]
+], dtype=torch.long)
+edge_index = torch.cat([edge_index, edge_index[[1, 0]]], dim=1)
+
+
+node2vec = Node2Vec(
+    edge_index,
+    embedding_dim=32,  # Smaller embedding dimension for small dataset
+    walk_length=10,    # Shorter walk length
+    context_size=10,
+    walks_per_node=5,  # Fewer walks per node
+    num_negative_samples=2,  # Increase negative samples slightly
+    sparse=True
+)
+
+# Training setup
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
+node2vec = node2vec.to(device)
+loader = node2vec.loader(batch_size=128, shuffle=True)
+optimizer = torch.optim.SparseAdam(list(node2vec.parameters()), lr=0.01)
+
+def train():
+    node2vec.train()
+    total_loss = 0
+    for pos_rw, neg_rw in loader:
+        optimizer.zero_grad()
+        loss = node2vec.loss(pos_rw.to(device), neg_rw.to(device))
+        loss.backward()
+        optimizer.step()
+        total_loss += loss.item()
+    return total_loss / len(loader)
+
+# Train
+for epoch in range(1, 10001):
+    loss = train()
+    print(f"Epoch {epoch:03d} | Loss: {loss:.4f}")
+
+# Inference
+node2vec.eval()
+embeddings = node2vec.embedding.weight.detach().cpu()
+
+# Score unconnected pairs
+num_nodes = len(artists_df)
+existing = set(tuple(sorted((id_map[a], id_map[b]))) for a, b in zip(collabs_df["artist_1"], collabs_df["artist_2"]))
+scores = []
+
+for i in range(num_nodes):
+    for j in range(i + 1, num_nodes):
+        if (i, j) not in existing:
+            sim = cosine_similarity([embeddings[i]], [embeddings[j]])[0][0]
+            scores.append((i, j, sim))
+
+# Top results
+top_links = sorted(scores, key=lambda x: x[2], reverse=True)[:50]
+
+# Create DataFrame and write to CSV
+# Prepare data for CSV output
+csv_data = []
+for i, j, score in top_links:
+    artist_1_name = artists_df.loc[i, 'name']
+    artist_2_name = artists_df.loc[j, 'name']
+    csv_data.append([artist_1_name, artist_2_name, score])
+csv_df = pd.DataFrame(csv_data, columns=["Artist 1", "Artist 2", "Score"])
+csv_df.to_csv("predictions/node2vec.csv", index=False)

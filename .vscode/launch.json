@@ -19,10 +19,17 @@
             "console": "integratedTerminal"
         },
         {
-            "name": "Logical Knowledge",
+            "name": "Predict with Logical Rules",
             "type": "debugpy",
             "request": "launch",
             "program": "src/logical_knowledge.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Predict with Node2Vec",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "src/node2vec.py",
             "console": "integratedTerminal"
         },
         {
