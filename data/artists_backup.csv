@@ -1,101 +1,1001 @@
 id,name,followers,genres,popularity,num_albums,debut_year,last_active_year,active_years,country,begin_area
-6qqNVTkY8uBg9cP3Jd7DAH,Billie Eilish,110728398,,95,3,2019,2024,6,US,Los Angeles
-1HY2Jd0NmPuamShAr6KMms,Lady Gaga,37039752,"art pop, pop",94,17,2008,2025,18,US,Upper East Side
-00FQb4jTyendYWaN8pK0wa,Lana Del Rey,46809118,,92,10,2012,2023,12,US,Manhattan
-25uiPmTg16RbhZWAqwLBy5,Charli xcx,5353044,"hyperpop, art pop",86,11,2013,2024,12,,Cambridge
-163tK9Wjr9P9DmM0AVK7lm,Lorde,10232498,,80,4,2013,2021,9,NZ,Takapuna
-1WgXqy2Dd70QQOU7Ay074N,AURORA,4366535,"norwegian pop, art pop",77,7,2016,2024,9,NO,Stavanger
-56ZTgzPBDge0OvCGgMO3OY,Beach House,2590145,dream pop,75,9,2006,2022,17,US,Hawthorne
-6LEeAFiJF8OuPx747e1wxR,Blood Orange,1130775,art pop,73,5,2011,2019,9,GB,Ilford
-6oBm8HB0yfrIc9IHbxs6in,Lykke Li,1944436,,71,8,2008,2024,17,SE,Ystad
-4MXUO7sVCaFgFjoTI5ox5c,Sufjan Stevens,2219457,"chamber pop, baroque pop",72,23,2003,2024,22,US,Detroit
-1aSxMhuvixZ8h9dK9jIDwL,Kate Bush,2355030,"art pop, baroque pop, art rock",71,12,1978,2011,34,,Welling
-3TNt4aUIxgfy9aoaft5Jj2,Yeah Yeah Yeahs,1439750,indie rock,69,7,2003,2022,20,US,New York
-6Jrxnp0JgqmeUX1veU591p,Santigold,775489,,67,5,2008,2022,15,US,Philadelphia
-53KwLdlmrlCelAZMaLVZqU,James Blake,1528962,,70,11,2011,2024,14,US,Barnwell
-07D1Bjaof0NFlU32KXiqUP,Lucy Dacus,591580,,73,4,2016,2025,10,US,Richmond
-053q0ukIDRgzwTr4vNSwab,Grimes,2547069,art pop,70,6,2010,2021,12,CA,Vancouver
-5QdyldG4Fl4TPiOIeMNpBZ,Big Thief,1141893,,71,5,2016,2022,7,US,Brooklyn
-2kGBy2WHvF0VdZyqiVCkDT,Father John Misty,923443,chamber pop,71,7,2012,2025,14,US,Rockville
-6nB0iY1cjSY1KyhYyuIIKH,FKA twigs,1395864,"art pop, alternative r&b",69,4,2014,2025,12,,Cheltenham
-6Rx1JKzBrSzoKQtmbVmBnM,Hayley Williams,765782,art pop,67,2,2020,2021,2,US,Flushing
-6liAMWkVf5LH7YR9yfFy1Y,Portishead,2222728,"trip hop, downtempo",66,5,1994,2023,30,GB,Bristol
-6UcJxoeHWWWyT5HZP064om,Chet Faker,458868,,63,5,2012,2024,13,AU,Melbourne
-2AcUPzkVWo81vumdzeLLRN,Rhye,688965,,63,5,2013,2021,9,US,Toronto
-6CWTBjOJK75cTE8Xv8u1kj,Feist,794058,chamber pop,60,7,2004,2023,20,CA,Amherst
-3fhOTtm0LBJ3Ojn4hIljLo,Roxy Music,1058426,"glam rock, art rock",62,15,1972,2023,52,GB,London
-5Wabl1lPdNOeIn0SQ5A1mp,Cocteau Twins,1244983,"shoegaze, dream pop, post-punk",67,13,1982,2024,43,,Grangemouth
-1WvvwcQx0tj6NdDhZZ2zZz,Future Islands,640714,,61,7,2008,2024,17,US,Greenville
-2xe8IXgCTpwHE3eA9hTs4n,BANKS,1086163,,62,8,2014,2025,12,,New Carrollton
-3g2kUQ6tHLLbmkV7T4GPtL,Fiona Apple,1697360,"art pop, chamber pop",66,5,1996,2020,25,US,Manhattan
-31uyAcnY0kjjKKIQZMKX4i,Grouper,337995,"drone, slowcore, ambient, dream pop",62,11,2005,2021,17,US,Marin County
-4aEnNH9PuU1HF3TsZTru54,Caribou,708648,idm,58,10,2001,2024,24,CA,Dundas
-2ueoLVCXQ948OfhVvAy3Nn,Perfume Genius,415266,"art pop, chamber pop",61,10,2010,2025,16,US,Des Moines
-6Tyzp9KzpiZ04DABQoedps,Little Dragon,709974,trip hop,62,8,2007,2025,19,SE,Gothenburg
-3M3wTTCDwicRubwMyHyEDy,Shygirl,327127,hyperpop,63,3,2022,2024,3,,London
-7w29UYBi0qsHi5RTcv3lmA,Björk,2315276,"art pop, trip hop",65,25,1995,2023,29,IS,Reykjavík
-4Ge8xMJNwt6EEXOzVXju9a,Caroline Polachek,600922,art pop,63,3,2019,2024,6,US,Manhattan
-7MSUfLeTdDEoZiJPDSBXgi,Brian Eno,797948,"ambient, art rock, krautrock, minimalism, drone, glam rock",62,25,2006,2024,19,GB,Woodbridge
-12VaqyEhgwDRuFfEqbnrpz,PJ Harvey,1166736,"art pop, singer-songwriter",60,25,1993,2024,32,,Bridport
-4tOVIRjlWWfR1RrAxyRqTE,Chromatics,477012,dream pop,59,14,2006,2021,16,US,Portland
-04vj3iPUiVh5melWr0w3xT,Christine and the Queens,726580,"art pop, french pop",58,7,2014,2023,10,US,
-5KTykbPcDB4GYS49jcHbWh,Jessica Pratt,157260,,60,4,2012,2024,13,,Redding
-23EA28263XvtIrXuySX6oI,Francis and the Lights,181365,,56,4,2010,2017,8,US,Oakland
-2wJ4vsxWd7df7dRU4KcoDe,Sharon Van Etten,570187,,59,12,2009,2025,17,US,Clinton
-4vpGVGgxSDcCTmqYbsOnsn,Amber Coffman,23946,"dubstep, dub",60,1,2017,2017,1,US,Austin
-066X20Nz7iquqkkCW6Jxy6,LCD Soundsystem,1193589,"alternative dance, electronic rock, new rave",63,10,2005,2019,15,US,New York
-4CvTDPKA6W06DRfBnZKrau,Thom Yorke,1172393,,60,6,2006,2024,19,,Wellingborough
-4kwxTgCKMipBKhSnEstNKj,Animal Collective,556790,"psychedelic pop, indie rock",50,20,2000,2024,25,US,Baltimore
-7MoIc5s9KXolCBH1fy9kkw,Japanese Breakfast,785710,,65,6,2016,2025,10,US,Philadelphia
-3qwabfaWewpfli7hMNM3O8,Róisín Murphy,390846,"art pop, electropop",55,10,2005,2024,20,IE,Arklow
-1LeVJ5GPeYDOVUjxx1y7Rp,Unknown Mortal Orchestra,883736,psychedelic pop,60,7,2011,2025,15,,Auckland
-6G7OerKc3eBO9sVkRNopFC,Cat Power,783855,"slowcore, singer-songwriter",56,13,1996,2023,28,US,Atlanta
-7bcbShaqKdcyjnmv4Ix8j6,St. Vincent,947046,art pop,64,12,2007,2024,18,US,Tulsa
-5hE6NCoobhyEu6TRSbjOJY,Fever Ray,482281,art pop,52,6,2009,2023,15,US,Albany
-1R84VlXnFFULOsWWV8IrCQ,Panda Bear,233762,psychedelic pop,59,9,2004,2025,22,US,Charlottesville
-2f9ZiYA2ic1r1voObUimdd,Grace Jones,353506,art pop,55,12,1977,2011,35,US,Saint Catherine
-2Jv5eshHtLycR6R8KQCdc4,Grizzly Bear,856633,"indie, indie rock, baroque pop",56,11,2004,2017,14,US,Brooklyn
-4SQdUpG4f7UbkJG3cJ2Iyj,Arca,617307,"neoperreo, experimental, art pop, hyperpop",61,11,2013,2021,9,ES,Caracas
-09kXLeOXRyfNQMXRaDO4qA,Nilüfer Yanya,226836,,54,5,2019,2024,6,GB,London
-3Uqu1mEdkUJxPe7s31n1M9,Weyes Blood,528539,"art pop, baroque pop, chamber pop",60,5,2011,2022,12,US,Santa Monica
-0qu422H5MOoQxGjd4IzHbS,Yves Tumor,420456,,57,4,2015,2023,9,IT,Miami
-2KEqzdPS7M5YwGmiuPTdr5,Rina Sawayama,1040434,,59,5,2017,2023,7,,Niigata
-5BKsn7SCN2XmbF7apdCpRS,Goldfrapp,584234,"trip hop, electroclash, art pop",53,8,2000,2018,19,GB,Bath
-5gspAQIAH8nJUrMYgXjCJ2,Kurt Vile,531228,,55,11,2008,2023,16,US,Lansdowne
-39vA9YljbnOApXKniLWBZv,Sylvan Esso,580798,,56,6,2014,2024,11,US,Durham
-54KCNI7URCrG6yjQK3Ukow,Susanne Sundfør,246387,"norwegian pop, art pop",56,10,2007,2023,17,NO,Haugesund
-3lmR0qMiGuoIF9UC54egcG,Aldous Harding,241084,chamber pop,50,4,2014,2022,9,NZ,Lyttelton
-7zHIrsSBL7A0gEJfzv1m7z,Benjamin Clementine,390402,art pop,49,4,2014,2022,9,GB,Lowestoft
-05fo024EFotg9songSENOZ,CocoRosie,371794,,48,8,2004,2025,22,US,Paris
-4OOlG5eBXSkSAAEeKjJb5Y,Courtney Barnett,609584,,54,7,2013,2023,11,AU,Sydney
-7eQZTqEMozBcuSubfu52i4,The Knife,514991,electroclash,50,10,2001,2017,17,GB,Liverpool
-1bQat2UgYwJAsNOrZxcfa5,Sophia Kennedy,17602,art pop,43,2,2017,2021,5,US,Baltimore
-3Rj0tDHoX7C5NFq5DKIpHt,Stereolab,364827,"art pop, krautrock, post-rock, chamber pop",55,21,1992,2024,33,GB,London
-3kzwYV3OCB010YfXMF0Avt,Alvvays,606749,"dream pop, shoegaze, jangle pop, indie",60,3,2014,2022,9,CA,Toronto
-2rBcvLKWCZs9w1qIWv560v,Charlotte Gainsbourg,245513,,53,5,1986,2017,32,FR,London
-5QuBVnBPEzwYvFrgBbwpmU,Empress Of,142014,,54,5,2015,2024,10,US,
-5a2w2tgpLwv26BYJf2qYwu,SOPHIE,569909,"hyperpop, art pop, experimental",55,3,2018,2024,7,GB,England
-6VJZYivuYJGCrPuOAnI7Qo,ANOHNI,180254,"chamber pop, art pop, baroque pop",49,7,2005,2023,19,GB,Chichester
-18ca9d5EU5R1AhVKPR1cm0,Eartheater,201551,"art pop, experimental",53,8,2015,2023,9,US,Pennsylvania
-5mZC7ndY6oGMxJentRwsuV,Young Fathers,248346,experimental hip hop,47,6,2013,2023,11,CA,Toronto
-20vuBdFblWUo2FCOvUzusB,David Byrne,408387,"art rock, art pop",54,21,1981,2021,41,US,Dumbarton
-7d64ZVOXg02y73HB5UMqkb,Okay Kaya,120713,art pop,48,7,2018,2025,8,NO,
-4Sw0SFu1fFdYXdAEVdrqnO,Mount Eerie,159834,"slowcore, indie folk",45,21,2004,2024,21,US,Anacortes
-5hAhrnb0Ch4ODwWu4tsbpi,Yo La Tengo,547174,"dream pop, slowcore",54,21,1990,2023,34,,Hoboken
-5W10uJRsbt9bROJDKoI1Wn,Moses Sumney,384178,art pop,53,3,2017,2021,5,,San Bernardino
-2RqrWplViWHSGLzlhmDcbt,Yaeji,456293,,52,2,2020,2023,4,US,Flushing
-6Lt6KFXX3P0v6vfrynQAMo,Beth Gibbons,188133,,51,3,2002,2024,23,GB,Exeter
-1o43SzzuLoyOxqThmp7s0g,Austra,162838,"art pop, witch house",39,7,2011,2023,13,CA,Toronto
-6mKqFxGMS5TGDZI3XkT5Rt,Angel Olsen,500898,,52,9,2012,2024,13,US,St. Louis
-1ybAN3utgdoUL1MUCtH4QM,Tennis,313025,,55,7,2011,2023,13,US,Denver
-3AmgGrYHXqgbmZ2yKoIVzO,Warpaint,510617,dream pop,49,7,2010,2022,13,US,Los Angeles
-0Lpr5wXzWLtDWm1SjNbpPb,Todd Rundgren,385668,"power pop, philly soul",56,25,2011,2023,13,US,Upper Darby Township
-3lrDYjsghBMfUTiLziD9q9,TORRES,57922,art pop,52,8,2013,2025,13,US,Georgia
-0UKfenbZb15sqhfPC6zbt3,DEVO,606046,"new wave, post-punk, synthpop",56,17,1984,2024,41,US,Akron
-7gqsi6aBSkRMJoL9psKqMr,Bill Callahan,181242,alt country,48,11,2007,2024,18,US,Silver Spring
-0Wkm45quqfx3NepJpXDvwE,Superorganism,251361,art pop,49,5,2018,2023,6,,London
-4wXchxfTTggLtzkoUhO86Q,Soccer Mommy,404351,indie,52,6,2016,2024,9,US,Zurich
-5xeBMeW0YzWIXSVzAxhM8O,of Montreal,356116,"psychedelic pop, baroque pop, art pop",53,25,1998,2025,28,US,Athens
-4R073T3AVJKqAsbzLmLW9u,John Maus,222869,"cold wave, darkwave, baroque pop",47,6,2006,2018,13,US,Flushing
-2qT62DYO8Ajb276vUJmvhz,XTC,353937,"new wave, power pop, post-punk",52,11,1978,1995,18,GB,Swindon
-04XggbrM51GcFPTxBYtRXT,Rostam,83852,art pop,47,6,2016,2024,9,US,"Washington, D.C."
+06HL4z0CvFAxyc27GXpf02,Taylor Swift,136371978,,98,25,2010,2024,15,US,West Reading
+1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,103897850,,97,16,2011,2025,15,CA,Scarborough
+3TVXtAsR1Inumwj472S9r4,Drake,98070286,"rap, hip hop",98,18,2009,2025,17,CA,Toronto
+6qqNVTkY8uBg9cP3Jd7DAH,Billie Eilish,110864069,,95,3,2019,2024,6,US,Los Angeles
+1HY2Jd0NmPuamShAr6KMms,Lady Gaga,37143407,"art pop, pop",94,17,2008,2025,18,US,Upper East Side
+1Cs0zKBU1kc0i8ypK3B9ai,David Guetta,27071908,"edm, dance",90,14,2002,2023,22,FR,Paris
+5pKCCKE2ajJHZ9KAiaK11H,Rihanna,66725008,,92,14,2005,2016,12,US,Saint Michael
+0du5cEVh5yTK9QJze8zA0C,Bruno Mars,70986830,,95,4,2010,2021,12,US,Honolulu
+4gzpq5DPGxSnKTe4SA8HAU,Coldplay,58034879,,92,17,2000,2024,25,GB,London
+00FQb4jTyendYWaN8pK0wa,Lana Del Rey,46900617,,92,10,2012,2023,12,US,Manhattan
+45dkTj5sMRSjrmBSBeiHym,Tate McRae,7545342,,91,3,2022,2025,4,CA,Calgary
+2kS9NyuATpYwjeB93h24H5,Nina Chuba,926819,"german pop, german hip hop",73,1,2023,2023,1,US,Tryon
+6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,120160525,soft pop,90,18,2011,2024,14,GB,Halifax
+66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,105004373,pop,95,17,2013,2025,13,US,Boca Raton
+4Yttlv9ndGjCDCVLqM7ACq,Sido,2560696,"german hip hop, german pop",73,13,2002,2022,21,DE,Berlin
+2rEVnwCPBeGkWMv425KoG1,AYLIVA,2078508,german pop,74,3,2022,2024,3,DE,Recklinghausen
+0fTSzq9jAh4c36UVb4V7CB,Alex Warren,1246999,,86,1,2024,2024,1,GB,
+0TnOYISbd1XYRBk9myaseg,Pitbull,11526840,,88,19,2004,2024,21,US,Miami
+5Pwc4xIPtQLFEnJriah9YJ,OneRepublic,18192899,soft pop,85,12,2007,2024,18,US,Colorado Springs
+53XhwfbYqKCa1cC15pYq2q,Imagine Dragons,57067967,,88,11,2012,2025,14,US,Las Vegas
+1uNFoZAHBGtllmzznpCI3s,Justin Bieber,82030627,,91,15,2009,2021,13,CA,London
+74KM79TiuVKeVCqs8QtB0B,Sabrina Carpenter,21772483,,92,8,2015,2025,11,US,Bucks County
+7tYKF4w9nC0nq9CsPZTHyP,SZA,29283914,r&b,94,7,2014,2025,12,US,St. Louis
+7CajNmpbOovFoOoasH2HaY,Calvin Harris,23150216,edm,88,7,2007,2024,18,,Dumfries
+3YQKmKGau1PzlVlkL1iodx,Twenty One Pilots,25312563,,85,8,2009,2024,16,US,Columbus
+6jJ0s89eD6GaHleKKya26X,Katy Perry,36876342,pop,87,11,2008,2024,17,US,Santa Barbara
+6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,45903253,pop,89,7,2017,2024,8,GB,London
+246dkjvS1zLTtiykXe5h60,Post Malone,46895737,,90,12,2016,2024,9,US,Syracuse
+5WUlDfRSoLAfcVSX1WnrxN,Sia,29767894,,86,20,2003,2024,22,AU,Adelaide
+0JBdTCGs111JKKYfLqOEBa,Shirin David,1053254,"german hip hop, german pop",70,3,2019,2025,7,,Brixton
+22wbnEMDvgVIAGdFeek6ET,Benson Boone,5453174,,87,1,2024,2024,1,US,Jacksonville
+0C8ZW7ezQVs4URX5aX7Kqx,Selena Gomez,52417801,pop,88,5,2013,2025,13,US,Grand Prairie
+0LcJLqbBmaGUft1e9Mm8HV,ABBA,13998161,,83,15,1973,2024,52,SE,Stockholm
+2o5jDhtHVPhrJdv3cEQ99Z,Tiësto,7813282,"edm, trance, big room, house, dance",83,25,2007,2023,17,NL,Breda
+3Isy6kedDrgPYoTS1dazA9,Sean Paul,5110800,dancehall,84,11,2000,2022,23,JM,Kingston
+4lDiJcOJ2GLCK6p9q5BgfK,Kontra K,2474742,german hip hop,72,14,2010,2023,14,GB,Yate
+4dpARuHxo51G3z768sgnrY,Adele,63820410,soft pop,87,4,2008,2021,14,GB,Tottenham
+1vCWHaC5f2uS3yhpwWbIA6,Avicii,23530182,edm,84,6,2013,2019,7,SE,Stockholm
+3t5xRXzsuZmMDkQzgOX35S,Robin Schulz,3214752,tropical house,80,6,2014,2023,10,DE,Osnabrück
+7f5Zgnp2spUuuzKplmRkt7,Lost Frequencies,3029087,tropical house,80,6,2016,2024,9,BE,Brussels
+0hCNtLu0JehylgoiP8L4Gh,Nicki Minaj,33801125,,87,17,2010,2024,15,US,Saint James
+6vWDO969PvNqNYHIOW5v0m,Beyoncé,40182936,,87,14,2003,2024,22,US,Houston
+2FXC3k01G6Gw61bmprjgqS,Hozier,8714758,,86,7,2014,2024,11,IE,Bray
+0jnsk9HBra6NMjO2oANoPY,Flo Rida,8930854,,82,6,2008,2015,8,US,Carol City
+2f7f3AmL16mmiAmYnxmmfx,Provinz,308443,german pop,68,3,2020,2025,6,DE,Vogt
+1McMsnEElThX1knmY4oliG,Olivia Rodrigo,45346371,,89,4,2021,2024,4,US,Murrieta
+55Aa2cqylxrFIXC767Z865,Lil Wayne,16873536,"rap, hip hop",89,25,2006,2023,18,US,New Orleans
+1EfwyuCzDQpCslZc8C9gkG,SDP,1145897,german pop,70,13,2004,2022,19,DE,
+04gDigrS5kc9YWfZHwBETP,Maroon 5,44703947,pop,88,16,2002,2021,20,US,Los Angeles
+25uiPmTg16RbhZWAqwLBy5,Charli xcx,5376443,"hyperpop, art pop",87,11,2013,2024,12,,Cambridge
+0EmeFodog0BfCgMzAIvKQp,Shakira,37755168,latin pop,89,18,1995,2024,30,CO,Barranquilla
+77SW9BnxLY8rJ0RciFqkHh,The Neighbourhood,20196720,,85,10,2013,2020,8,GB,Liverpool
+23fqKkggKUBHNkbKtXEls4,Kygo,8611190,tropical house,82,7,2016,2024,9,NO,Singapore
+2dIgFjalVxs4ThymZ67YCE,Stray Kids,18864764,k-pop,86,21,2018,2024,7,KR,Seoul
+7GlBOeep6PqTfFi59PTUUN,Chappell Roan,6013602,,88,1,2023,2023,1,US,Willard
+5YGY8feqx7naU7z4HrwZM6,Miley Cyrus,25872905,,85,11,2007,2023,17,US,Franklin
+3q7HBObVc0L8jNeTe5Gofh,50 Cent,17549333,east coast hip hop,85,7,2003,2019,17,US,South Jamaica
+0GOx72r5AAEKRGQFn3xqXK,GIMS,6239650,"french pop, pop urbaine",83,15,2013,2025,13,FR,Kinshasa
+1KCSPY1glIKqW2TotWuXOR,P!nk,17826000,,82,13,2000,2023,24,US,Doylestown
+1yxSLGMDHlW21z4YXirZDS,Black Eyed Peas,8919698,,83,14,1998,2024,27,US,Los Angeles
+137W8MRPWKqSmrBGDBFSop,Wiz Khalifa,11992872,rap,84,25,2013,2025,13,US,Minot
+3nFkdlSjzX9mRTtwJOzDYB,JAY-Z,10007609,"hip hop, east coast hip hop, rap",85,22,1996,2022,27,US,Brooklyn
+7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,44809499,,84,13,2015,2024,10,CA,Pickering
+7c0XG5cIJTrrAgEC3ULPiq,Ty Dolla $ign,6519158,,85,11,2014,2024,11,US,Los Angeles
+4npEfmQ6YuiwW1GpUmaq3F,Ava Max,7464904,,80,2,2020,2023,4,US,Milwaukee
+250b0Wlc5Vk0CoUsaCY84M,JENNIE,10000053,k-pop,89,1,2025,2025,1,KR,Gangnam District
+5LfGQac0EIXyAN8aUwmNAQ,The Offspring,6270658,"punk, skate punk",79,13,1989,2024,36,US,Huntington Beach
+5cj0lLjcoR7YOSnhnX0Po5,Doja Cat,33135973,,87,6,2019,2024,6,US,Tarzana
+1QAJqy2dA3ihHBFIHRphZj,Cigarettes After Sex,15563505,dream pop,86,3,2017,2024,8,US,El Paso
+2rTo8KIkBTFjQS7VvaKYQ4,W&W,906886,"big room, edm",76,1,2011,2011,1,NL,Utrecht
+0r0R5nIjDY04TfxRM10Bcb,Alligatoah,1240089,"german pop, german hip hop",67,14,2008,2024,17,DE,Langen
+4AK6F7OLvEQ5QYCBNiQWHq,One Direction,39355392,,86,5,2012,2015,4,,Wembley
+7hJcb9fa4alzcOq3EaNPoG,Snoop Dogg,14627545,"g-funk, west coast hip hop, gangster rap, hip hop, rap",84,25,2011,2024,14,US,Long Beach
+26dSoYclwsYLMAKD3tpOr4,Britney Spears,16615983,pop,83,9,1999,2020,22,US,McComb
+5CiGnKThu5ctn9pBxv7DGa,benny blanco,1433403,,85,3,2018,2025,8,US,Chicago
+6LuN9FCkKOj5PcnpouEgny,Khalid,16692535,,84,6,2017,2024,8,US,Fort Stewart
+69GGBxA162lTqCwzJG5jLp,The Chainsmokers,21005929,,83,6,2017,2023,7,GB,Liverpool
+31TPClRtHm23RisEBtV3X7,Justin Timberlake,15310392,,84,9,2002,2024,23,US,Memphis
+3eVa5w3URK5duf6eyVDbu9,ROSÉ,11132259,k-pop,85,1,2024,2024,1,US,
+2wY79sveU1sp5g7SokKOiI,Sam Smith,25707119,soft pop,84,12,2014,2024,11,GB,London
+6KImCVD70vtIoJWnq6nGn3,Harry Styles,33647522,,85,3,2017,2022,6,,Redditch
+64KEffDW9EtZ1y2vBYgq8T,Marshmello,34196313,edm,84,5,2016,2023,8,US,Philadelphia
+3JhNCzhSMTxs9WLGJJxWOY,Macklemore,2658345,,79,6,2005,2023,19,US,Seattle
+0X2BH1fck6amBIoJhDVmmJ,Ellie Goulding,13022221,,82,8,2010,2023,14,GB,Hereford
+2RQXRUsr4IW1f3mKyKsy4B,Noah Kahan,4051657,,86,6,2019,2024,6,US,Strafford
+5ZY4M2aGiTaZQEP6HfqeJc,Montez,305586,"german pop, german hip hop",66,5,2015,2024,10,US,Los Angeles
+4bL2B6hmLlMWnUEZnorEtG,Felix Jaehn,1304862,tropical house,76,3,2018,2021,4,DE,Hamburg
+6LqNN22kT3074XbTVUrhzX,Kesha,8659052,,82,6,2010,2023,14,US,Los Angeles
+26VFTg2z8YR0cCuwLzESi2,Halsey,22087940,,83,9,2015,2024,10,US,Washington
+3jiOHVFdVQjbSDVeC7RgY7,Wir sind Helden,253294,"german pop, neue deutsche welle",64,6,2003,2011,9,DE,Hamburg
+3QSQFmccmX81fWCUSPTS7y,Dean Lewis,3762478,,78,3,2019,2024,6,US,Steubenville
+67FB4n52MgexGQIG8s0yUH,Lola Young,1021621,,83,3,2019,2024,6,CA,Toronto
+2NpPlwwDVYR5dIj0F31EcC,Leony,188603,,68,2,2023,2025,3,DE,Cham
+3Nrfpe0tUJi4K4DXYWgMUX,BTS,78728422,k-pop,88,21,2013,2022,10,KR,Seoul
+011bJBtG8SdkBqBiSpBllF,JEREMIAS,240332,german pop,64,3,2021,2024,4,,
+0z4gvV4rjIZ9wHck67ucSV,Akon,5568511,,84,11,2005,2024,20,SN,St. Louis
+1moxjboGR7GNWYIMWsRjgG,Florence + The Machine,7090216,baroque pop,80,14,2009,2024,16,,London
+3IW7ScrzXmPvZhB27hmfgy,Jul,11439514,pop urbaine,84,25,2016,2025,10,FR,Marseille
+5Y5TRrQiqgUO4S36tzjIRZ,Timbaland,3237031,,80,12,1997,2025,29,US,Norfolk
+1mcTU81TzQhprhouKaTkpq,Rauw Alejandro,28147518,"reggaeton, urbano latino, trap latino, latin",92,8,2019,2024,6,PR,San Juan
+0CbeG1224FS58EUx4tPevZ,Timmy Trumpet,1252337,"melbourne bounce, big room",73,1,2020,2020,1,AU,Sydney
+2txHhyCwHjUEpJjWrEyqyX,Tom Odell,4163120,,78,10,2013,2024,12,GB,Chichester
+0u6GtibW46tFX7koQ6uNJZ,Topic,290401,,76,1,2015,2015,1,DE,Solingen
+16oZKvXb6WkQlVAjwo2Wbg,The Lumineers,5741336,"folk pop, indie folk",80,8,2012,2025,14,GB,Liverpool
+1i8SpTcr7yvPOmcqrbnVXY,Ozuna,38437482,"reggaeton, trap latino, latin, urbano latino",88,9,2017,2023,7,PR,San Juan
+3bO19AOone0ubCsfDXDtYt,Myles Smith,1039044,,79,0,,,,US,Omaha
+5KKpBU5eC2tJDzf0wmlRp2,RAYE,2281591,,81,3,2023,2024,2,GB,Tooting
+0cbL6CYnRqpAxf1evwUVQD,Die Ärzte,1326010,"neue deutsche welle, german pop",65,21,1986,2021,36,DE,Berlin
+07YZf4WDAMNwqr4jfgOZ8y,Jason Derulo,12477422,,79,10,2010,2024,15,US,Miami
+02kJSzxNuaWGqwubyUba0Z,G-Eazy,5920568,,79,12,2012,2024,13,US,Oakland
+0lAWpj5szCSwM4rUMHYmrr,Måneskin,10271341,,80,5,2017,2023,7,IT,Roma
+4e0nWw2r4BoQSKPQ2zpU13,Ray Dalton,103161,,75,1,2024,2024,1,US,Albany
+1r4hJ1h58CWwUQe3MxPuau,Maluma,36746053,"reggaeton, latin, urbano latino",87,11,2012,2023,12,CO,Medellín
+6tbjWDEIzxoDsBA1FuhfPW,Madonna,8501696,,81,25,1989,2022,34,US,Bay City
+2jw70GZXlAI8QzWeY2bgRc,Nelly Furtado,4397653,,79,11,2000,2024,25,CA,Victoria
+6fOMl44jA4Sp5b9PpYCkzz,NF,10809266,christian hip hop,80,6,2015,2023,9,US,Gladwin
+4IWBUUAFIplrNtaOHcJPRM,James Arthur,20070021,soft pop,82,9,2013,2025,13,GB,Edinburgh
+1hzfo8twXdOegF3xireCYs,Milky Chance,2034840,,74,10,2013,2025,13,DE,Kassel
+21E3waRsmPlU7jZsS13rcj,Ne-Yo,9772595,,83,14,2006,2022,17,US,Camden
+6Wr3hh341P84m3EI8qdn9O,Rise Against,2872088,"punk, hardcore punk",73,12,2003,2021,19,US,Chicago
+73jBynjsVtofjRpdpRAJGk,Dimitri Vegas & Like Mike,3572287,"big room, electronica, edm, electro",75,2,2020,2024,5,BE,Willebroek
+6dXL3SnQlCGX9LCUAyin6a,Stereoact,170362,"schlager, schlagerparty, german pop",64,5,2016,2022,7,DE,
+2SabhGDiBSyaM6QSuBUVqB,Noizy,777783,german hip hop,69,5,2011,2023,13,,Albania
+6TIYQ3jFPwQSRmorSezPxX,mgk,5515070,,79,12,2012,2024,13,US,Houston
+0NGAZxHanS9e0iNHpR8f2W,Alok,11270287,"brazilian bass, electronic, slap house, electro house",79,4,2022,2024,3,BR,Goiânia
+3ebS2RuCq8QeLyndUDmgB5,WizTheMc,121961,,76,5,2018,2022,5,,
+1U1el3k54VvEUzo3ybLPlM,Kali Uchis,8750723,,87,7,2015,2024,10,US,Alexandria
+4nDoRrQiYLoBzwC5BhVJzF,Camila Cabello,34857514,,82,5,2018,2024,7,US,Cojímar
+2RdwBSPQiwcmiDo9kixcl8,Pharrell Williams,5152496,,82,5,2006,2024,19,US,Virginia Beach
+3wcj11K77LjEY1PkEazffa,Burna Boy,12183763,"afrobeats, afrobeat, afropop, afroswing, dancehall, afropiano",81,8,2013,2023,11,NG,Port Harcourt
+4GNC7GD6oZMSxPGyXy4MNB,Lewis Capaldi,13426500,soft pop,80,4,2019,2024,6,GB,Glasgow
+23zg3TcAtWQy7J6upgbUnj,USHER,13131537,r&b,83,15,1994,2024,31,US,Dallas
+33ScadVnbm2X8kkUqOkC6Z,Don Omar,14520002,"reggaeton, urbano latino",86,12,2003,2024,22,PR,San Juan
+5Yo5iU2nf4H41waPl4ZnS1,LEA,1519814,"german pop, german hip hop",66,10,2016,2024,9,DE,Kassel
+2sSGPbdZJkaSE2AbcGOACx,The Marías,2634374,bedroom pop,86,2,2021,2024,4,GB,Liverpool
+7o95ZoZt5ZYn31e9z1Hc0a,Natasha Bedingfield,1866032,,76,5,2004,2019,16,GB,Haywards Heath
+64M6ah0SkkRsnPGtGiRAbb,Bebe Rexha,9597681,,80,3,2018,2023,6,US,New York
+2HkAI0YrEcgoR8QdaURqhO,Dimitri Vegas,376766,,73,1,2024,2024,1,UA,Kremenchuk
+1l7ZsJRRS8wlW3WfJfPfNS,Christina Aguilera,8924189,,80,11,1999,2022,24,US,Staten Island
+1C5jQlkf0TrFu6rmHZp2X5,Senidah,364137,,60,4,2019,2025,7,SI,Ljubljana
+6rqlONGmPuP2wJVSfliLBI,Peter Fox,1069250,german pop,65,3,2008,2023,16,AT,Wien
+2LRoIwlKmHjgvigdNGBHNo,Feid,17083469,"reggaeton, urbano latino",90,10,2017,2024,8,CO,Medellín
+0fA0VVWsXO9YnASrzqfmYu,Kid Cudi,7507734,,81,14,2009,2024,16,US,Cleveland
+6ydoSd3N2mwgwBHtF6K7eX,Calum Scott,5942867,soft pop,76,3,2018,2022,5,GB,Kingston upon Hull
+163tK9Wjr9P9DmM0AVK7lm,Lorde,10269613,,80,4,2013,2021,9,NZ,Takapuna
+5he5w2lnU9x7JFhnwcekXX,Skrillex,7746221,"dubstep, edm, electro, electronic",81,6,2010,2025,16,US,Los Angeles
+6FBDaR13swtiWwGhX1WQsP,blink-182,8972833,"pop punk, punk, emo pop, rock, skate punk, emo",79,13,1994,2024,31,US,Poway
+2jku7tDXc6XoB6MO2hFuqg,Tory Lanez,7682468,,83,14,2016,2025,10,CA,Brampton
+0qT79UgT5tY4yudH9VfsdT,Sum 41,4180135,"pop punk, punk, skate punk",74,11,2000,2024,25,CA,Ajax
+1iCnM8foFssWlPRLfAbIwo,Gigi Perez,1127748,,80,1,2025,2025,1,IT,Torino
+5j4HeCoUlzhfWtjAfM1acR,Stromae,3740678,french pop,78,3,2010,2022,13,BE,Etterbeek
+4UXqAaa6dQYAk18Lv7PEgX,Fall Out Boy,11245660,"emo, pop punk, emo pop",81,13,2003,2023,21,US,Wilmette
+3Z02hBLubJxuFJfhacLSDc,Bryan Adams,4350936,,78,25,1984,2023,40,CA,Kingston
+0SfsnGyD8FpIN4U4WCkBZ5,Armin van Buuren,4535420,"trance, progressive house, electronica, edm",77,25,2008,2025,18,NL,Leiden
+5LHRHt1k9lMyONurDHEdrp,Tyga,7193214,,80,20,2012,2025,14,US,Compton
+2ysnwxxNtSgbb9t1m2Ur4j,George Ezra,4301344,,75,3,2014,2022,9,GB,Halle (Saale)
+2DlGxzQSjYe5N6G9nkYghR,Jennifer Lopez,13541944,,78,15,1999,2024,26,US,The Bronx
+6Tz0QRoe083BcOo2YbG9lV,Nena,515682,"neue deutsche welle, schlager, german pop",65,25,1983,2024,42,DE,Hagen
+1zNqDE7qDGCsyzJwohVaoX,Anne-Marie,12445945,,78,4,2018,2023,6,GB,Essex
+4AlPM4fME9Zlju99rXyaQE,Alexander Eder,283258,"german pop, schlager",60,2,2020,2023,4,AT,Wien
+61J0BktHv7PuP3tjTPYXSX,Eros Ramazzotti,2404570,italo dance,71,25,2012,2022,11,IT,Roma
+6mDl7lQiLxT0iQ8LYhAlWy,Zerb,144649,afro house,74,0,,,,BR,São Paulo
+1Xylc3o4UrD53lo9CvFvVg,Zara Larsson,10708244,,77,6,2014,2024,11,SE,Solna municipality
+0p4nmQO2msCgU4IF37Wi3j,Avril Lavigne,11680044,,78,9,2002,2022,21,CA,Belleville
+4ScCswdRlyA23odg9thgIO,Jess Glynne,3117817,,76,3,2015,2024,10,GB,Muswell Hill
+3y2cIKLjiOlp1Np37WiUdH,Shaboozey,1133788,,80,4,2018,2025,8,US,Fairfax
+6cEuCEZu7PAE9ZSzLLc2oQ,R3HAB,2596273,"slap house, edm",74,2,2017,2018,2,NL,Breda
+738wLrAtLtCtFOLvQBXOXp,Major Lazer,6279017,moombahton,77,15,2009,2024,16,JM,Los Angeles
+3pOnFT5MHIqIe9kcFCznZ8,CIVO,86634,"german hip hop, german pop",62,0,,,,DE,
+2LIk90788K0zvyj2JJVwkJ,Jack Harlow,4178027,,81,8,2016,2023,8,US,Louisville
+4AKwRarlmsUlLjIwt38NLw,Ofenbach,664635,,72,1,2022,2022,1,FR,Paris
+7EQ0qTo7fWT7DPxmxtSYEc,Bastille,5658242,,75,15,2013,2024,12,GB,London
+540vIaP2JwjQb9dm3aArA4,DJ Snake,9103206,,80,3,2016,2020,5,FR,Paris
+6XpaIBNiVzIetEPCWDvAFP,Whitney Houston,11108897,,79,15,1985,2024,40,US,Newark
+7qG3b048QCHVRO5Pv1T5lw,Enrique Iglesias,11631084,"latin pop, latin",80,14,1995,2024,30,ES,Madrid
+2urF8dgLVfDjunO0pcHUEe,Alvaro Soler,1786148,,68,3,2016,2021,6,ES,Barcelona
+5y8tKLUfMvliMe8IKamR32,d4vd,3843267,,83,1,2025,2025,1,US,Queens
+5fMUXHkw8R8eOP2RNVYEZX,Diplo,2774498,moombahton,79,14,2004,2024,21,US,Tupelo
+3DiDSECUqqY1AuBP8qtaIa,Alicia Keys,12544584,"r&b, neo soul",80,25,2001,2024,24,US,Manhattan
+60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,15190266,"edm, electronica, progressive house",78,1,2022,2022,1,NL,Amstelveen
+5ISjkNS17JpCwiFtW80lpV,Seeed,930105,german pop,61,8,2000,2019,20,DE,Berlin
+0xliTEbFfy5HQHvsTknTkX,Alphaville,1005319,synthpop,74,16,1984,2024,41,DE,Münster
+3hv9jJF3adDNsBSIQDqcjp,Mark Ronson,1221930,,78,8,2003,2023,21,GB,St John's Wood
+2SHhfs4BiDxGQ3oxqf0UHY,Roxette,2598806,,76,20,1986,2024,39,SE,Halmstad
+12xme1fwd3iGEW7rF9b6tp,Wincent Weiss,1372590,german pop,63,8,2017,2024,8,DE,Eutin
+2F8GvYuY0lfZNYu45dY6gJ,Die Toten Hosen,1570370,"german pop, neue deutsche welle",63,25,1994,2024,31,DE,Düsseldorf
+4LEiUm1SRbFMgfqnQTwUbQ,Bon Iver,3860426,indie folk,80,6,2008,2025,18,US,Eau Claire
+10exVja0key0uqUkk6LJRT,Vance Joy,3354434,folk pop,77,6,2014,2023,10,AU,Melbourne
+3gemH8D6fpu12DmTmUZYAL,Culcha Candela,422710,german pop,62,16,2004,2024,21,DE,
+3hcs9uc56yIGFCSy9leWe7,Lil Durk,8865608,drill,83,25,2014,2025,12,US,Chicago
+5bQ3wFgekuIMIcWJuxkqLK,Chrystal,42184,,74,3,2014,2023,10,GB,United Kingdom
+2ErWLckuGFl84nGmg5fwyG,Bilderbuch,253641,german pop,51,9,2009,2024,16,AT,Kremsmünster
+2mpeljBig2IXLXRAFO9AAs,Dido,2032384,,76,7,1999,2020,22,GB,London
+4DdkRBBYG6Yk9Ka8tdJ9BW,Offset,5174137,,79,3,2017,2023,7,US,Lawrenceville
+11p2E654TTU8e0nZWBR4AL,Mark Ambor,619282,,73,1,2024,2024,1,GB,Glasgow
+7FNnA9vBm6EKceENgCGRMb,Anitta,13107974,"brazilian pop, funk pop, funk carioca, funk, pagode baiano",83,9,2013,2024,12,BR,Rio de Janeiro
+3fgh28NoU2ArVdUdymvnf3,Matthias Reim,545945,"schlager, schlagerparty, neue deutsche welle",62,25,2005,2024,20,DE,Korbach
+5L1lO4eRHmJ7a0Q6csE5cT,LISA,11541322,k-pop,83,1,2025,2025,1,JP,Seki
+5tG5dl5mS2wB5w72YBpsyg,Herbert Grönemeyer,926559,"neue deutsche welle, german pop, schlager",62,25,1988,2024,37,DE,Göttingen
+6MDME20pz9RveH9rEXvrOM,Clean Bandit,5812424,,77,2,2014,2018,5,GB,Cambridge
+3FUY2gzHeIiaesXtOAdB7A,Train,4470295,soft pop,76,14,1998,2024,27,US,San Francisco
+7hQmAXAzWI6D350VTgkKTG,Arash,282448,afro house,73,5,2005,2014,10,SE,Tehran
+1h6Cn3P4NGzXbaXidqURXs,Swedish House Mafia,3915281,edm,77,3,2012,2023,12,SE,Stockholm
+14TEYMEi0fP11kg3JltB1Z,Chris Steger,41719,"schlager, german pop",46,2,2021,2023,3,GB,Middlesbrough
+29JWo79GMywsGJ5lY8HrCc,Pietro Basile,29896,"schlager, german pop",56,1,2023,2023,1,DE,München
+6AyATGg7mDgBlZ4N5uNog0,SYML,904648,,74,4,2019,2025,7,US,Issaquah
+5rSXSAkZ67PYJSvpUpkOr7,Backstreet Boys,6307426,,78,13,1996,2022,27,US,Orlando
+6MF9fzBmfXghAz953czmBC,Taio Cruz,2330317,,72,4,2008,2011,4,GB,Brent
+3rZBkgoRHG8M9jQL0QPNMi,Adel Tawil,400931,german pop,62,14,2005,2023,19,DE,Berlin
+3ipn9JLAPI5GUEo4y4jcoi,Ludacris,3294652,southern hip hop,80,10,2000,2015,16,US,Champaign
+6S2OmqARrzebs0tKUEyXyp,Demi Lovato,27141307,,78,16,2008,2023,16,US,Albuquerque
+6CwfuxIqcltXDGjfZsMd9A,MARINA,5979847,,76,9,2009,2022,14,,Brynmawr
+7qXzy6c5RWT0XlVQcOBIDG,Mark Forster,2991123,german pop,61,8,2012,2023,12,DE,Kaiserslautern
+46pWGuE3dSwY3bMMXGBvVS,Rema,7111641,"afrobeats, afrobeat, afropop, afropiano",79,3,2022,2024,3,NG,Nigeria
+1HBjj22wzbscIZ9sEb5dyf,Jonas Blue,3838960,tropical house,75,1,2018,2018,1,GB,London
+2WX2uTcsvV5OnS0inACecP,Birdy,3752701,,72,9,2011,2023,13,GB,Lymington
+6USv9qhCn6zfxlBQIYJ9qs,Dominic Fike,2090854,,80,4,2018,2024,7,,Naples
+3uV7fmwEFZqp3mp2gTDB5s,Ceca,526972,,58,13,1988,2021,34,RS,Toplički okrug
+6JL8zeS1NmiOftqZTRgdTz,Meghan Trainor,15713468,,78,14,2015,2025,11,US,Nantucket
+4AVFqumd2ogHFlRbKIjp1t,Alesso,4014155,edm,76,1,2015,2015,1,SE,Stockholm
+2feDdbD5araYcm6JhFHHw7,Labrinth,3504574,,77,7,2012,2024,13,GB,Hackney
+041iTeoMIwXMlShuQPIVKo,Klangkarussell,434120,,65,1,2014,2014,1,AT,
+5Rl15oVamLq7FbSb0NNBNy,5 Seconds of Summer,10326129,,78,10,2014,2023,10,AU,Sydney
+4Uc8Dsxct0oMqx0P6i60ea,Conan Gray,11632499,,81,4,2020,2025,6,US,Lemon Grove
+3aQeKQSyrW4qWr35idm0cy,T-Pain,5435791,,81,13,2005,2024,20,US,Tallahassee
+5t5FqBwTcgKTaWmfEbwQY9,ENHYPEN,11534124,k-pop,81,6,2021,2024,4,KR,Seoul
+4WN5naL3ofxrVBgFpguzKo,Rudimental,1404779,,72,7,2013,2021,9,GB,Hackney
+1WgXqy2Dd70QQOU7Ay074N,AURORA,4373009,"norwegian pop, art pop",77,7,2016,2024,9,NO,Stavanger
+6yTYR09WCvsgdnurDW4WQo,DJ Antoine,465459,,65,15,2008,2019,12,CH,Sissach
+7t0rwkOPGlDPEhaOcVtOt9,The Cranberries,5004358,,78,20,1993,2025,33,IE,Limerick
+7nDsS0l5ZAzMedVRKPP8F1,Ella Henderson,1647988,,73,3,2014,2022,9,US,Newport News
+6Vg9ZTblAIMeOiRCgyzJzO,Tom Twers,129930,german pop,61,0,,,,,Pontypridd
+4D75GcNG95ebPtNvoNVXhz,AFROJACK,4009198,"edm, big room",76,4,2010,2022,13,NL,Spijkenisse
+5BcAKTbp20cv7tC5VqPFoC,Macklemore & Ryan Lewis,2675608,,74,4,2012,2016,5,US,Seattle
+2w9zwq3AktTeYYMuhMjju8,INNA,1436650,europop,72,13,2010,2024,15,RO,Constanța
+4Q6nIcaBED8qUel8bBx6Cr,Jax Jones,1231025,,73,2,2019,2019,1,US,Saratoga
+7e52Ytzjj1q71DUj2cSlch,Sarah Connor,1211704,"german pop, christmas",61,19,2001,2023,23,DE,Delmenhorst
+1CcZoULzFHa8Uhwo6OlQcp,Semicenk,5121289,"turkish pop, arabesk, turkish hip hop",75,0,,,,TR,
+0xRXCcSX89eobfrshSVdyu,MEDUZA,903755,,74,1,2023,2023,1,SE,Gothenburg
+74XFHRwlV6OrjEM0A2NCMF,Paramore,9349065,"pop punk, emo, emo pop",82,9,2005,2023,19,US,Franklin
+1oSPZhvZMIrWW5I41kPkkY,Jimin,10108024,k-pop,83,3,2024,2024,1,KR,Busan
+47zz7sob9NUcODy0BTDvKx,Sade,4680676,,78,8,1984,2012,29,GB,London
+35l9BRT7MXmM8bv2WDQiyB,beabadoobee,5636433,bedroom pop,83,8,2018,2024,7,,Iloilo City
+33NVpKoXjItPwUJTMZIOiY,David Kushner,2630301,,75,3,2022,2025,4,,Brixton
+3AQRLZ9PuTAozP28Skbq8V,The Script,8587160,,78,7,2008,2024,17,GB,Liverpool
+2Kx7MNY7cI1ENniW7vT30N,Norah Jones,3303456,,74,18,2002,2024,23,US,Bedford–Stuyvesant
+085pc2PYOi8bGKj0PNjekA,will.i.am,4357417,,76,7,2001,2013,13,US,Boyle Heights
+4EPJlUEBy49EX1wuFOvtjK,Becky Hill,900076,,74,4,2019,2024,6,GB,Bewdley
+6vXTefBL93Dj5IqAWq6OTv,French Montana,5701136,,77,25,2011,2024,14,US,Rabat
+4SpbR6yFEvexJuaBpgAU5p,LE SSERAFIM,6996305,k-pop,82,2,2023,2024,2,KR,Seoul
+0MZ55DwuMQ1B2TXq9lcrE4,Kraftklub,854240,german pop,60,6,2012,2022,11,DE,Chemnitz
+4r63FhuTkUYltbVAg5TQnk,DaBaby,12611003,,80,12,2016,2024,9,US,Cleveland
+45wdSLZd70phdDkxlA5D3v,SOPHIA,122700,german pop,60,2,2023,2024,2,JP,
+20JZFwl6HVl6yg8a4H3ZqK,Panic! At The Disco,12594191,emo,78,9,2005,2022,18,US,Las Vegas
+0JLbfIT1Z20raMAVYWtCD7,Wolfgang Petry,398222,"schlager, schlagerparty, neue deutsche welle",60,25,2003,2023,21,DE,Köln
+3XHO7cRUPCLOr6jwp8vsx5,alt-J,3400064,"indie, indie rock",71,10,2012,2023,12,GB,Yate
+5p9HO3XC5P3BLxJs5Mtrhm,Djo,1973569,psychedelic pop,78,3,2019,2025,7,US,Newburyport
+6t7U7sYlVCtlMWzbecJcHd,Dhurata Dora,474440,,63,1,2023,2023,1,,Germany
+4kYSro6naA4h99UJvo89HB,Cardi B,25267435,,81,3,2016,2018,3,US,The Bronx
+5BwOOeKayeMZXa5SSaiRxv,Ricchi E Poveri,277390,"italo dance, italo disco",66,25,1970,2024,55,IT,Genova
+3tVQdUvClmAT7URs9V3rsp,Wizkid,7741187,"afrobeats, afrobeat, afropop, azonto, afroswing, afropiano, dancehall",80,7,2011,2024,14,NG,Lagos
+277dytbjtOXNnvRXf7Dyyv,KATI K,106018,"german pop, german hip hop",60,1,2024,2024,1,GB,Yate
+5Cj0xJrG2k8TPOJQ1vdAmZ,Tayna,288939,afro house,65,1,2023,2023,1,XK,Prizren
+49jnuRVkvqT093caXQnJBw,Kasi,59929,german pop,60,2,2023,2024,2,,
+0iFq8SzyZaaQ2Fn6CLDxqW,Clueso,570273,german pop,61,16,2001,2022,22,DE,Erfurt
+5EvFsr3kj42KNv97ZEnqij,Shaggy,2380702,reggae,75,23,1993,2025,33,JM,Kingston
+6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,24447346,"soft pop, pop",80,5,2015,2022,8,US,Janesville
+3A9B6c1CrSPauiOblw7pWz,Nico Santos,699317,,60,5,2018,2023,6,DE,Bremen
+0Ty63ceoRnnJKVEYP0VQpk,Sting,3682196,soft rock,74,25,2001,2025,25,,Wallsend
+2gsggkzM5R49q6jpPvazou,Jessie J,12049067,,74,6,2011,2018,8,GB,Yate
+7pwufEBGfggjoI8twqlsmQ,Nessa Barrett,1599445,,75,4,2022,2025,4,US,Atlantic County
+3BmGtnKgCSGYIUhmivXKWX,Kelly Clarkson,10806689,christmas,75,13,2003,2024,22,US,Fort Worth
+21H6paZGGR6dQpVmAqbdzV,1986zig,219754,"german pop, german hip hop",62,2,2022,2024,3,DE,
+7gOdHgIoIKoe4i9Tta6qdD,Jonas Brothers,7715015,,77,7,2007,2023,17,US,Wyckoff
+41MozSoPIsD1dJM0CLPjZF,BLACKPINK,53639185,k-pop,80,7,2018,2022,5,KR,Seoul
+5ZsFI1h6hIdQRw2ti0hz81,ZAYN,23743335,,78,5,2016,2024,9,,Bradford
+5IH6FPUwQTxPSXurCrcIov,Alec Benjamin,5452244,,75,5,2018,2024,7,GB,Lowestoft
+5KNNVgR6LBIABRIomyCwKJ,Dermot Kennedy,1619023,,72,4,2019,2023,5,IE,Tallaght
+21aa4pj9BvbFB2iT8kRpnq,Michael Schulte,341477,,63,13,2011,2023,13,US,Gary
+4S9EykWXhStSc15wEx8QFK,Céline Dion,9744070,variété française,78,25,1994,2024,31,CA,Charlemagne
+5zixe6AbgXPqt4c1uSl94L,Connor Price,1646110,,75,3,2023,2024,2,,Toronto
+7FBcuc1gsnv6Y1nwFtNRCb,My Chemical Romance,9660205,"emo, pop punk, emo pop",80,8,2002,2016,15,US,Newark
+3l0CmX0FuQjFxr8SK7Vqag,Clairo,6001540,bedroom pop,82,3,2019,2024,6,US,Atlanta
+6quRLJ5SiWHgcVMoE9TEJj,Andreas Bourani,649562,german pop,58,3,2014,2015,2,DE,Augsburg
+77AiFEVeAVj2ORpC85QVJs,Steve Aoki,3809725,"electro house, edm",73,19,2010,2025,16,US,Miami
+1Hsdzj7Dlq2I7tHP7501T4,Niall Horan,10228233,,76,9,2017,2025,9,IE,Mullingar
+6mEQK9m2krja6X1cfsAjfl,Ado,5922442,"j-pop, anime, vocaloid, j-rock",78,6,2022,2025,4,JP,Tokyo
+4lhUHpVOXmkEBGGHV71QCh,Chance Peña,500024,,73,1,2024,2024,1,US,Tyler
+1FXdfOOisB3d3hfZOjhjID,Esther Graf,57464,german pop,58,2,2023,2024,2,AT,Spittal an der Drau
+3m5qlPf2OkihLz3dRYnkPA,Ovy On The Drums,1117032,reggaeton,85,0,,,,CO,
+5lwmRuXgjX8xIwlnauTZIP,Romeo Santos,25119551,"bachata, bachata pop, latin",85,8,2012,2022,11,US,The Bronx
+4yvcSjfu4PC0CYQyLy4wSq,Glass Animals,4451858,,77,9,2014,2024,11,GB,Oxford
+1r1uxoy19fzMxunt3ONAkG,Phoebe Bridgers,2812792,,79,3,2017,2020,4,US,Pasadena
+5PwcOudItUhq3ciF9QwaXZ,Sportfreunde Stiller,444767,german pop,57,10,2000,2022,23,DE,Germering
+2EXpthNgSeTDeX8nGwxppp,Paris Paloma,664614,,72,1,2024,2024,1,GB,Ashbourne
+00x1fYSGhdqScXBRpSj3DW,Olivia Dean,641185,pop soul,74,2,2023,2024,2,US,Steubenville
+2W8yFh0Ga6Yf3jiayVxwkE,Dove Cameron,5441101,,74,1,2023,2023,1,US,Bainbridge Island
+4NHQUGzhtTLFvgF5SZesLK,Tove Lo,3679351,,75,10,2014,2024,11,SE,Stockholm
+2sil8z5kiy4r76CRTXxBCA,The Goo Goo Dolls,3187985,,77,25,1989,2025,37,US,Buffalo
+6V6mxrGG67IyLFy2l4poNZ,Dafina Zeqiri,401537,,62,3,2021,2024,4,SE,Albania
+56Qz2XwGj7FxnNKrfkWjnb,FAST BOY,52637,,67,0,,,,,
+63yrD80RY3RNEM2YDpUpO8,Melanie Martinez,22032984,,79,5,2015,2023,9,US,Astoria
+0b1sIQumIAsNbqAoIClSpy,j-hope,18403276,"k-pop, k-rap",82,3,2018,2023,6,GB,Yate
+3oo88ul6DPnYZwZG4CZBTY,Butrint Imeri,434346,,62,1,2020,2020,1,AL,
+2cFrymmkijnjDg9SS92EPM,blackbear,5034520,,75,7,2015,2022,8,US,Daytona Beach
+78rUTD7y6Cy67W1RVzYs7t,PinkPantheress,4069463,bedroom pop,78,3,2021,2023,3,,Bath
+7oaSITFPadI3fnIxbv7hTa,Philipp Dittberner,180645,german pop,59,3,2015,2024,10,DE,Magdeburg
+3NPpFNZtSTHheNBaWC82rB,X Ambassadors,3077270,,72,7,2013,2024,12,US,Brooklyn
+17lzZA2AlOHwCwFALHttmp,2 Chainz,8227280,"southern hip hop, rap",78,25,2010,2025,16,US,College Park
+4KivBMgSnZ7hCDfPm46fKc,Jan Delay,355072,"german pop, german hip hop",59,9,2001,2022,22,DE,Hamburg
+4NiJW4q9ichVqL1aUsgGAN,A Day To Remember,2475583,"metalcore, post-hardcore, pop punk, screamo, emo, emo pop",73,12,2005,2025,21,US,Ocala
+4OBJLual30L7gRl5UkeRcT,T.I.,5044422,southern hip hop,78,22,2001,2020,20,US,Atlanta
+3WGpXCj9YhhfX11TToZcXP,Troye Sivan,9168080,,78,4,2015,2023,9,AU,Johannesburg
+2nacZFQ7nlwSw4RpsZlbpP,Rosenstolz,308761,"german pop, neue deutsche welle",60,20,1992,2025,34,DE,Berlin
+6L5bLEtpxwd0KOdOr3gtW4,MiyaGi & Endspiel,3226545,,66,4,2016,2024,9,US,Harlem
+72OaDtakiy6yFqkt4TsiFt,Cher,3643688,,72,25,1969,2024,56,US,El Centro
+6HaGTQPmzraVmaVxvz6EUc,Jung Kook,17506775,k-pop,83,2,2023,2023,1,KR,Busan
+5CCwRZC6euC8Odo6y9X8jr,Rita Ora,8444068,,72,3,2012,2023,12,GB,Pristina
+7ltDVBr6mKbRvohxheJ9h1,ROSALÍA,8474721,latin,78,4,2017,2022,6,ES,Sant Esteve Sesrovires
+0k70gnDBLPirCltbTzoxuM,Faber,245144,german pop,56,5,2017,2024,8,SE,Stockholm
+0pOruKWwgyqSLZhn4Xovs9,Ardian Bujupi,217322,german hip hop,59,7,2015,2024,10,DE,Pristina
+181bsRPaVXVlUKXrxwZfHK,Megan Thee Stallion,10361947,,81,11,2017,2024,8,US,San Antonio
+1yq9UuPp5DIb5w6eswGbKV,Adriano Celentano,943417,"italo dance, italian singer-songwriter",63,25,2007,2019,13,IT,Milano
+4iHNK0tOyZPYnBU7nGAgpQ,Mariah Carey,11340379,christmas,80,22,1990,2024,35,US,Huntington
+67nwj3Y5sZQLl72VNUHEYE,Wale,4204030,,76,17,2008,2022,15,US,"Washington, D.C."
+2KftmGt9sk1yLjsAoloC3M,Zucchero,1119499,"italo dance, italian singer-songwriter",65,25,1992,2025,34,IT,Roncocesi
+19ra5tSw0tWufvUp8GotLo,George Michael,5374361,,75,9,1987,2022,36,GB,Halle (Saale)
+0FEJqmeLRzsXj8hgcZaAyB,Indila,2343373,french pop,72,2,2014,2014,1,FR,Paris
+0zOcE3mg9nS6l3yxt1Y0bK,The Fray,4215781,,76,5,2005,2014,10,GB,Liverpool
+19k8AgwwTSxeaxkOuCQEJs,Jelly Roll,5349012,"country hip hop, country",82,25,2011,2024,14,US,New Orleans
+46aNfN89JrOQTCy97GoCHa,Tokio Hotel,1201054,,65,14,2006,2022,17,DE,Magdeburg
+3NH8t45zOTqzlZgBvZRjvB,PNL,9426996,pop urbaine,74,4,2015,2019,5,FR,Corbeil-Essonnes
+32vWCbZh0xZ4o9gkz4PsEU,Dolly Parton,2827570,country,74,25,1999,2024,26,US,Locust Ridge
+6oMuImdp5ZcFhWP0ESe6mG,Migos,14400376,trap,77,15,2011,2021,11,US,Lawrenceville
+7vXDAI8JwjW531ouMGbfcp,TINI,8880857,latin pop,80,7,2016,2024,9,AR,Buenos Aires
+7keGfmQR4X5w0two1xKZ7d,Kungs,972335,,71,2,2016,2022,7,FR,Aix-en-Provence
+3oDbviiivRWhXwIE8hxkVV,The Beach Boys,4861344,baroque pop,73,25,1978,2024,47,US,Hawthorne
+2Im8m4STDBosjfmb5hmP80,Loredana,1090257,german hip hop,58,5,2019,2023,5,IT,Bagnara Calabra
+55fhWPvDiMpLnE4ZzNXZyW,Noah Cyrus,1752194,,74,3,2020,2022,3,US,Nashville
+4EzkuveR9pLvDVFNx6foYD,James Bay,4090839,,72,6,2015,2024,10,US,Barnwell
+4yiQZ8tQPux8cPriYMWUFP,Gwen Stefani,6847637,,76,10,2004,2025,22,US,Fullerton
+5y2Xq6xcjJb2jVM54GHK3t,John Legend,7679675,"soft pop, neo soul",77,18,2003,2024,22,US,Springfield
+5ZYOlPpI9FZu2uIPkTB0UA,CÉLINE,283026,"german hip hop, german pop",59,4,2020,2025,6,CA,Charlemagne
+6HQ6vf4AloXyVNdyJhrX1J,GAMPER & DADONI,157436,tropical house,66,1,2024,2024,1,DE,Hamburg
+1GxkXlMwML1oSg5eLPiAz3,Michael Bublé,6807988,christmas,75,18,2003,2022,20,CA,Burnaby
+47RPLpnGhBRTjQrRBOev9s,Xavier Naidoo,503853,german pop,60,18,2002,2019,18,DE,Mannheim
+6sFIWsNpZYqfjUpaCgueju,Carly Rae Jepsen,5088977,,73,8,2008,2023,16,CA,Mission
+6Dd3NScHWwnW6obMFbl1BH,Daya,1772026,,74,1,2016,2016,1,US,Pittsburgh
+6wlhqnATSJIc0NQ64VxOVJ,Matt Hansen,650942,,72,0,,,,GB,
+3nDNDLcZuSto4k9u4AbcLB,Marteria,852311,"german hip hop, german pop",59,10,2007,2021,15,DE,Rostock
+68KmkJeZGfwe1OUaivBa2L,ATEEZ,4782773,k-pop,75,9,2019,2023,5,KR,Seoul
+13y7CgLHjMVRMDqxdx0Xdo,Gucci Mane,5859199,"southern hip hop, rap, trap",78,25,2016,2024,9,US,Bessemer
+6BrvowZBreEkXzJQMpL174,Hardwell,3665579,"big room, edm, progressive house, electronica",69,10,2012,2022,11,NL,Breda
+2wUjUUtkb5lvLKcGKsKqsR,Alessia Cara,12106843,,75,6,2015,2025,11,CA,Mississauga
+0GgY7hjMoGDsX8ZDe2mwds,Soolking,5946705,pop urbaine,73,5,2018,2025,8,DZ,Alger
+2TiXt00aPsggbxZxL1RaG7,KUMMER,235816,"german hip hop, german pop",57,2,2019,2023,5,,
+0c173mlxpT3dSFRgMO8XPh,Big Sean,11434679,,78,14,2011,2024,14,US,Santa Monica
+0tmwSHipWxN12fsoLcFU3B,Manuel Turizo,14973451,"reggaeton, pop urbano, latin, colombian pop",84,4,2019,2024,6,CO,Córdoba
+3e7awlrlDSwF3iM0WBjGMp,Little Mix,12257941,,75,14,2012,2021,10,,London
+4OtcoXGM3abQUnErfCczaj,Kidda,127843,,59,0,,,,GB,
+2fsk4VlJdNF6G8cCMDrrzB,Norma Jean Martine,27933,,68,1,2016,2016,1,GB,
+6U3ybJ9UHNKEdsH7ktGBZ7,JID,2048704,,77,5,2017,2022,6,US,Atlanta
+3Xt3RrJMFv5SZkCfUE8C1J,Kim Petras,1160364,,73,7,2018,2024,7,US,Köln
+5gCRApTajqwbnHHPbr2Fpi,Juicy J,3273650,"memphis rap, crunk",75,25,2015,2024,10,GB,Yate
+4mrBetqy378Jf1y6NLszlx,VINAI,501819,"melbourne bounce, slap house, big room",67,0,,,,,Brescia
+2NjfBq1NflQcKSeiDooVjY,Tones And I,2974668,,70,3,2021,2024,4,AU,Shire of Mornington Peninsula
+6DgP9otnZw5z6daOntINxp,Joel Corry,455377,dance pop,71,1,2023,2023,1,,London
+5wCmhq5J2hPwL2r0eKurxn,cassö,84524,hypertechno,68,0,,,,GB,
+1GVuCyb4PlArufUZDUnRQi,southstar,142288,"hypertechno, techno",64,0,,,,DE,
+2qxJFvFYMEDqd7ui6kSAcq,Zedd,6077458,edm,77,4,2012,2024,13,DE,Saratov
+34v5MVKeQnIo0CWYMbbrPf,John Newman,806155,,71,4,2013,2015,3,US,Flushing
+1ruutHJcECI7cos2n5TqpO,Nayer,32232,latin dance,72,0,,,,US,New Jersey
+0SD4eZCN4Kr0wQk56hCdh2,Bonnie Tyler,2264517,,70,24,1977,2024,48,GB,Skewen
+6DIS6PRrLS3wbnZsf7vYic,WALK THE MOON,2201204,,71,8,2012,2023,12,US,Cincinnati
+4hK7sEnm0se5bqoI3Yb5o1,SANTOS,49236,"german hip hop, german pop",59,0,,,,BR,Rio de Janeiro
+7sfl4Xt5KmfyDs2T3SVSMK,Lil Jon,1657059,crunk,76,5,1999,2024,26,US,New Orleans
+5ndkK3dpZLKtBklKjxNQwT,B.o.B,2208986,,75,25,2009,2024,16,US,Duluth
+0860MVRZC3Llgf1mFvnd1R,NESS,54308,german pop,55,1,2022,2022,1,,
+3MZsBdqDrRTJihTHQrO6Dq,Joji,10194794,,80,4,2018,2022,5,US,Osaka
+0bdfiayQAKewqEvaU6rXCv,MØ,1467734,,73,6,2014,2024,11,DK,Odense
+2jzc5TC5TVFLXQlBNiIUzE,a-ha,2687760,"new wave, synthpop",74,20,1985,2022,38,NO,Oslo
+1z7b1Pr1rSlvWRzsW3HOrS,Russ,5363819,,76,16,2011,2023,13,US,Secaucus
+23TFHmajVfBtlRx5MXqgoz,Sfera Ebbasta,6976784,"italian trap, trap",83,7,2015,2025,11,IT,Sesto San Giovanni
+4RVnAU35WRWra6OZ3CbbMA,Kylie Minogue,2179225,dance pop,74,25,1998,2024,27,AU,Melbourne
+7ACEUD7UsmmXrnj4OLt8f9,twocolors,117986,,66,0,,,,,
+0jIWKlfmD4Ew7HeVVrq03g,Elyanna,306630,,72,2,2022,2024,3,PS,Nazareth
+4dwdTW1Lfiq0cM8nBAqIIz,Of Monsters and Men,3590147,"folk pop, indie folk",70,7,2012,2022,11,IS,Keflavík
+08GfvCW09pv2QP4y9sle2a,Sam Barber,670912,country,78,1,2024,2024,1,US,Clarksdale
+0ZED1XzwlLHW4ZaG4lOT6m,Julia Michaels,5203210,,74,25,2023,2024,2,US,Davenport
+03d2mJXSMtuPI0nIvLnhoS,Zoe Wees,536658,,66,1,2023,2023,1,DE,Hamburg
+2siHvYaxjaW5rKVRiIrMYH,Anastacia,425750,,64,18,1999,2025,27,US,Chicago
+2qI59HaiEtvev8vnUkmRpT,Yll Limani,262368,,60,4,2019,2025,7,XK,Kosovo
+2AsusXITU8P25dlRNhcAbG,Gotye,2265943,,73,2,2008,2011,4,AU,Brugge
+7zAAwgV5Wqmvpb4GzvlRkP,Jazzy,102570,,72,0,,,,MX,
+4V8Sr092TqfHkfAA5fXXqG,Luis Fonsi,10823430,latin,76,16,1998,2024,27,PR,San Juan
+5ksRONqssB7BR161NTtJAm,Ace of Base,1007325,"eurodance, europop",71,8,1992,2011,20,SE,Gothenburg
+00w9sdZ78mWArooTmiSTld,Umberto Tozzi,417385,"italo dance, italian singer-songwriter",62,25,1976,2024,49,IT,Torino
+3uwAm6vQy7kWPS2bciKWx9,girl in red,8269629,bedroom pop,74,2,2021,2024,4,NO,Horten
+6PXS4YHDkKvl1wkIl4V8DL,Fetty Wap,5029917,,77,8,2015,2023,9,US,Paterson
+6hk7Yq1DU9QcCCrz9uc0Ti,Kimbra,460536,,73,8,2011,2024,14,US,Hamilton
+5rGrDvrLOV2VV8SCFVGWlj,Imanbek,266914,slap house,70,0,,,,,Kazakhstan
+7H55rcKCfwqkyDFH9wpKM6,Christina Perri,4160220,soft pop,74,8,2011,2023,13,US,Philadelphia
+50ZzowkYhUZZ2uGZSXqJbE,Florian Künstler,77545,german pop,58,4,2021,2025,5,DE,
+5e4Dhzv426EvQe3aDb64jL,Shania Twain,3264531,country,74,20,1993,2024,32,CA,Windsor
+1Fg19vpUJpAAPFjnKaVYVW,Reynmen,3050832,"turkish pop, turkish hip hop",69,0,,,,TR,
+2BTZIqw0ntH9MvilQ3ewNY,Cyndi Lauper,3087558,,73,18,1983,2024,42,US,Brooklyn
+7iWcRnQMinCoV2u5ICgsW0,Udo Lindenberg,901938,"german pop, neue deutsche welle, schlager",59,25,2000,2023,24,DE,Gronau
+1l2ekx5skC4gJH8djERwh1,Don Diablo,1844347,"future house, edm",68,7,2016,2021,6,NL,Coevorden
+56ZTgzPBDge0OvCGgMO3OY,Beach House,2593673,dream pop,75,9,2006,2022,17,US,Hawthorne
+5vBSrE1xujD2FXYRarbAXc,Olly Alexander (Years & Years),2031692,,72,5,2015,2025,11,GB,Harrogate
+5MspMQqdVbdwP6ax3GXqum,Annie Lennox,1670858,synthpop,72,23,1981,2020,40,GB,Aberdeen
+4phGZZrJZRo4ElhRtViYdl,Jason Mraz,7310198,"soft pop, acoustic pop",74,22,2002,2023,22,US,Mechanicsville
+43BxCL6t4c73BQnIJtry5v,James Hype,449056,"house, tech house",70,0,,,,US,Barnwell
+7g13nmmxq4XN0hd64Jzkol,Juli,237505,"german pop, neue deutsche welle",58,8,2004,2024,21,DE,Giessen
+3rIZMv9rysU7JkLzEaC5Jp,Snow Patrol,3217726,,72,15,1998,2025,28,GB,Dundee
+1pkDzgHvVqC17qYGKfLPpb,Mozzik,419337,german hip hop,57,4,2020,2024,5,XK,Ferizaj
+0QHgL1lAIqAw0HtD7YldmP,DJ Khaled,12009499,,76,14,2007,2022,16,DZ,Oran
+2gBjLmx6zQnFGQJCAQpRgw,Nelly,3412937,,77,17,2000,2022,23,US,Austin
+4mYFgEjpQT4IKOrjOUKyXu,Wheatus,278726,,67,6,1999,2023,25,US,Northport
+5JZ7CnR6gTvEMKX4g70Amv,Lauv,6617468,,77,6,2018,2024,7,US,San Francisco
+5JYo7gm2dkyLLlWHjxS7Dy,Sandro Cavazza,133048,,69,0,,,,SE,Stockholm
+0ey6crPk5fXQWkq21iPTMV,Cari Cari,77617,,54,3,2018,2025,8,,Wien
+0ghlgldX5Dd6720Q3qFyQB,TOMORROW X TOGETHER,11320647,k-pop,78,9,2019,2024,6,KR,Seoul
+6YVMFz59CuY7ngCxTxjpxE,aespa,8477762,k-pop,80,3,2022,2024,3,KR,Seoul
+53A0W3U0s8diEn9RhXQhVz,Keane,3754329,,76,10,2004,2024,21,GB,Battle
+4obzFoKoKRHIphyHzJ35G3,Becky G,16228609,"reggaeton, latin",78,4,2019,2024,6,GB,
+687cZJR45JO7jhk1LHIbgq,Tems,3083131,"afrobeats, alté, afrobeat",77,2,2020,2024,5,NG,Lagos
+5IcR3N7QB1j6KBL8eImZ8m,ScHoolboy Q,4996417,,76,6,2011,2024,14,,Wiesbaden
+2z6t0UGq0WAM8X6zDeXKXj,Don Xhoni,319730,,59,0,,,,US,Shelby
+6LEeAFiJF8OuPx747e1wxR,Blood Orange,1134105,art pop,73,5,2011,2019,9,GB,Ilford
+0NbfKEOTQCcwd6o7wSDOHI,The Game,5074469,"west coast hip hop, gangster rap, hip hop",73,25,2012,2024,13,GB,Liverpool
+63wjoROpeh5f11Qm93UiJ1,Keri Hilson,2091301,,71,5,2009,2025,17,US,Decatur
+6XwwFnewNgWp81MYMK8zLq,Edward Maya,314009,,70,17,2012,2024,13,GB,Worcestershire
+6oBm8HB0yfrIc9IHbxs6in,Lykke Li,1944757,,71,8,2008,2024,17,SE,Ystad
+0HSc7yUdNSosxRb2UJnXlz,Namika,642523,german pop,56,3,2015,2018,4,DE,Frankfurt am Main
+5ft3IHiUHeGIvsxTdBSKtN,Sajfer,164472,,54,0,,,,,Bosnia and Herzegovina
+6elIiwc8OyeqKxXe2rmPXZ,Toto Cutugno,214901,italo dance,60,14,1979,2023,45,IT,Fosdinovo
+1YfEcTuGvBQ8xSD1f53UnK,Busta Rhymes,3031913,east coast hip hop,73,24,1996,2023,28,US,Brooklyn
+0cGUm45nv7Z6M6qdXYQGTX,Kehlani,8195003,,77,8,2014,2024,11,US,Oakland
+4xRYI6VqpkE3UwrDrAZL8L,Logic,6129951,,75,15,2014,2024,11,US,Gaithersburg
+6HvZYsbFfjnjFrWF950C9d,NewJeans,10639027,k-pop,79,1,2023,2023,1,KR,Seoul
+4wLXwxDeWQ8mtUIRPxGiD6,Marc Anthony,10530514,"salsa, salsa romantica, merengue, bachata, latin",80,19,1991,2024,34,DE,Leverkusen
+4bthk9UfsYUYdcFyqxmSUU,Tears For Fears,3863294,"new wave, synthpop",76,15,1983,2025,43,GB,Bath
+1pBLC0qVRTB5zVMuteQ9jJ,Lily-Rose Depp,396504,,77,0,,,,US,Neuilly-sur-Seine
+6uothxMWeLWIhsGeF7cyo4,Enya,2430945,"new age, celtic",74,16,1987,2019,33,IE,Gweedore
+2KsP6tYLJlTBvSUxnwlVWa,Mike Posner,1469548,,72,12,2009,2025,17,US,Detroit
+6UDhlW8uEVBBrqHS3RrKuv,Casper,608695,"german hip hop, german pop",58,8,2011,2024,14,DE,Extertal
+7lzordPuZEXxwt9aoVZYmG,Billy Idol,2272326,,73,16,1982,2025,44,GB,Stanmore
+6EVyI0S0b1Ld2nm37m5x85,Raffaella Carrà,210871,,65,25,1971,2024,54,IT,Bologna
+0gadJ2b9A4SKsB1RFkBb66,Passenger,3630852,folk pop,72,19,2007,2023,17,GB,Brighton and Hove
+3EA9hVIzKfFiQI0Kikz2wo,Andrea Bocelli,3070287,opera,72,25,2015,2025,11,IT,Lajatico
+3KV3p5EY4AvKxOlhGHORLg,Jeremih,7008180,,76,9,2009,2023,15,US,Chicago
+1bZDq4po4dMIpN74Zendm0,Janieck,48010,,65,0,,,,NL,
+6NnBBumbcMYsaPTHFhPtXD,VOILÀ,272285,,69,6,2020,2024,5,US,Los Angeles
+6e3pZKXUxrPfnUPJ960Hd9,Pomme,755702,"french pop, chanson",73,8,2017,2024,8,FR,Décines-Charpieu
+716NhGYqD1jl2wI1Qkgq36,Bizarrap,17770433,"argentine trap, trap latino, urbano latino",81,0,,,,AR,Argentina
+20gsENnposVs2I4rQ5kvrf,Sam Feldt,795078,tropical house,69,3,2017,2018,2,NL,Amsterdam
+4myTppRgh0rojLxx8RycOp,Ryan Lewis,52195,,69,3,2012,2016,5,US,Ferriday
+13saZpZnCDWOI9D4IJhp1f,Lily Allen,2147165,,71,6,2006,2018,13,GB,Hammersmith
+6Rmg5JiRphFMlhkwGNl9Fu,Tom Gregory,110069,,57,2,2020,2021,2,,Pontypridd
+7KAGJwWQQui8b0uqwXRkSr,Gestört aber GeiL,494466,german pop,60,3,2016,2022,7,DE,
+3jOstUTkEu2JkjvRdBA5Gu,Weezer,4234004,alternative rock,76,25,2001,2024,24,US,Los Angeles
+3r17AfJCCUqC9Lf0OAc73G,Fergie,6005491,,72,3,2006,2017,12,US,Hacienda Heights
+25u4wHJWxCA9vO0CzxAbK7,Lukas Graham,2649837,,72,6,2012,2023,12,DK,Copenhagen
+4sTQVOfp9vEMCemLw50sbu,Galantis,3436949,,71,4,2015,2024,10,SE,Stockholm
+5H1nN1SzW0qNeUEZvuXjAj,Danny Ocean,6055692,reggaeton,82,5,2019,2024,6,US,Los Angeles
+2TL8gYTNgD6nXkyuUdDrMg,Jasmine Thompson,876466,,67,3,2013,2015,3,GB,London
+33W1pnW9zScZtYTnAoWnOT,Mr. Probz,355689,,69,1,2013,2013,1,NL,Zoetermeer
+164Uj4eKjl6zTBKfJLFKKK,JVKE,5382601,,76,1,2022,2022,1,US,Providence
+7nqOGRxlXj7N2JYbgNEjYH,SEVENTEEN,13063259,k-pop,80,10,2016,2024,9,KR,Seoul
+3YBJLs7RqR0aPGBgU27nDh,Werenoi,1989385,,81,6,2022,2025,4,,
+3mIj9lX2MWuHmhNCA7LSCW,The 1975,7738074,,78,10,2013,2025,13,GB,Liverpool
+20sxb77xiYeusSH8cVdatc,Meek Mill,8160836,rap,76,25,2012,2023,12,US,Philadelphia
+6L34dW6SKMSDaGIfYDU19j,Maes,3307179,pop urbaine,73,7,2018,2024,7,FR,Villepinte
+0bmxU94V20pNJ2Vie9kFYv,Rea Garvey,404377,,55,8,2012,2024,13,DE,Tralee
+49eo9xE4yGzJLWkOndiODs,Deichkind,633966,"german pop, german hip hop",55,11,2000,2023,24,DE,Hamburg
+64d1rUxfizSAOE9UbMnUZd,Sezen Aksu,12314765,"turkish pop, arabesk",75,25,1984,2022,39,TR,Denizli
+353KPo8gVAfcZfwF7BPZDy,Münchener Freiheit,153656,"neue deutsche welle, schlager, schlagerparty, german pop",55,25,1992,2020,29,DE,München
+5Igpc9iLZ3YGtKeYfSrrOE,Chris Lake,383660,"tech house, house, bass house",71,1,2010,2010,1,GB,Aberdeen
+56oDRnqbIiwx4mymNEv7dS,Lizzo,5716127,,72,6,2014,2022,9,US,Detroit
+4aKWmkWAKviFlyvHYPTNQY,Adrianne Lenker,1097403,,76,8,2014,2025,12,US,Indianapolis
+5slpk6nu2IwwKx0EHe3GcL,Lena,772222,,57,7,2010,2024,15,US,Bedford–Stuyvesant
+7kCeNecZvb7zxsnRUC8jTV,Thorsteinn Einarsson,14986,,40,4,2016,2025,10,AT,Reykjavík
+2Wzb0u138rgoZQTK3ytknT,BEAUZ,174192,,64,0,,,,US,
+7F0bQWvv3rfV3EubmoQlwZ,Die Prinzen,240096,"neue deutsche welle, german pop, schlager",56,20,1991,2021,31,DE,Leipzig
+6wPhSqRtPu1UhRCDX5yaDJ,The Pussycat Dolls,6017246,,72,3,2005,2008,4,US,Los Angeles
+7t51dSX8ZkKC7VoKRd0lME,Asaf Avidan,422499,,63,14,2008,2023,16,IL,Jerusalem
+1c0wBsDBu0NqpvxBqjYjZS,Al Bano And Romina Power,167031,"italo dance, italo disco",59,17,1981,2017,37,IT,Italy
+4gvjmrtzydbMpyJaXUtwvP,Addison Rae,832679,,73,0,,,,US,Lafayette
+4tpUmLEVLCGFr93o8hFFIB,Blondie,1733096,,71,23,1976,2024,49,US,New York
+5FYfIAuN8mV5KgVtugwfc0,Revolverheld,511886,german pop,57,11,2005,2021,17,,Hamburg
+0GWCNkPi54upO9WLlwjAHd,Big Time Rush,2673854,,67,4,2011,2023,13,US,Los Angeles
+5nki7yRhxgM509M5ADlN1p,Oliver Heldens,1061154,"future house, house",68,0,,,,NL,Rotterdam
+5sWHDYs0csV6RS48xBl0tH,Two Feet,2123667,,71,5,2018,2022,5,US,Manhattan
+1HFnM3rs2ZJWVL9q273DYF,Emilio,135170,german pop,54,5,2020,2024,5,BR,Rio de Janeiro
+3ZR4DKb6szzEmIavtFES5j,ENKAY,39005,german pop,56,1,2023,2023,1,,
+4MXUO7sVCaFgFjoTI5ox5c,Sufjan Stevens,2221758,"chamber pop, baroque pop",72,23,2003,2024,22,US,Detroit
+2B4IGE6llHgdQsc4kqI5zF,TJARK,44979,german pop,56,1,2024,2024,1,DE,
+59wfkuBoNyhDMQGCljbUbA,Diddy,1905193,"hip hop, east coast hip hop",73,12,1997,2023,27,US,Harlem
+5GnRHCbhnGp57tp4whNvOo,Christina Stürmer,352653,german pop,50,9,2003,2024,22,AT,Linz
+7gcCQIlkkfbul5Mt0jBQkg,Dave Stewart,64629,,70,25,1983,2023,41,GB,Highgate
+3EOEK57CV77D4ovYVcmiyt,Dennis Lloyd,700536,,66,1,2021,2021,1,GB,Kensington
+2kRfqPViCqYdSGhYSM9R0Q,Madison Beer,7927983,,73,3,2018,2023,6,US,Nassau County
+7n2Ycct7Beij7Dj7meI4X0,TWICE,21739713,k-pop,80,23,2016,2024,9,KR,Seoul
+46gyXjRIvN1NL1eCB8GBxo,All Time Low,3138606,"pop punk, emo, emo pop, punk",71,17,2006,2024,19,US,Baltimore
+2yMN0IP20GOaN6q0p0zL5k,Tarkan,3697952,"turkish pop, t-pop",69,15,1993,2024,32,TR,Alzey
+7gU9VyFRN3JWPJ5oHOil60,Tayc,3402079,"pop urbaine, afrobeats, afrobeat",74,11,2017,2025,9,FR,Marseille
+1qto4hHid1P71emI6Fd8xi,Aventura,9910966,"bachata, bachata pop",81,7,1999,2009,11,US,The Bronx
+1GmsPCcpKgF9OhlNXjOsbS,Lizzy McAlpine,1285371,,76,4,2020,2024,5,IE,Dublin
+0Y3agQaa6g2r0YmHPOO9rh,Davido,7245741,"afrobeats, afrobeat, afropop, afropiano, azonto, amapiano, hiplife, afroswing",78,5,2012,2025,14,NG,Atlanta
+1dy5WNgIKQU6ezkpZs4y8z,ROLE MODEL,633539,bedroom pop,76,3,2022,2025,4,US,Cape Elizabeth
+4utLUGcTvOJFr6aqIJtYWV,Skylar Grey,648568,,70,4,2013,2023,11,US,Mazomanie
+2p4FqHnazRucYQHyDCdBrJ,Simple Plan,3801839,"pop punk, punk, emo",71,10,2002,2024,23,CA,Montréal
+4StjyzjcmZ7a9QncHVf0pu,Simge,2003934,"turkish pop, t-pop",70,1,2018,2018,1,,Istanbul
+0NKDgy9j66h3DLnN8qu1bB,Eurythmics,2228896,"new wave, synthpop",70,16,1981,1999,19,GB,London
+07YUOmWljBTXwIseAUd9TW,Sebastian Yatra,23858064,"colombian pop, reggaeton, latin",81,3,2018,2022,5,DE,Eisenach
+28gNT5KBp7IjEOQoevXf9N,Camilo,20061432,"colombian pop, pop urbano",83,5,2020,2024,5,ES,Alcoi
+3XxNRirzbjfLdDli06zMaB,Eyedress,2543067,,74,12,2012,2025,14,PH,Manila
+5rjz63sgMaAUAyBMyCUK5D,Avery Anna,198763,,74,1,2024,2024,1,US,
+6f1kv0aUPG9I0Rp3dmLCPi,Unheilig,452887,"german pop, medieval metal, industrial metal",56,21,2008,2016,9,DE,Aachen
+2XnBwblw31dfGnspMIwgWz,Axwell /\ Ingrosso,2510071,,67,1,2017,2017,1,SE,
+0YinUQ50QDB7ZxSCLyQ40k,Mustard,1657759,,74,4,2014,2024,11,US,Los Angeles
+2a2YSCx78HHWVOsCuMpeXz,Burak Bulut,1169739,"turkish pop, arabesk",67,0,,,,,Karaman
+3GbUWWI1rMwAIPbUVPvnPA,Silbermond,721225,german pop,55,14,2004,2024,21,DE,Bautzen
+39B7ChWwrWDs7zXlsu3MoP,Sonny Fodera,264839,"house, tech house",72,8,2013,2022,10,AU,
+0ONHkAv9pCAFxb0zJwDNTy,Pusha T,2994894,,72,9,2011,2022,12,US,The Bronx
+0h0p7RkMjCUMdcf0nXmHjX,Gianna Nannini,634716,"italo dance, italian singer-songwriter",58,25,1984,2024,41,IT,Siena
+7iZtZyCzp3LItcw1wtPI3D,Rae Sremmurd,7680707,,73,5,2015,2023,9,US,Tupelo
+3rp4f58JlRHkk8hpdLCer1,Videoclub,683459,"french indie pop, french pop",68,3,2021,2024,4,FR,Nantes
+5Wg2b4Mp42gicxEeDNawf7,A7S,76969,,67,0,,,,SE,Stockholm
+1anyVhU62p31KFi8MEzkbf,Chance the Rapper,6031661,,76,6,2013,2023,11,US,Chicago
+1GDbiv3spRmZ1XdM1jQbT7,NATTI NATASHA,10759736,"reggaeton, latin, urbano latino",75,6,2012,2025,14,DO,Santiago de los Caballeros
+2oX42qP5ineK3hrhBECLmj,Andy Grammer,1298145,,71,7,2011,2025,15,US,Los Angeles
+2ISiyx4DLCMAMBCvPesCoq,JONY,1874760,,68,2,2019,2022,4,RU,Bakı
+0Cs47vvRsPgEfliBU9KDiB,D.O.D,106832,,72,1,2023,2023,1,,
+748dDObrUoBetes0pLj788,Die Fantastischen Vier,666896,"german pop, german hip hop",55,24,1993,2024,32,DE,Stuttgart
+37M5pPGs6V1fchFJSgCguX,FINNEAS,2227807,,70,5,2019,2024,6,US,Los Angeles
+2cBh5lVMg222FFuRU7EfDE,Sophie Ellis-Bextor,549393,,69,13,1998,2023,26,GB,Hounslow
+0f3EsoviYnRKTkmayI3cux,Men At Work,1467586,,70,8,1981,2020,40,AU,Melbourne
+7uMh23xWiuR7zsNkuNcm2G,MNEK,302595,,68,1,2018,2018,1,GB,Lewisham
+37w38cCSGgKLdayTRjna4W,Mazzy Star,1630621,"dream pop, shoegaze, slowcore",72,7,1990,2024,35,US,Santa Monica
+7Io0XduXk7aOHFHA7sLru2,Bonn,24609,,65,0,,,,SE,Stockholm
+1ooV8YZC1KbpEcrmI8WH0F,Yebba,625138,,74,1,2021,2021,1,US,Arkansas
+1osZFzamKEXNoYk7HzWbDe,Sunrise Avenue,390626,finnish pop,55,11,2006,2021,16,FI,Helsinki
+1F2v33FQTavJyaD7ZsyhdA,Gülşen,1978020,"turkish pop, t-pop",71,13,1996,2023,28,TR,Istanbul
+0GM7qgcRCORpGnfcN2tCiB,Tainy,2738057,reggaeton,80,7,2006,2023,18,PR,San Juan
+0A0FS04o6zMoto8OKPsDwY,YG,3444962,hyphy,74,16,2012,2024,13,US,Compton
+4W48hZAnAHVOC2c8WH8pcq,The Temper Trap,746654,,71,4,2009,2016,8,AU,Melbourne
+4eq1q0o9XPyNq9RG3fNDD1,Yorghaki,117586,,79,1,2024,2024,1,,
+1fa0cOhromAZdq2xRA4vv8,Simply Red,2631813,,70,22,1985,2023,39,GB,Manchester
+0wgLwvDNCHdJ9FblyyD4Dc,Liquido,53077,,56,5,1999,2008,10,DE,Heidelberg
+1IueXOQyABrMOprrzwQJWN,Sigala,1574704,,68,3,2018,2024,7,GB,Norwich
+6sCbFbEjbYepqswM1vWjjs,Zendaya,5194907,,71,1,2013,2013,1,US,Oakland
+1VBflYyxBhnDc9uVib98rw,Icona Pop,757925,,69,5,2013,2023,11,SE,Stockholm
+2mAYpnSe3g2Y22JcZ2ddku,Soap&Skin,236818,,65,5,2009,2024,16,AT,Gnas
+1XlLhtgJjC4ROQZilBZAvw,Nic D,471239,,70,5,2020,2025,6,US,Port Chester
+2WzaAvm2bBCf4pEhyuDgCY,Ruth B.,4176035,,73,3,2017,2021,5,US,Berkeley
+6U1dBXJhC8gXFjamvFTmHg,Zac Efron,907592,musicals,71,0,,,,US,San Luis Obispo
+6iqDK7aHVlwGGgPmcdSK5L,Tribbs,169743,,64,1,2023,2023,1,,
+6Te49r3A6f5BiIgBRxH7FH,Ninho,11271719,pop urbaine,81,10,2016,2024,9,FR,Yerres
+1aSxMhuvixZ8h9dK9jIDwL,Kate Bush,2357498,"art pop, baroque pop, art rock",71,12,1978,2011,34,,Welling
+7z2avKuuiMAT4XZJFv8Rvh,Tom Walker,1305767,,66,3,2019,2024,6,,Pontypridd
+5C4PDR4LnhZTbVnKWXuDKD,Morat,13199557,"colombian pop, latin pop",84,7,2016,2024,9,CO,Bogotá
+69u5rPwWBKP7pJHpCGB9O5,MoTrip,478293,"german hip hop, german pop",55,5,2012,2020,9,DE,Beirut
+1XkoF8ryArs86LZvFOkbyr,Mary J. Blige,4188790,r&b,74,25,1998,2024,27,US,The Bronx
+0uNoScPvcAL4krqNZfeJBq,Von Wegen Lisbeth,294897,german pop,54,4,2016,2022,7,DE,Berlin
+4tw2Lmn9tTPUv7Gy7mVPI4,Kenny Rogers,3013973,country,72,25,1988,2023,36,US,Houston
+16YzSnyXMElA8gW0unulku,Elias,8796,german pop,51,0,,,,BR,São Paulo
+3whuHq0yGx60atvA2RCVRW,Olly Murs,3233432,,66,11,2010,2022,13,GB,Witham
+5344K3N7rx7kw1HjO8psuq,James Carter,62626,,65,0,,,,US,Barnwell
+224CDJhbm230iSo9ZomTWe,Max Giesinger,960709,german pop,56,11,2014,2022,9,DE,Waldbronn
+3a1tBryiczPAZpgoZN9Rzg,Asake,5867992,"afrobeats, afrobeat, afropiano, afro adura, afropop, amapiano, afroswing",76,3,2022,2024,3,NG,Lagos
+5GGJosGMs08YEmKTZJe1fL,Suki Waterhouse,1133627,,72,2,2022,2024,3,GB,Hammersmith
+5xgQQDQEfbueEywSz16GXt,Dado Polumenta,104100,,48,8,2005,2025,21,,
+3N4FiTxpPQRsrihmTMN349,Marcus & Martinus,806041,norwegian pop,61,7,2015,2024,10,NO,Elverum
+2cy1zPcrFcXAJTP0APWewL,Gente De Zona,1682835,"latin, latin dance",72,9,2008,2024,17,CU,La Habana
+3Ayl7mCk0nScecqOzvNp6s,Jimmy Eat World,1713862,"emo, pop punk, emo pop",70,16,1996,2021,26,US,Mesa
+79AyR6ATpj2LTPxfb6FX50,Lauren Spencer Smith,1655503,,69,2,2023,2023,1,CA,Portsmouth
+0uq5PttqEjj3IH1bzwcrXF,Spice Girls,4062676,,70,5,1996,2022,27,GB,London
+3RRODs1rHC2ktLqyDDfgPH,Fettes Brot,439261,"german pop, german hip hop",55,19,1994,2023,30,DE,Schenefeld
+45eNHdiiabvmbp4erw26rg,ILLENIUM,1576453,"melodic bass, future bass, edm",72,11,2016,2023,8,US,Chicago
+1ZHJdXXtKnmUh2qRN4LmbS,Ben Zucker,450729,"schlager, schlagerparty, german pop",55,8,2018,2024,7,DE,Ueckermünde
+5sXaGoRLSpd7VeyZrLkKwt,Gregory Alan Isakov,1063386,"indie folk, folk, folk pop",73,7,2005,2023,19,,Johannesburg
+2yLzlEFtIS0Q9UkyBZdQA7,Jessie Murph,1252341,,77,2,2023,2024,2,,United States
+1bs7HoMkSyQwcobCpE9KpN,The Mamas & The Papas,1980582,folk rock,69,7,1966,2024,59,US,New York
+2fNGnQQYcumc2TuIcpzT5R,Boban Rajovic,140293,,49,10,2003,2024,22,RS,Copenhagen
+2fPsJqR6zfoHatC1eFr0eQ,Livingston,876953,,67,4,2020,2025,6,US,Boston
+5nCi3BB41mBaMH9gfr6Su0,fun.,3107402,,70,3,2009,2012,4,IT,
+4hXT6A14n901v8DU5Of337,KAYEF,210134,german pop,56,10,2013,2024,12,,Düsseldorf
+41qil2VaGbD194gaEcmmyx,Will Smith,1097419,,69,5,1997,2025,29,US,Philadelphia
+28WNtilgFPn1mdz3h0FjHl,Mackenzy Mackay,218288,,62,0,,,,GB,
+0vEsuISMWAKNctLlUAhSZC,Counting Crows,1886614,,72,13,1996,2023,28,US,Berkeley
+4BxCuXFJrSWGi1KHcVqaU4,Kodaline,3144280,,69,7,2013,2022,10,IE,Swords
+5SUSe6NpDjc6BNKX8Dx0hj,Aura Dione,85880,,54,6,2008,2022,15,DK,Copenhagen
+5519qQ4H5p0qIIidEWUOB6,Ledri Vula,297347,,57,1,2020,2020,1,XK,Prishtina
+4AgVTiA1mljWdIjiffV28G,Oliver Dragojevic,385361,,56,25,1997,2019,23,HR,Split
+7pbDxGE6nQSZVfiFdq9lOL,Rex Orange County,6474087,bedroom pop,77,6,2016,2024,9,,Haslemere
+1Y8cdNmUJH7yBTd9yOvr5i,Destiny's Child,7819953,,72,6,1998,2019,22,US,Houston
+3Oim8XBPbznAa8Jj8QzNc8,Cults,1132608,,71,7,2011,2024,14,US,Manhattan
+7mEIug7XUlQHikrFxjTWes,Neil Diamond,3098662,,69,25,1988,2024,37,US,Brooklyn
+5lU3mLIonARnLpRtp5f77M,DJ Gimi-O,164619,,61,0,,,,,
+3sgFRtyBnxXD5ESfmbK4dl,LMFAO,4380473,,70,2,2009,2011,3,US,Pacific Palisades
+3KedxarmBCyFBevnqQHy3P,Jessie Reyez,1497299,,73,7,2017,2025,9,CA,Toronto
+35WVTyRnKAoaGExqgktVyb,Hotel Ugly,954004,,74,1,2023,2023,1,US,Ruston
+7IlRNXHjoOCgEAWN5qYksg,Aya Nakamura,5235981,pop urbaine,72,6,2017,2023,7,FR,Bamako
+34dZRjYum6vVBGslgYaBtB,Vika Jigulina,36506,,68,1,2024,2024,1,RO,Cahul
+6mo0UbyIvIePdXNyLwQlk5,Milow,188941,,57,10,2009,2025,17,BE,Borgerhout
+75VKfyoBlkmrJFDqo1o2VY,Fireboy DML,4006291,"afrobeats, afrobeat, afropop, afropiano, afroswing, afro soul",73,4,2019,2024,6,,Ogun
+5R8zS6ofKclznKk3ffudoO,Anstandslos & Durchgeknallt,131659,"schlagerparty, schlager, german pop",56,1,2018,2018,1,DE,
+44TGR1CzjKBxSHsSEy7bi9,Woodkid,865001,chamber pop,68,4,2013,2024,12,FR,Tassin-la-Demi-Lune
+7DDyntOmWbEgkGoIUaTxEp,Felix Harrer,45448,"hypertechno, techno",57,0,,,,DE,Hamburg
+1mSJCvDX0W7Dn7S9C6vmvI,Anna of the North,245132,,67,4,2017,2023,7,,Gjøvik
+41qfKbF6qreDxiWBmOX39N,Elai,141011,,56,0,,,,AL,Albania
+6Ff53KvcvAj5U7Z1vojB5o,*NSYNC,2943982,,73,9,1997,2002,6,US,Orlando
+4WnAHZz1pgl8hus8hidIRV,MHD,2543537,pop urbaine,67,3,2016,2021,6,FR,Vendée
+5gqmbbfjcikQBzPB5Hv13I,Gazo,3766311,"drill, pop urbaine",76,5,2021,2024,4,FR,Châteauroux
+2nszmSgqreHSdJA3zWPyrW,Luis Miguel,19018299,"mariachi, bolero, latin pop",84,25,1985,2017,33,MX,San Juan
+0kObWap02DEg9EAJ3PBxzf,Starship,1237816,,70,3,1985,1989,5,US,
+5iNrZmtVMtYev5M9yoWpEq,Seeb,366179,,69,3,2020,2021,2,,Oslo
+6xrCU6zdcSTsG2hLrojpmI,José González,1205735,indie folk,66,6,2003,2023,21,SE,Gothenburg
+6xQvQwZQQuq9R3TdPNbcR8,Bassjackers,768217,"big room, edm",62,1,2019,2019,1,NL,Noord-Brabant
+3MHaV05u0io8fQbZ2XPtlC,Prince Royce,8417748,"bachata, latin, bachata pop",77,9,2010,2024,15,US,Minneapolis
+1L9i6qZYIGQedgM9QLSyzb,Klingande,506285,"tropical house, deep house",63,1,2019,2019,1,FR,Croix
+1w67D3PakcxjYGt6xPnnke,Darius & Finlay,83658,,54,2,2013,2014,2,AT,
+2K5nCggbhSZ00YCYP5qkZS,Shiva,2627154,italian trap,80,9,2017,2025,9,IN,Uttarakhand
+6KZDXtSj0SzGOV705nNeh3,Kid Ink,3004322,,70,12,2012,2022,11,US,Los Angeles
+698hF4vcwHwPy8ltmXermq,Far East Movement,1113940,,69,4,2009,2016,8,US,Los Angeles
+77ziqFxp5gaInVrF2lj4ht,Sech,12078844,"reggaeton, urbano latino",81,10,2018,2024,7,PA,Colón
+7DUTsWY3RBd64vh8UtgtYA,Lacrim,2812608,pop urbaine,71,14,2010,2025,16,FR,Paris
+3r5Kc95Oz8lDc8BL9ChO7n,Mathea,95070,german pop,47,3,2020,2021,2,AT,Salzburg
+2bnHA3uft5ff7aFQLvscV5,Achtabahn,17652,"german pop, tropical house, hypertechno",54,0,,,,DE,Germany
+1zxDewzd2j1ZdSBGaYcr0y,The Outfield,744445,,69,11,1985,2021,37,GB,Liverpool
+7qmpXeNz2ojlMl2EEfkeLs,Nicky Youre,305515,,67,1,2023,2023,1,US,Anaheim
+4QvgGvpgzgyUOo8Yp8LDm9,Mrs. GREEN APPLE,5447108,"j-pop, anime, j-rock",83,8,2016,2024,9,JP,
+4IJczjB0fJ04gs4uvP0Fli,Gym Class Heroes,1618740,,71,4,2005,2011,7,US,Geneva
+6fWVd57NKTalqvmjRd2t8Z,24kGoldn,2268078,,69,4,2019,2024,6,US,San Francisco
+2tndYCXQneCV4jtoWRwVpz,Lucas Estrada,132186,tropical house,64,0,,,,,
+3TNt4aUIxgfy9aoaft5Jj2,Yeah Yeah Yeahs,1440645,indie rock,69,7,2003,2022,20,US,New York
+7HkIxdAV13bOrkOhh6H3Dg,Philipp Poisel,387252,german pop,54,7,2008,2024,17,DE,Ludwigsburg
+07QEuhtrNmmZ0zEcqE9SF6,Owl City,2491271,,70,11,2007,2024,18,US,Owatonna
+0VlrorDSkEbLK1D6VvMgd2,Rubi,39127,,54,0,,,,DE,Augsburg
+3Y3xIwWyq5wnNHPp5gPjOW,Kenny Loggins,1198901,,68,17,1976,2023,48,US,Everett
+37awA8DFCAnCCL7aqYbDnD,Blasterjaxx,808357,"big room, edm",63,2,2017,2019,3,NL,Den Haag
+2wIVse2owClT7go1WT98tk,Missy Elliott,2647251,hip hop,73,7,1997,2006,10,US,Portsmouth
+3zmfs9cQwzJl575W1ZYXeT,Men I Trust,2177200,"bedroom pop, indie pop",74,7,2014,2025,12,CA,Montréal
+5lKZWd6HiSCLfnDGrq9RAm,Leona Lewis,3708646,,68,7,2007,2021,15,GB,Islington
+6ogn9necmbUdCppmNnGOdi,Alanis Morissette,3055804,,71,17,1995,2022,28,CA,Ottawa
+5yG7ZAZafVaAlMTeBybKAL,Iggy Azalea,6763273,,71,6,2014,2021,8,US,Sydney
+1SIocsqdEefUTE6XKGUiVS,BABYMONSTER,4400140,k-pop,77,1,2024,2024,1,KR,Seoul
+6WFDpw4u23uSpon4BHvFRn,Cat Burns,419155,,62,3,2022,2024,3,GB,Marylebone
+5W5bDNCqJ1jbCgTxDD0Cb3,Willie Nelson,2453004,"country, honky tonk, traditional country",73,25,2018,2025,8,US,Abbott
+684zatrKiaoj2E5qLaxh1r,Šaban Šaulić,230632,,48,25,1987,2023,37,RS,Mačvanski okrug
+7BKePXVmQRgnkbGcrFX1G4,JORIS,218778,german pop,53,7,2015,2025,11,NL,Moergestel
+2AfmfGFbe0A0WsTYm0SDTx,(G)I-DLE,10540851,k-pop,73,2,2022,2024,3,KR,Seoul
+6tuPdaFPIytg3l2f51L7Hw,Ziggy Alberts,420955,folk pop,63,11,2013,2025,13,AU,
+70B80Lwx2sxti0M1Ng9e8K,Udit Narayan,18814438,"bollywood, hindi pop, desi",82,25,2020,2025,6,IN,Bihar
+46UMQ0cW8ToR8egkBRwAxZ,Cynthia Erivo,470676,musicals,73,21,2015,2024,10,GB,London
+4qWnlmXWuGv2TtuxtIWlJX,BANNERS,709377,,66,4,2019,2025,7,,
+3AuMNF8rQAKOzjYppFNAoB,Kelly Rowland,3589011,,71,9,2003,2020,18,US,Atlanta
+6DARBhWbfcS9E4yJzcliqQ,Karan Aujla,17801763,"punjabi pop, punjabi hip hop, bhangra, desi hip hop, desi",81,4,2018,2024,7,,
+6Jrxnp0JgqmeUX1veU591p,Santigold,776479,,68,5,2008,2022,15,US,Philadelphia
+5dHt1vcEm9qb8fCyLcB3HL,A$AP Ferg,4142642,rap,72,6,2013,2024,12,US,Harlem
+24Sxfn1uAoJmuR9N72drt9,Mike Candys,192833,,59,3,2012,2012,1,CH,
+0id62QV2SZZfvBn9xpmuCl,Aloe Blacc,744146,,66,13,2005,2025,21,US,Laguna Hills
+3win9vGIxFfBRag9S63wwf,Bailey Zimmerman,1698211,country,79,1,2023,2023,1,US,
+7EK1bQADBoqbYXnT4Cqv9w,John Denver,2431495,folk,70,25,1985,2023,39,US,Roswell
+0a3zDmrvmZcORfPeONPvfL,Rauf & Faik,1517503,,63,4,2018,2022,5,RU,Bakı
+0VVnWF3KNaa5O7ESohKhAx,Salif Keita,230278,"afro house, afropop",67,18,1981,2025,45,ML,Koulikoro
+0Upxnyh9nIUNSOmNE8WF4R,BYOR,35595,,65,0,,,,RU,
+1E5hfn5BduN2nnoZCJmUVG,Victony,1663674,"afrobeats, afrobeat, afropop, afropiano, alté, afro soul, amapiano",71,3,2022,2024,3,NG,Imo
+7rZNSLWMjTbwdLNskFbzFf,Sugababes,721447,,64,12,2000,2022,23,GB,London
+0MeLMJJcouYXCymQSHPn8g,Sleeping At Last,1514044,,69,24,2003,2024,22,US,Wheaton
+0MlOPi3zIDMVrfA9R04Fe3,American Authors,1625137,,67,5,2014,2024,11,US,Boston
+1VD4AmUxf40MwFAzCM62V6,HE/RO,116985,german pop,51,2,2022,2025,4,,
+7i9j813KFoSBMldGqlh2Z1,Riton,155855,house,66,1,2018,2018,1,GB,Newcastle upon Tyne
+7bp2lSdh12wcA8LyB1srfJ,Sofia Carson,3709577,,71,2,2022,2022,1,US,Fort Lauderdale
+5tKXB9uuebKE34yowVaU3C,Iyaz,1085357,,69,1,2009,2009,1,VG,British Virgin Islands
+4Ly0KABsxlx4fNj63zJTrF,Seafret,1054145,,69,3,2016,2023,8,GB,East Riding of Yorkshire
+6fZ3U139Fb4VfOv7g63XhB,Mc Kresha,278839,,56,9,2010,2024,15,AL,Mitrovica
+79hrYiudVcFyyxyJW0ipTy,The Paper Kites,859560,indie folk,69,6,2013,2023,11,AU,
+2QMsj4XJ7ne2hojxt6v5eb,Riley Green,1085936,country,79,8,2019,2024,6,US,Berkeley
+1l8Fu6IkuTP0U5QetQJ5Xt,Fifth Harmony,16284517,,71,3,2015,2017,3,US,Miami
+6bh228LGC3eAzbplPWV02r,Declan J Donovan,228539,,60,2,2020,2022,3,GB,Harlow
+64tJ2EAv1R6UaZqc4iOCyj,YOASOBI,9048264,"j-pop, anime",76,6,2021,2024,4,JP,
+5lpH0xAS4fVfLkACg9DAuM,Wham!,2997184,christmas,69,3,1983,1986,4,GB,Bushey
+1bj5GrcLom5gZFF5t949Xl,Martin Solveig,1185047,french house,65,8,2002,2023,22,FR,Paris
+5pDjmC5mRl7vDJhsjVwNfk,Freya Ridings,460795,,64,4,2017,2023,7,GB,London
+6Cej574CUx7dHKuRHBPNp0,Elvana Gjata,287742,,57,2,2011,2021,11,AL,Tirana
+3xDVmZmDpaF1uuez2N7mKl,Tim Bendzko,613651,german pop,52,9,2012,2024,13,DE,Berlin
+3iOvXCl6edW5Um0fXEBRXy,The xx,3832767,,67,5,2009,2022,14,GB,Liverpool
+53KwLdlmrlCelAZMaLVZqU,James Blake,1529498,,70,11,2011,2024,14,US,Barnwell
+69kcnEE47Kd8pe8thqWik9,Hannah,17868,"schlager, schlagerparty",43,7,2011,2024,14,US,
+4TKTii6gnOnUXQHyuo9JaD,Sheryl Crow,1279454,,70,23,1993,2024,32,US,Kennett
+6S0dmVVn4udvppDhZIWxCr,Sean Kingston,3598994,,73,4,2008,2022,15,JM,Miami
+4d3yvTptO48nOYTPBcPFZC,Eve,1512341,,70,6,1999,2021,23,US,Philadelphia
+7slfeZO9LsJbWgpkIoXBUJ,Ricky Martin,7864370,"latin pop, latin",74,15,1991,2020,30,PR,San Juan
+01pKrlgPJhm5dB4lneYAqS,Sigma,338195,drum and bass,60,4,2015,2024,10,GB,Leeds
+4NYMUsIcUUsBHbV9DICa5x,Nate Smith,495834,country,73,3,2023,2024,2,US,Omaha
+6yhD1KjhLxIETFF7vIRf8B,Against The Current,530223,pop punk,64,3,2016,2021,6,US,Poughkeepsie
+2JLl6rSFWx9YuSPLcLhkAG,Julian Perretta,40248,,62,1,2010,2010,1,GB,London
+61lyPtntblHJvA7FMMhi7E,Duke Dumont,769018,house,69,2,2020,2020,1,GB,Harrow
+36cgvBn0aadzOijnjjwqMN,ILLIT,2637115,k-pop,74,0,,,,KR,Seoul
+5p7f24Rk5HkUZsaS3BLG5F,Hailee Steinfeld,8846723,,71,0,,,,US,Los Angeles
+6u8KyY2rfBGDtDejRJ9JaQ,Madeline Juno,158247,german pop,55,7,2014,2024,11,DE,Offenburg
+7p71hjdN4GlGgIsmCQIvuC,Sıla Şahin,272418,"turkish pop, arabesk",65,0,,,,TR,Denizli
+6tPHARSq45lQ8BSALCfkFC,Lainey Wilson,1237490,country,77,4,2016,2024,9,US,Baskin
+6MPCFvOQv5cIGfw3jODMF0,Internet Money,957683,,69,3,2020,2020,1,,
+1mBydYMVBECdDmMfE2sEUO,Sachin-Jigar,5504937,"gujarati pop, bollywood, hindi pop, desi, gujarati garba",82,25,2011,2025,15,,
+4Kxlr1PRlDKEB0ekOCyHgX,BIGBANG,5749286,k-pop,74,21,2006,2018,13,KR,Seoul
+2UFKXTZgKtOTHSqMSyAcLO,Glasperlenspiel,457695,german pop,54,5,2011,2018,8,DE,Stockach
+6T5tfhQCknKG4UnH90qGnz,DNCE,4574841,,69,2,2016,2024,9,US,San Francisco
+72A0Z8q8NiochyK9gUHpCR,The Kolors,555820,"italo dance, italo disco",65,3,2014,2017,4,GB,Liverpool
+0blbVefuxOGltDBa00dspv,LiSA,3383668,"anime, j-pop, j-rock",71,22,2011,2024,14,JP,Seki
+0Y8KmFkKOgJybpVobn1onU,Luciano Pavarotti,1052806,"opera, classical, canzone napoletana",65,25,2010,2025,16,IT,Modena
+6J7biCazzYhU3gM9j1wfid,Jamiroquai,2619487,acid jazz,71,10,1993,2017,25,GB,Ealing
+2wX6xSig4Rig5kZU6ePlWe,KSHMR,1777145,"big room, edm, electronica, slap house",65,4,2016,2023,8,US,Berkeley
+1kDGbuxWknIKx4FlgWxiSp,Nothing But Thieves,1282736,modern rock,67,7,2015,2024,10,GB,Southend-on-Sea
+7uMDnSZyUYNBPLhPMNuaM2,Kenya Grace,558998,,65,1,2024,2024,1,GB,South Africa
+6cSxzHrQgGc4I4Ck5Gewej,Sons Of The East,204417,"indie folk, folk pop",62,3,2015,2023,9,AU,
+2rhFzFmezpnW82MNqEKVry,Ski Mask The Slump God,6008915,,72,5,2018,2024,7,US,Fort Lauderdale
+2ycnb8Er79LoH2AsR5ldjh,Pet Shop Boys,2071240,"synthpop, new wave",70,25,1993,2024,32,GB,Chelsea
+4AcHt3JxKy59IX7JNNlZn4,Fitz and The Tantrums,980036,,69,10,2010,2024,15,US,Los Angeles
+5aYyPjAsLj7UzANzdupwnS,Good Charlotte,2748226,"pop punk, punk, emo, emo pop",67,9,2001,2018,18,US,Waldorf
+4ofCBoyEiGSePFAG500xev,Regard,275742,,67,0,,,,,
+07D1Bjaof0NFlU32KXiqUP,Lucy Dacus,592723,,73,4,2016,2025,10,US,Richmond
+66TrUkUZ3RM29dqeDQRgyA,Ella Eyre,863426,,67,1,2015,2015,1,US,Newport News
+1uRxRKC7d9zwYGSRflTKDR,SAULT,532647,,67,11,2019,2025,7,,
+3836OTICMPjhTMMcpPw4EC,Broiler,191539,"norwegian pop, russelåter",66,3,2013,2013,1,NO,Drammen
+0LKAV3zJ8a8AIGnyc5OvfB,SDM,1842543,pop urbaine,78,4,2021,2024,4,FR,Meudon
+2nm38smINjms1LtczR0Cei,Goodboys,85925,,68,0,,,,GB,London
+2TzHIUhVpeeDxyJPpQfnV3,Katrina & The Waves,128003,,64,5,1985,2010,26,GB,Cambridge
+08mjMUUjyTchMHCW7evc3R,Hande Yener,1856782,"turkish pop, t-pop",71,24,2000,2023,24,TR,İstanbul
+7gbmX8SsfjEjxDMzBi1ZOL,Joe Jonas,1764401,,69,2,2011,2024,14,GB,Crookes
+3rWZHrfrsPBxVy692yAIxF,WILLOW,2871273,,71,8,2015,2024,10,US,Los Angeles
+6EIriUxo7vznEgJtTDlXpq,Azahriah,566381,,63,5,2021,2025,5,HU,Hungary
+0UWZUmn7sybxMCqrw9tGa7,Juanes,5285905,"latin pop, colombian pop, rock en español",77,17,2000,2023,24,CO,Medellín
+2yTUYhIf8fxptTIy3KLuJD,Mike + The Mechanics,730791,soft rock,61,15,1985,2025,41,GB,Dover
+4kYGAK2zu9EAomwj3hXkXy,JP Cooper,930512,,67,2,2017,2022,6,US,Detroit
+7e1BNCygl2Gf7CX8LrByPv,Ummet Ozcan,564064,"big room, edm",61,1,2023,2023,1,NL,
+4sbXXFzEWJY2zsZjelerjX,Dadju,7305175,"pop urbaine, french pop",75,9,2014,2025,12,FR,Bobigny
+30b9WulBM8sFuBo17nNq9c,G-DRAGON,3502604,"k-pop, k-rap",75,8,2009,2025,17,GB,
+053q0ukIDRgzwTr4vNSwab,Grimes,2548354,art pop,70,6,2010,2021,12,CA,Vancouver
+25MkkfEousyfp2eyh38FUl,Lucio Dalla,1408537,"italian singer-songwriter, singer-songwriter, italo dance",64,25,1984,2023,40,IT,Bologna
+5yw4tA8D5uG7tT3NaDvq10,Stellar,654063,,67,1,2024,2024,1,NZ,Auckland
+4vhNDa5ycK0ST968ek7kRr,Carlos Vives,6607736,"colombian pop, vallenato, latin, latin pop",76,19,1994,2023,30,CO,Santa Marta
+5ChF3i92IPZHduM7jN3dpg,Nicky Romero,2185908,"big room, edm, electro house, progressive house",66,1,2012,2012,1,NL,Amerongen
+3YPpKFZGAT0O8SJca2Aaj8,LINA,158541,german pop,52,5,2016,2023,8,DE,Seelze
+1uiEZYehlNivdK3iQyAbye,Tom Misch,1320878,,68,5,2014,2021,8,GB,London
+5QdyldG4Fl4TPiOIeMNpBZ,Big Thief,1144834,,71,5,2016,2022,7,US,Brooklyn
+0lJlKQvuM2Sd9DPPyUXcHg,Sixpence None The Richer,666237,,70,10,1995,2025,31,US,New Braunfels
+0AqlFI0tz2DsEoJlKSIiT9,Emilia,4524334,argentine trap,80,3,2022,2023,2,SE,Stockholm
+5pUo3fmmHT8bhCyHE52hA6,Liam Payne,10253218,,67,1,2019,2019,1,,Wolverhampton
+4TEK9tIkcoxib4GxT3O4ky,KISS OF LIFE,2151365,k-pop,72,0,,,,KR,Seoul
+2NdeV5rLm47xAvogXrYhJX,Ciara,7107439,,73,11,2004,2024,21,,Austin
+4I7D65YMlr6ZxVEGPb7q2K,Johannes Oerding,736815,german pop,55,15,2009,2024,16,DE,Münster
+5EehXjjMktLuJmbRsM7YfB,Disciples,259483,house,67,0,,,,GB,London
+5vssQp6TyMHsx4mihKVAsC,Holly Walker,31898,,66,1,2023,2023,1,US,Lubbock
+6QrQ7OrISRYIfS5mtacaw2,Jaymes Young,1005623,,67,2,2017,2022,6,CA,Toronto
+1dpqJqIuNqideTvmxBsSku,Mabel Matiz,5127977,"turkish pop, t-pop, arabesk",69,6,2012,2024,13,TR,Mersin
+2kreKea2n96dXjcyAU9j5N,The Pointer Sisters,1108902,disco,64,21,1973,2023,51,US,Oakland
+0pWR7TsFhvSCnbmHDjWgrE,Creepy Nuts,1848862,"anime, j-pop, j-rap",74,8,2017,2025,9,JP,
+7BJjzi0JHyDHAsmVe21dGa,Serdar Ortaç,2082396,"turkish pop, t-pop, arabesk, oyun havasi",69,20,1994,2023,30,TR,
+3WUe8ADT5d65WeByR3ubl7,Vanessa Mai,170903,"schlager, schlagerparty, german pop",52,13,2016,2024,9,DE,Aspach
+2RrkjxcwXz281MxRs8Oqp7,LUNA,217172,german pop,53,2,2022,2024,3,JP,Kanagawa
+6RHTUrRF63xao58xh9FXYJ,IVE,5516919,k-pop,75,1,2023,2023,1,KR,Seoul
+6dJeKm76NjfXBNTpHmOhfO,Selena Gomez & The Scene,10143237,,70,8,2009,2011,3,US,Hollywood
+4Jah47VbnOtQGLtmdrDRXp,Samet Kardeşler,54784,turkish pop,64,0,,,,IL,Yerushalayim
+0lZoBs4Pzo7R89JM9lxwoT,Duran Duran,3360061,"new wave, synthpop",72,23,1981,2024,44,GB,Birmingham
+6tzRZ39aZlNqlUzQlkuhDV,Pabllo Vittar,4352497,"brazilian pop, funk pop, tecnobrega",72,11,2017,2024,8,BR,São Luís
+2ZRQcIgzPCVaT9XKhXZIzh,Gryffin,987877,"edm, melodic bass, future bass",70,4,2019,2024,6,US,San Francisco
+4OGiMt96TFUKkKWf7Imlno,Michael Patrick Kelly,446618,,56,8,2003,2023,21,DE,Dublin
+2FKWNmZWDBZR4dE5KX4plR,Diljit Dosanjh,31212063,"bhangra, punjabi pop, punjabi hip hop, desi, bollywood, desi pop",80,22,2005,2024,20,IN,Punjab
+2e4uIDIIBXR0MmZe0AJGhR,Bosse,279826,german pop,56,13,2005,2025,21,DE,Braunschweig
+0SCbttzoZTnLFebDYmAWCm,Glee Cast,1538611,christmas,70,25,2012,2024,13,US,
+5xW9faV2hqlLG0rp7CTBof,Julian le Play,34972,german pop,38,5,2012,2023,12,AT,Wien
+4Ws2otunReOa6BbwxxpCt6,Benny Benassi,592402,electro house,68,7,2003,2016,14,IT,Reggio Emilia
+7J207fU1tty4DWCIhJSzh0,Samy Deluxe,378402,german hip hop,54,20,2001,2024,24,DE,Hamburg
+7nU4hB040gTmHm45YYMvqc,Hannah Montana,4752700,,67,6,2006,2010,5,US,
+1eClJfHLoDI4rZe5HxzBFv,INXS,2932649,,71,17,1980,2022,43,AU,Sydney
+4iJLPqClelZOBCBifm8Fzv,Pierce The Veil,3506281,"emo, screamo, post-hardcore",76,7,2007,2023,17,US,San Diego
+2auikkNYqigWStoHWK1Grq,John Martin,75921,,68,0,,,,US,Flushing
+4dqqy9z09htrVsRiJpoQmw,DESH,277504,,64,2,2022,2022,1,,
+1DxLCyH42yaHKGK3cl5bvG,Maria Becerra,7734837,argentine trap,79,2,2021,2022,2,AR,Quilmes
+2l35CQqtYRh3d8ZIiBep4v,MKTO,1108779,,67,1,2012,2012,1,US,Los Angeles
+6wxh9aTFgTS4OiyYlnQBq6,Bengü,1583173,"turkish pop, t-pop, arabesk",69,9,2005,2024,20,TR,İzmir
+7okwEbXzyT2VffBmyQBWLz,Maná,12792154,"rock en español, latin rock, mexican rock, latin pop",79,24,1990,2015,26,MX,Guadalajara
+5X1JzPIIonP3u9lA580pPT,Francesco Yates,54357,,64,1,2015,2015,1,,Toronto
+7xkAwz0bQTGDSbkofyQt3U,Belinda Carlisle,929302,,64,11,1986,2022,37,US,Los Angeles
+26AHtbjWKiwYzsoGoUZq53,Pentatonix,3957543,christmas,64,18,2012,2022,11,US,Arlington
+6LjwPhoH3RDoL8JoXciUHL,Pupo,114255,"italo dance, italian singer-songwriter",52,17,1991,2016,26,IT,Laterina
+6dlzQ6fiPna40trq1Ek6cb,1da Banton,326141,"afrobeats, afrobeat, afropop",63,1,2021,2021,1,NG,Port Harcourt
+5iB5AWIa7qreioi0AF3Bxa,The Bellamy Brothers,421809,,61,25,1994,2024,31,US,Los Angeles
+1xNmvlEiICkRlRGqlNFZ43,Axwell,1514780,edm,66,1,2017,2017,1,SE,Lund
+7osFcSwjlRPwxZdVALIOuC,Henrik,172736,"christian folk, folk pop",67,2,2024,2025,2,SE,
+7F2utINZ6tSokSiZTQBE27,Guè,2824641,italian trap,78,18,2011,2025,15,IT,Milano
+2kGBy2WHvF0VdZyqiVCkDT,Father John Misty,924188,chamber pop,71,7,2012,2025,14,US,Rockville
+1xT5p0VBpnZDrvVSjX9sri,Dash Berlin,577283,"trance, big room, electronica",65,14,2009,2021,13,NL,Den Haag
+5rkVyNGXEgeUqKkB5ccK83,Ashanti,3404443,r&b,74,11,2002,2023,22,US,Glen Cove
+0cQbJU1aAzvbEmTuljWLlF,No Doubt,3025145,,71,8,1992,2024,33,,
+5sUrlPAHlS9NEirDB8SEbF,Alejandro Sanz,7974446,latin pop,79,23,1991,2021,31,ES,Madrid
+6N8vbhxZ0CYJHd8WGJ9Snf,AVEC,39422,,42,4,2016,2025,10,,
+5gw5ANPCVcxU0maLiGRzzP,Billy Raffoul,150583,,58,3,2020,2023,4,US,Canada
+4jF4tHJlYKS5Z9xdEatCfq,Kurtuluş Kuş,873739,"turkish pop, arabesk",62,0,,,,,İzmir
+0aXi5kveuKNm6t5vGVeUBM,ooes,479834,,60,2,2020,2021,2,RU,Dzerzhinsk
+5yNlFmp5vESd61p6Ob3Qzo,Lary,24643,"german pop, german hip hop",51,5,2013,2024,12,DE,Gelsenkirchen
+3kHVioJpVxlazAAKQ64pC1,Yuna,451766,"malay, malaysian pop",65,6,2012,2022,11,MY,Alor Setar
+2e4nwiX8ZCU09LGLOpeqTH,Laura Pausini,2753534,"latin pop, italo dance",73,25,2004,2023,20,IT,Faenza
+5nLYd9ST4Cnwy6NHaCxbj8,CeeLo Green,678352,,67,8,2002,2020,19,US,Atlanta
+6GMYJwaziB4ekv1Y6wCDWS,Soulja Boy,2287895,,71,25,2015,2025,11,US,Chicago
+2hR4h1Cao2ueuI7Cx9c7V8,Cavetown,4370836,bedroom pop,71,9,2015,2022,8,,Oxford
+0RpddSzUHfncUWNJXKOsjy,Neon Trees,1265852,,67,7,2010,2024,15,US,Provo
+6o7TsOGOEF5Mqpiz2KCyWE,HammAli & Navai,1386625,,60,2,2018,2021,4,RU,Moscow
+5cIc3SBFuBLVxJz58W2tU9,Oh Wonder,1088894,,67,5,2015,2022,8,US,Saginaw
+4njdEjTnLfcGImKZu1iSrz,AWOLNATION,2080131,,64,9,2011,2024,14,US,Los Angeles
+2gpELJDuhOQi1DPcI0VFvw,Al Bano,155685,"italo dance, schlager",53,25,2004,2020,17,IT,Cellino San Marco
+5SHxzwjek1Pipl1Yk11UHv,Tom Grennan,591722,,65,4,2018,2023,6,GB,Bedford
+2iEvnFsWxR0Syqu2JNopAd,Smash Mouth,1162031,,68,10,1997,2023,27,US,San Jose
+3O6oippEBKDR0OJDo6O1cZ,Fabian Wegerer,42441,german pop,52,2,2023,2025,3,AT,Kirchdorf an der Krems
+50OApTJurDusIo9dGTqSU4,Lilly Wood and The Prick,263836,french indie pop,64,6,2010,2021,12,FR,Paris
+4FmJD0mpgQ70SNt2EKK8tq,Miracle Of Sound,404541,"sea shanties, pirate metal, medieval",63,15,2011,2024,14,IE,Cork
+5RJFJWYgtgWktosLrUDzff,Griff,411125,,66,3,2021,2024,4,GB,Kings Langley
+6mzs66iVW15C5iLt0JLt41,ILIRA,53128,,56,0,,,,CH,Brienz
+0TImkz4nPqjegtVSMZnMRq,TLC,4335645,,71,6,1992,2024,33,US,Atlanta
+5gfuF8sy6oqPt0162Z17Ru,Lyrical Son,116527,,54,8,2008,2024,17,US,St. Louis
+7kplJl06UmldxLKseURAYi,Warren Zeiders,957707,country,75,7,2021,2025,5,,
+5uCXJWo3WoXgqv3T1RlAbh,Katie Melua,593318,,60,23,2003,2024,22,GB,Kutaisi
+2pbct1ni3yLLAfzrSXQDrH,Kubilay Karça,562108,"turkish hip hop, arabesk, turkish pop",66,3,2019,2022,4,NL,
+3ScY9CQxNLQei8Umvpx5g6,Fat Joe,2005287,east coast hip hop,70,14,1993,2024,32,US,The Bronx
+7DMveApC7UnC2NPfPvlHSU,Cheat Codes,2103319,,67,5,2021,2023,3,US,Los Angeles
+1QsdzIKkTT5gDFj8GB1cIX,Yseult,304935,,69,2,2015,2024,10,FR,Tergnier
+6Gk5hoM7eW8NSCYhICMDHw,Zak Abel,171489,,63,3,2015,2023,9,GB,London
+1MIVXf74SZHmTIp4V4paH4,Mabel,2037958,,66,4,2019,2022,4,,Alhaurín el Grande
+27LlKWxS3KXW7RRAxN5S8s,Geolier,3064165,"canzone napoletana, neomelodico, italian trap",78,6,2019,2024,6,,Napoli
+48CUA59SDed3IdCctKndud,Volkan Konak,500168,"karadeniz folk, arabesk, turkish pop, oyun havasi",68,15,1989,2025,37,TR,Trabzon
+2sG4zTOLvjKG1PSoOyf5Ej,Brandi Carlile,888276,"folk, americana",67,13,2005,2025,21,US,Ravensdale
+5sm0jQ1mq0dusiLtDJ2b4R,Eric Prydz,669860,,66,3,2012,2016,5,SE,Täby municipality
+4MrQDA45Gd0llLrwFUzimG,Flawed Mangoes,631070,,68,3,2023,2025,3,,
+65AzRSW0jKSs0WtttEXrOw,ELIF,257173,"german pop, german hip hop",53,4,2013,2023,11,DE,Berlin
+0NIIxcxNHmOoyBx03SfTCD,Tinashe,2998802,alternative r&b,72,8,2014,2024,11,US,Lexington
+7k73EtZwoPs516ZxE72KsO,ONE OK ROCK,5705602,"j-rock, j-pop, visual kei",74,11,2007,2025,19,JP,Tokyo
+6t1gpxYbY8OlLA7D2RiikQ,Loud Luxury,678849,,68,2,2020,2020,1,CA,London
+1LsT3D414izg8h3K1VbrL4,Madsen,214263,german pop,52,13,2005,2024,20,DE,Clenze
+5zzrJD2jXrE9dZ1AklRFcL,KT Tunstall,453143,,64,12,2005,2023,19,GB,Edinburgh
+4etuCZVdP8yiNPn4xf0ie5,Julio Iglesias,3366065,bolero,72,25,1984,2017,34,ES,Madrid
+3IZrrNonYELubLPJmqOci2,Nancy Sinatra,543412,,66,23,1972,2024,53,US,Hoboken
+354bn1gKNGwig4UD80Lytn,2Ton,189597,,54,1,2023,2023,1,XK,
+2oSONSC9zQ4UonDKnLqksx,Atif Aslam,34367956,"bollywood, hindi pop, desi, sufi, qawwali",81,5,2006,2024,19,PK,
+30SUIQhGDLj1pP0yg4fSMu,Miss Platnum,21275,german pop,51,5,2007,2019,13,,Timișoara
+6aZyMrc4doVtZyKNilOmwu,Colbie Caillat,2542087,,69,12,2007,2023,17,US,Malibu
+7CUFPNi1TU8RowpnFRSsZV,Niska,5928536,pop urbaine,74,7,2015,2024,10,FR,Villeneuve-Saint-Georges
+2Pawr6MMX9VBIQ9oUHg7jc,Chris Norman,213590,,59,22,1982,2024,43,GB,Redcar
+0BmLNz4nSLfoWYW1cYsElL,Alexandra Stan,413910,,64,6,2011,2024,14,RO,Constanța
+5LGo1zHegJTWzqVXgeNplt,Ryan Mack,423641,,65,0,,,,US,Jacksonville
+5schNIzWdI9gJ1QRK8SBnc,Ben Howard,2016866,"indie folk, folk pop",66,8,2011,2024,14,DE,Durban
+2eam0iDomRHGBypaDQLwWI,Bleachers,852563,,70,11,2014,2025,12,US,Bergen County
+4RSyJzf7ef6Iu2rnLdabNq,Willy William,276577,,67,3,2012,2016,5,US,Houlton
+5bfglVyGJppmmNoC2rhBUG,Natalie Jane,1110763,,63,1,2023,2023,1,GB,Steventon
+36iDrP3UnCxsSH9LuSdkDj,Masoom Sharma,2468627,haryanvi pop,82,4,2024,2025,2,,Haryana
+2ekjTXgjxbWwBX5lTAj4DU,Eric Carmen,428973,,65,6,1975,2024,50,GB,Ripley
+1tqZaCwM57UFKjWoYwMLrw,The Cardigans,1534672,,71,9,1994,2024,31,SE,Jönköping
+6vwjIs0tbIiseJMR3pqwiL,Beartooth,846390,"metalcore, post-hardcore",62,12,2014,2024,11,US,Columbus
+45ruzGUmIr8WLjLOPJ9mGU,Miggy Dela Rosa,15399,,63,0,,,,GB,
+1Y2FwScblyMxpLTrNdfwyU,Ahmet Kaya,6553516,"arabesk, anatolian rock",68,25,1989,2023,35,TR,Malatya
+3RBqLTttwN1orqQozYfmJo,Emily Roberts,11632,,58,2,2015,2018,4,DE,München
+5069JTmv5ZDyPeZaCCXiCg,wave to earth,4329974,,76,3,2023,2024,2,KR,Seoul
+3vAaWhdBR38Q02ohXqaNHT,The All-American Rejects,2814195,"pop punk, emo, emo pop",69,6,2002,2012,11,US,Stillwater
+3hJv5p2HwekJysNB2NDnEC,André Rieu,1336028,"classical, orchestra",66,25,2012,2025,14,NL,Maastricht
+71KlQX0q5wz5f9iytwPfou,Graham Candy,28809,,54,1,2016,2016,1,,
+378dH6EszOLFShpRzAQkVM,Lindsey Stirling,2388705,,66,9,2012,2024,13,,Santa Ana
+1Xfmvd48oOhEWkscWyEbh9,Lloyd,2570822,r&b,72,5,2004,2018,15,GB,Kensington
+0dlOr0VIysztGWvU1dpjmP,Natalie Imbruglia,1110533,,66,7,1997,2024,28,AU,Sydney
+5SulO4l40qDuV9zUGLZx7n,Capo Plaza,4077002,"italian trap, trap",75,8,2016,2024,9,IT,Salerno
+4fwuXg6XQHfdlOdmw36OHa,Paloma Faith,1420900,,66,11,2009,2024,16,GB,Stoke Newington
+6nB0iY1cjSY1KyhYyuIIKH,FKA twigs,1396677,"art pop, alternative r&b",69,4,2014,2025,12,,Cheltenham
+03SZv6slUnLnHI3IfwG0gl,Grossstadtgeflüster,140771,german pop,50,6,2006,2024,19,,
+5vCOdeiQt9LyzdI87kt5Sh,AronChupa,435399,electro swing,61,0,,,,SE,Borås
+0OdUWJ0sBjDrqHygGUXeCF,Band of Horses,1037049,,63,8,2006,2024,19,US,Seattle
+25u1DN0MwQVSav4XoJS7hl,Olly,380674,,75,4,2020,2025,6,GB,Witham
+7CyeXFnOrfC1N6z4naIpgo,The Ronettes,395821,christmas,66,4,1964,2024,61,GB,Liverpool
+4NZvixzsSefsNiIqXn0NDe,Maggie Rogers,1234844,,70,5,2019,2024,6,US,Houston
+43fk67sl4SOrjJ7mtLTVVt,Gregor Hägele,55788,german pop,51,1,2024,2024,1,DE,
+6vytZ677lz4LzCrUDcDokM,Blu Cantrell,337366,,64,4,2001,2004,4,US,Providence
+7LnaAXbDVIL75IVPnndf7w,Jamie Foxx,1292785,,71,5,1994,2015,22,US,Texas
+2Q3eZMfDQgT8MhPowKFXYO,t.A.T.u.,991971,,65,9,2002,2011,10,RU,Moscow
+46zuW8tHxwahYn7VNMgYTa,Yalın,1960706,"turkish pop, t-pop",71,7,2004,2016,13,TR,Istanbul
+4ehtJnVumNf6xzSCDk8aLB,Martin Jensen,1269862,,62,0,,,,US,Steubenville
+2gduEC76ry33RVurAvT05p,Nathan Dawe,147499,,65,0,,,,DE,Berlin
+4hRijRWd1vh3JX68IyZpfH,Elgit Doda,77144,,55,1,2024,2024,1,AL,Albania
+2wpWOzQE5TpA0dVnh5YD08,Bronski Beat,647637,"synthpop, hi-nrg",64,5,1984,2024,41,GB,Brixton
+0a1SidMjD8D6EHvJph4n2H,Ruger,4011908,"afrobeats, afrobeat, afropop, afropiano, afroswing, afro soul",71,4,2022,2025,4,NG,Nigeria
+7tmMPdOmFvdRvbj2aWoiRi,Jovanotti,2663621,"italian singer-songwriter, italo dance",69,25,2005,2025,21,IT,Roma
+3kjuyTCjPG1WMFCiyc5IuB,Arcade Fire,2369658,"indie rock, baroque pop",67,9,2004,2022,19,AU,
+0jdNdfi4vAuVi7a6cPDFBM,Lazza,2590376,italian trap,75,8,2017,2024,8,IT,Milano
+6hN9F0iuULZYWXppob22Aj,Simple Minds,2215710,new wave,69,25,1982,2025,44,GB,Glasgow
+6UZ0ba50XreR4TM8u322gs,JISOO,5809374,k-pop,73,0,,,,KR,Gunpo
+7gXb99Sf9nNmpNYeAgIQFG,Sub Urban,1819209,,67,1,2022,2022,1,AU,Whangārei
+6aq8T2RcspxVOGgMrTzjWc,Soft Cell,759731,"synthpop, new wave",64,16,1981,2024,44,GB,Leeds
+387fj6TuPJ3y2H8ViAm6r0,Pietro Lombardi,467194,"schlager, german pop, schlagerparty",50,4,2011,2025,15,DE,Karlsruhe
+6VxCmtR7S3yz4vnzsJqhSV,Sheppard,330910,,62,6,2015,2024,10,AU,Brisbane
+3YwqjMyrRfuixi2pbgTGCE,Heuss L'enfoiré,1784741,pop urbaine,67,4,2019,2024,6,FR,Gennevilliers
+4BdukbROt8qmkffXOpDW50,Finem,179766,,55,0,,,,,
+6pmxr66tMAePxzOLfjGNcX,Beirut,1026071,"chamber pop, baroque pop, indie folk",60,9,2006,2025,20,,Santa Fe
+0avMDS4HyoCEP6RqZJWpY2,Ethel Cain,938566,,70,4,2019,2025,7,US,Tallahassee
+3fsCWTIuWIRvEGS7gerSJX,Jennifer Rush,321895,,56,12,1984,2014,31,CA,Toronto
+3nlpTZci9O5W8RsNoNH559,Juan Luis Guerra 4.40,5916050,"merengue, bachata, salsa",77,24,1985,2024,40,DO,Santo Domingo
+5szilpXHcwOqnyKLqGco5j,Faye Webster,1866814,,75,6,2013,2024,12,US,Kansas City
+3klZnJvYGIbWritVwQD434,Duncan Laurence,669015,,66,5,2020,2023,4,NL,Spijkenisse
+5abSRg0xN1NV3gLbuvX24M,Amr Diab,9505802,"egyptian pop, khaleeji",70,25,1994,2023,30,QA,
+6lB8vOoI4DRrrVxXwuV19c,Mike Perry,1419821,tropical house,63,0,,,,US,Canonsburg
+1KP6TWI40m7p3QBTU6u2xo,BØRNS,1341563,,68,4,2015,2025,11,US,Grand Haven
+7jEEE187pVG6InOxn03oA5,Benjamin Ingrosso,296624,,66,8,2018,2024,7,GB,Lowestoft
+3oCrmkKTKBi7DUgmtyGkId,Ich + Ich,266338,german pop,51,8,2005,2010,6,DE,Germany
+7sfgqEdoeBTjd8lQsPT3Cy,Emeli Sandé,2181403,,63,9,2012,2023,12,GB,Sunderland
+29WzbAQtDnBJF09es0uddn,Corinne Bailey Rae,837249,,66,7,2006,2023,18,GB,Leeds
+3DCWeG2J1fZeu0Oe6i5Q6m,PLK,2285202,pop urbaine,74,9,2017,2024,8,FR,Paris
+4W31XN2JH8mC54NkHdh04s,Sertab Erener,2097159,"turkish pop, t-pop, arabesk",71,22,1992,2024,33,TR,İstanbul
+3vUMXQ9kPnZAQkMkZZ7Hfh,Tiakola,2959323,pop urbaine,76,3,2022,2024,3,FR,Bondy
+4rj3KWaLAnuxgtMMkypZhf,Juli,26750,,75,4,2019,2025,7,DE,Giessen
+5qa31A9HySw3T7MKWI9bGg,FLETCHER,981484,,65,4,2020,2024,5,US,Asbury Park
+4ckLjJztj53Ifid7WHweBn,Aleyna Tilki,1072524,"turkish pop, t-pop",67,0,,,,TR,Konya
+0Je74SitssvJg1w4Ra2EK7,4 Non Blondes,618647,,66,1,1992,1992,1,US,San Francisco
+2vVNxGBvKRQMWwI5c8KmYh,Tujamo,278092,,61,0,,,,DE,Germany
+5AVJt6VYXT4hMRP8D3MRAC,Mighty Oaks,166191,"folk pop, indie folk",50,5,2014,2024,11,DE,Berlin
+6zLBxLdl60ekBLpawtT63I,Cody Johnson,1716083,"texas country, country, red dirt",77,11,2009,2024,16,US,
+4QTVePrFu1xuGM9K0kNXkk,Dexys Midnight Runners,294072,,64,9,1980,2024,45,GB,Birmingham
+3gqabzO7zvHVzAIT0Nxqa3,LOTTE,224538,german pop,52,4,2017,2022,6,AT,Wien
+1EowJ1WwkMzkCkRomFhui7,RADWIMPS,4479171,"anime, j-pop, j-rock",75,16,2006,2024,19,JP,Yokohama
+1yqxFtPHKcGcv6SXZNdyT9,MK,316796,house,68,0,,,,US,Detroit
+1snhtMLeb2DYoMOcVbb8iB,Kenshi Yonezu,6830949,"j-pop, anime, j-rock",76,8,2010,2024,15,,
+1J2VVASYAamtQ3Bt8wGgA6,Ja Rule,2056018,"east coast hip hop, r&b",73,8,1999,2012,14,,Queens
+5n9bMYfz9qss2VOW89EVs2,Bomba Estéreo,1120575,latin alternative,73,9,2008,2025,18,CO,Bogotá
+3ngKsDXZAssmljeXCvEgOe,Eagle-Eye Cherry,205812,,61,6,1998,2023,26,SE,Stockholm
+3b8QkneNDz4JHKKKlLgYZg,Florida Georgia Line,5531351,"country, pop country, acoustic country",74,9,2012,2021,10,US,Nashville
+0J7U24vlOOIeMpuaO6Q85A,LP,2780712,,69,8,2016,2023,8,,Huntington
+3cniTumSiUysiPWXapGx1i,Cutting Crew,489055,,64,7,1986,2022,37,GB,London
+4XECs6DHU3xRrr0uydWY2R,Nosi,42424,stutter house,61,0,,,,,
+4pnp4w9g30yLfVIAFnZMRd,ACRAZE,146973,tech house,64,0,,,,US,
+6JMHws5haIO6V35YNYDnDw,Atomic Kitten,496439,,58,3,2001,2003,3,GB,Liverpool
+2gIGkRqCo4NK2PUCI8u4aQ,Ferdinand fka Left Boy,190054,,51,3,2014,2022,9,AT,Wien
+1Wch8598BBzU0zVBtcCFJh,Blümchen,94351,"eurodance, happy hardcore, german pop",53,6,1996,2000,5,DE,
+6sNHXRLCirFkzNYkAXg4Zq,Jana,51364,,45,9,1998,2024,27,RS,
+6VD4UEUPvtsemqD3mmTqCR,Deorro,1270295,"melbourne bounce, electro house",68,2,2017,2022,6,,Ciudad de México
+4poL7YCSkG7kMnWjAdDU91,Era Istrefi,157552,,56,0,,,,XK,Prishtina
+5FdBwTRR0OnhEFeuLvt8oM,Zate,166965,,52,5,2017,2023,7,DE,
+0pCNk4D3E2xtszsm6hMsWr,K.Flay,629732,,64,8,2009,2023,15,US,Wilmette
+4qwGe91Bz9K2T8jXTZ815W,Janet Jackson,4043485,new jack swing,71,14,1982,2023,42,US,Gary
+64rxQRJsLgZwHHyWKB8fiF,Eiffel 65,416299,"eurodance, europop, italo dance",63,4,2001,2011,11,IT,Torino
+2R1QrQqWuw3IjoP5dXRFjt,Marlon Roudette,81060,,51,2,2012,2014,3,GB,
+6qO6LhD6FuXK5e2PtfAIMz,We Came As Romans,908011,"metalcore, post-hardcore, screamo, metal",62,7,2009,2022,14,US,Troy
+1xr2G8Hlx4QWmT9HaUbmoO,Young Stoner Life,240357,,67,13,2018,2023,6,,
+27FGXRNruFoOdf1vP8dqcH,Cassie,1799234,,68,1,2006,2006,1,US,New London
+5PN2aHIvLEM98XIorsPMhE,Kim Carnes,401443,,64,15,1971,2011,41,US,Los Angeles
+5gs4Sm2WQUkcGeikMcVHbh,Hamza,1542001,pop urbaine,74,9,2015,2023,9,BE,Laeken
+5QNm7E7RU2m64l6Gliu8Oy,HARDY,1331056,"country, country rock",76,5,2019,2025,7,FR,Paris
+1P6U1dCeHxPui5pIrGmndZ,Air,1079729,"trip hop, downtempo",66,15,1998,2025,28,FR,Versailles
+3gk0OYeLFWYupGFRHqLSR7,Showtek,486052,"hardstyle, big room, electronica, edm",63,3,2009,2024,16,NL,
+1o2NpYGqHiCq7FoiYdyd1x,Bea Miller,3099431,,66,2,2018,2020,3,US,Clarinda
+1gPhS1zisyXr5dHTYZyiMe,Kevin Gates,6507633,,76,19,2009,2025,17,US,New Orleans
+48sLioddyaXkuhyHXSkpsB,Parson James,70512,,64,0,,,,US,Barnwell
+0DxeaLnv6SyYk2DOqkLO8c,MAGIC!,1513408,,69,4,2014,2024,11,JP,Tokyo
+0jRqFvRKCDryHOgrgFqsKG,Fools Garden,169418,,61,9,1993,2021,29,DE,Pforzheim
+4f7KfxeHq9BiylGmyXepGt,Tanishk Bagchi,4995088,"bollywood, hindi pop, desi, desi pop, gujarati garba",79,17,2016,2024,9,IN,Kolkata
+0vR2qb8m9WHeZ5ByCbimq2,Reik,9472673,latin pop,78,9,2005,2024,20,MX,Mexicali
+5vV3bFXnN6D6N3Nj4xRvaV,Jin,8921766,k-pop,78,2,2024,2024,1,US,Miami
+7urq0VfqxEYEEiZUkebXT4,112,1311590,r&b,68,7,1996,2020,25,US,Atlanta
+4z0OokRQUzur9rfy9KUiSf,Вектор А,194768,,59,0,,,,RU,
+2t1vHqFELDwweQWM6JYxHG,Kelvin Jones,58498,,54,4,2017,2024,8,US,Saratoga
+50JJSqHUf2RQ9xsHs0KMHg,Jon Bellion,1477821,,69,5,2013,2018,6,US,Lake Grove
+4eYnorQRhVHT2KBl2UyHHd,Vegedream,1929860,"pop urbaine, shatta",63,7,2018,2024,7,FR,Orléans
+4Wjf8diP59VmPG7fi4y724,Cedric Gervais,114582,edm,66,4,2006,2022,17,FR,Marseille
+4L2dV3zY7RmkeiNO035Fi0,Mufasa & Hypeman,21304,,64,0,,,,,
+2CIMQHirSU0MQqyYHq0eOx,deadmau5,2857791,"edm, progressive house, dubstep",68,23,2006,2024,19,CA,Niagara Falls
+5IDs1CK15HegSAhGEbSYXo,Billy Ocean,1261324,,65,9,1976,2020,45,GB,Siparia
+2RDOrhPqAM4jzTRCEb19qX,Sheck Wes,1704659,,66,1,2018,2018,1,US,Harlem
+6BRxQ8cD3eqnrVj6WKDok8,Ella Langley,390182,country,75,3,2023,2024,2,US,Newport News
+1caBfBEapzw8z2Qz9q0OaQ,Asking Alexandria,2360723,"metalcore, screamo, post-hardcore, metal, emo, emocore",66,11,2009,2023,15,GB,Dubai
+1sICjVlCMOCah0snHXWUz0,The BossHoss,264475,,50,19,2005,2023,19,GB,Liverpool
+05c2IUQGegTcqtWeWwuJ06,Amo988,498476,turkish pop,60,1,2023,2023,1,,
+4FcZfItjVIsfO9TynErl7X,Jubël,94450,,61,0,,,,SE,
+16GyR4WfCnIT2XST4ZLl2B,Melike Şahin,1447173,"turkish pop, arabesk",69,3,2021,2024,4,TR,Türkiye
+2HHmvvSQ44ePDH7IKVzgK0,Jain,979111,french pop,62,3,2016,2023,8,FR,Toulouse
+2cCUtGK9sDU2EoElnk0GNB,The National,1668609,indie rock,66,15,2001,2024,24,GB,Liverpool
+26N7IKzjFJ57y84GdXBd4A,Julia Meladin,67302,german pop,49,1,2025,2025,1,DE,
+4PULA4EFzYTrxYvOVlwpiQ,Sidhu Moose Wala,41196055,"punjabi hip hop, punjabi pop, bhangra, desi hip hop",78,3,2018,2021,4,IN,Moosa
+6IKlXZEFOvk9itrP1s0knJ,The Red Clay Strays,838331,country,74,3,2022,2024,3,,Mobile
+2eogQKWWoohI3BSnoG7E2U,Donna Summer,2094381,"disco, hi-nrg",66,25,1982,2025,44,US,Boston
+0mkH5jj3goQ51JtPKVodTo,Mustafa Sandal,1021540,"turkish pop, t-pop",65,14,1994,2019,26,TR,Istanbul
+3rlKqNmhaP9UiC0wFQyFS3,Raf,463591,"italo dance, italo disco, italian singer-songwriter",58,18,1984,2024,41,AT,Vevey
+3zDRCqOhJXJfS2YWOEwGMC,Christopher,463928,,63,6,2012,2023,12,US,
+20s0P9QLxGqKuCsGwFsp7w,Mario,3782340,r&b,69,7,1982,2024,43,US,Philadelphia
+57WHJIHrjOE3iAxpihhMnp,Louis Tomlinson,7106232,,66,5,2020,2024,5,US,New Orleans
+5gFPi3KWXEwA9bLEO47Ow0,Sıla,2165478,"turkish pop, arabesk, t-pop",68,9,2007,2025,19,TR,Denizli
+6d47Z08T4snK50HgTEHo5Z,Sage The Gemini,919208,hyphy,66,2,2014,2017,4,US,Fairfield
+13ccXrK7AmXb4TddMkE7jy,Everything But The Girl,412374,,64,22,1984,2023,40,GB,Kingston upon Hull
+5NDMothbpdpq2xHqSjrrWn,Faith Evans,1763627,r&b,66,10,1995,2017,23,US,Lakeland
+7A8S43ryYdbWpJKeHRZRcq,JACKBOYS,991569,,65,1,2019,2019,1,US,
+6kz53iCdBSqhQCZ21CoLcc,Culture Club,1718315,,65,13,1982,2019,38,GB,London
+7IpWQKu80qQvyer3LO6SW3,Max Herre,173987,"german hip hop, german pop",52,13,1997,2024,28,DE,Stuttgart
+4463nfFMmK1cwAWBQDwT5e,Laura Branigan,826360,,65,9,1982,2020,39,US,Mount Kisco
+0lFLP59V4TY3XgnrkFIwxK,Katja Krasavice,409249,german hip hop,49,5,2020,2023,4,DE,Teplice

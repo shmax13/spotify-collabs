@@ -7,8 +7,8 @@ import musicbrainzngs
 
 # Spotify API credentials
 # not concealed so this can be easily run
-MY_CLIENT_ID = 'b2ff37d52bcc4441b0282edee1d54283'
-MY_CLIENT_SECRET = '656be244cf7c4ca6b7134bc13c415f83'
+MY_CLIENT_ID = '171c422d25de4589a5f076d40dd57de2'
+MY_CLIENT_SECRET = '17c4c41877244f85b3ed0e85355a5df1'
 
 # auth setup
 client_credentials_manager = SpotifyClientCredentials(client_id=MY_CLIENT_ID, client_secret=MY_CLIENT_SECRET)
@@ -132,6 +132,10 @@ def search_artists_by_genre(genre_name, limit=50):
                 # Get additional artist details using get_artist_info
                 artist_info = get_artist_info(artist['id'])
 
+                # try avoid API limits
+                time.sleep(0.5)
+                print(artist_info['name'])
+
                 # Add the fetched artist info to the artists list
                 artists.append({
                     'id': artist_info['id'],
@@ -152,6 +156,7 @@ def search_artists_by_genre(genre_name, limit=50):
                 break
 
         offset += 50
+
 
     return artists
 
@@ -216,8 +221,8 @@ def main():
     clear_csv_files()
 
     # Step 1: Start building the artist graph
-    genre = "Art Pop"  # Change this to any starting artist
-    max_artists = 100  # Adjust based on how big you want the dataset to be
+    genre = "Pop"  # Change this to any starting artist
+    max_artists = 1000  # Adjust based on how big you want the dataset to be
 
     print(f"Getting {max_artists} {genre} artists...")
     build_genre_graph(genre, max_artists)
