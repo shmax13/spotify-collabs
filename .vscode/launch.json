@@ -33,6 +33,13 @@
             "console": "integratedTerminal"
         },
         {
+            "name": "Predict with GraphSAGE",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "src/graphSAGE.py",
+            "console": "integratedTerminal"
+        },
+        {
             "name": "Print Results",
             "type": "debugpy",
             "request": "launch",
