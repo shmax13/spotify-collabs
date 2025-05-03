@@ -24,11 +24,11 @@ edge_index = torch.cat([edge_index, edge_index[[1, 0]]], dim=1)
 
 node2vec = Node2Vec(
     edge_index,
-    embedding_dim=32,  # Smaller embedding dimension for small dataset
-    walk_length=10,    # Shorter walk length
+    embedding_dim=32,
+    walk_length=15,  
     context_size=10,
-    walks_per_node=5,  # Fewer walks per node
-    num_negative_samples=2,  # Increase negative samples slightly
+    walks_per_node=10,  
+    num_negative_samples=5,  
     sparse=True
 )
 
@@ -50,7 +50,7 @@ def train():
     return total_loss / len(loader)
 
 # Train
-for epoch in range(1, 10001):
+for epoch in range(1, 201):
     loss = train()
     print(f"Epoch {epoch:03d} | Loss: {loss:.4f}")
 
@@ -70,7 +70,7 @@ for i in range(num_nodes):
             scores.append((i, j, sim))
 
 # Top results
-top_links = sorted(scores, key=lambda x: x[2], reverse=True)[:50]
+top_links = sorted(scores, key=lambda x: x[2], reverse=True)[:200]
 
 # Create DataFrame and write to CSV
 # Prepare data for CSV output

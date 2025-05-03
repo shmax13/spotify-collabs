@@ -1,51 +1,201 @@
 Artist 1,Artist 2,Score
-Billie Eilish,Yaeji,0.9936901
-Blood Orange,SOPHIE,0.9871727
-FKA twigs,Eartheater,0.9860301
-Lady Gaga,Empress Of,0.8415325
-FKA twigs,Empress Of,0.82729614
-Empress Of,Eartheater,0.791041
-Thom Yorke,Fever Ray,0.7193165
-Lady Gaga,FKA twigs,0.7099764
-Björk,PJ Harvey,0.6939199
-Lady Gaga,SOPHIE,0.6849968
-Perfume Genius,Caroline Polachek,0.68225014
-Lady Gaga,Eartheater,0.6820354
-Arca,Eartheater,0.6787964
-Björk,SOPHIE,0.67646784
-FKA twigs,Arca,0.67192113
-Fever Ray,Arca,0.6713953
-Blood Orange,Björk,0.6513649
-Billie Eilish,Lady Gaga,0.64819705
-Fever Ray,SOPHIE,0.6464731
-Lady Gaga,Yaeji,0.646053
-Shygirl,SOPHIE,0.64594203
-Lady Gaga,Blood Orange,0.6428394
-Arca,Empress Of,0.6292084
-Lady Gaga,Björk,0.62685776
-PJ Harvey,Fever Ray,0.6227617
-Blood Orange,Shygirl,0.61912787
-Blood Orange,Fever Ray,0.61429834
-Blood Orange,Eartheater,0.60769475
-SOPHIE,Eartheater,0.60704625
-Lana Del Rey,Perfume Genius,0.5859441
-Blood Orange,FKA twigs,0.5831944
-FKA twigs,Björk,0.57938886
-FKA twigs,SOPHIE,0.57699263
-Björk,Eartheater,0.5671221
-Caroline Polachek,Yaeji,0.5648906
-Grimes,Perfume Genius,0.5508623
-Billie Eilish,Caroline Polachek,0.54780835
-Charli xcx,Empress Of,0.5421862
-Empress Of,SOPHIE,0.5289088
-Shygirl,Fever Ray,0.52427685
-Charli xcx,Grimes,0.52262676
-Thom Yorke,Arca,0.51996744
-Blood Orange,Empress Of,0.518846
-Lana Del Rey,Caroline Polachek,0.5178232
-Caroline Polachek,Aldous Harding,0.5117965
-Björk,Empress Of,0.5086283
-Lana Del Rey,Aldous Harding,0.50143075
-Fever Ray,Eartheater,0.48094243
-Billie Eilish,Empress Of,0.4803034
-Grimes,Yaeji,0.4798969
+JP Cooper,Liam Payne,0.99082077
+Anastacia,Andrea Bocelli,0.9905516
+Liam Payne,Era Istrefi,0.98810863
+Joe Jonas,Liam Payne,0.987726
+JP Cooper,Era Istrefi,0.9873559
+JEREMIAS,CÉLINE,0.987195
+Gotye,Freya Ridings,0.98599285
+Panic! At The Disco,Colbie Caillat,0.98443377
+Shania Twain,(G)I-DLE,0.984426
+Joe Jonas,JP Cooper,0.9835893
+Klangkarussell,Oh Wonder,0.9827624
+Lilly Wood and The Prick,Graham Candy,0.98252445
+Chance Peña,Oh Wonder,0.9825095
+Yll Limani,Mc Kresha,0.9824002
+MHD,Niska,0.9820191
+Chance Peña,Matt Hansen,0.9817455
+Tate McRae,Loud Luxury,0.9814529
+Chance Peña,Billy Raffoul,0.98132706
+Klangkarussell,Chance Peña,0.98110574
+Lorde,The 1975,0.98089135
+Tate McRae,Freya Ridings,0.9807022
+Little Mix,(G)I-DLE,0.9798195
+Tones And I,Livingston,0.9798138
+MoTrip,Ich + Ich,0.9797262
+ACRAZE,Sheck Wes,0.979693
+Lorde,Carly Rae Jepsen,0.97897327
+Billy Raffoul,Oh Wonder,0.97894156
+Little Mix,Shania Twain,0.9788911
+Dermot Kennedy,James Carter,0.9787915
+Sabrina Carpenter,Norah Jones,0.97874504
+Klangkarussell,Billy Raffoul,0.9787122
+Francesco Yates,Lilly Wood and The Prick,0.9780986
+Tate McRae,deadmau5,0.9779718
+Culcha Candela,Mike Candys,0.97791356
+The 1975,Addison Rae,0.9776046
+Owl City,Deorro,0.9773608
+Clairo,Addison Rae,0.9773438
+Joe Jonas,Era Istrefi,0.97732353
+Panic! At The Disco,The National,0.9772275
+Ardian Bujupi,Yll Limani,0.9770321
+Gotye,KSHMR,0.97645783
+Tayc,MHD,0.97636676
+Tate McRae,Gotye,0.9763373
+Bassjackers,Blasterjaxx,0.9760779
+Tom Odell,Billy Raffoul,0.97599363
+Sfera Ebbasta,Yll Limani,0.9758308
+Soolking,Gazo,0.97572637
+Aya Nakamura,Riton,0.97530013
+Clairo,The 1975,0.97520196
+Andrea Bocelli,Jovanotti,0.9751891
+Tate McRae,Icona Pop,0.9750884
+Juanes,Bomba Estéreo,0.9748558
+Lorde,Addison Rae,0.97441757
+Olly Murs,Iyaz,0.9736778
+blink-182,5 Seconds of Summer,0.97356313
+Freya Ridings,deadmau5,0.97341377
+Tom Odell,Oh Wonder,0.97336334
+Francesco Yates,Graham Candy,0.97256106
+Tom Odell,Chance Peña,0.9721027
+Ryan Lewis,Livingston,0.9717171
+Icona Pop,Loud Luxury,0.97165096
+Lizzy McAlpine,Gregory Alan Isakov,0.97156423
+Tayc,Niska,0.9715179
+Tom Odell,Matt Hansen,0.9711123
+Niall Horan,(G)I-DLE,0.9710262
+Matt Hansen,Oh Wonder,0.9708603
+Kodaline,Oh Wonder,0.9706574
+Freya Ridings,Loud Luxury,0.97063595
+Klangkarussell,Matt Hansen,0.9705605
+Tate McRae,KSHMR,0.9701747
+Adriano Celentano,Miss Platnum,0.9700568
+Lena,Martin Jensen,0.97001505
+Lorde,Clairo,0.9697632
+Clairo,Carly Rae Jepsen,0.9697362
+Dimitri Vegas,Blasterjaxx,0.9688708
+Matt Hansen,Billy Raffoul,0.9687384
+Dennis Lloyd,Graham Candy,0.9683538
+Freya Ridings,KSHMR,0.96833557
+Klangkarussell,Lukas Graham,0.9677187
+Chance Peña,Lukas Graham,0.96766675
+Sonny Fodera,MK,0.96738976
+Rea Garvey,Juanes,0.96733993
+Gotye,deadmau5,0.9672818
+Colbie Caillat,The National,0.9671382
+Anastacia,Jovanotti,0.967134
+Niall Horan,Little Mix,0.96703446
+Tom Odell,Klangkarussell,0.96702456
+Gotye,Loud Luxury,0.96688294
+DNCE,Oh Wonder,0.9668243
+Loud Luxury,deadmau5,0.96658677
+Ardian Bujupi,Mc Kresha,0.9664754
+DNCE,Billy Raffoul,0.96616554
+Lukas Graham,Oh Wonder,0.9660008
+Chance Peña,Kodaline,0.96599805
+Icona Pop,Freya Ridings,0.9652543
+Chance Peña,DNCE,0.9651616
+KSHMR,deadmau5,0.9648171
+Icona Pop,KSHMR,0.9647538
+KSHMR,Loud Luxury,0.9646197
+Ardian Bujupi,Sfera Ebbasta,0.9644973
+Billy Raffoul,Parson James,0.9637306
+Dennis Lloyd,Lilly Wood and The Prick,0.96344906
+Al Bano,Blümchen,0.9634092
+The Outfield,Sigma,0.962965
+Sophie Ellis-Bextor,Owl City,0.96263325
+Carly Rae Jepsen,Addison Rae,0.9625543
+Icona Pop,deadmau5,0.9624623
+Chance Peña,Parson James,0.9617624
+X Ambassadors,Sandro Cavazza,0.9615729
+Lukas Graham,Billy Raffoul,0.96155447
+Carly Rae Jepsen,The 1975,0.9613954
+Jessie Murph,Sigma,0.96087766
+The Outfield,Bailey Zimmerman,0.96066004
+Matt Hansen,DNCE,0.96065927
+Jessie Murph,The Outfield,0.96038663
+Bailey Zimmerman,Sigma,0.96023476
+Michael Bublé,Kid Ink,0.96002257
+Klangkarussell,DNCE,0.9594183
+Tom Odell,DNCE,0.9593048
+Loredana,Ninho,0.9592879
+Imanbek,Aya Nakamura,0.9592563
+Sophie Ellis-Bextor,Deorro,0.959105
+Gazo,Heuss L'enfoiré,0.9590422
+Ninho,Elai,0.95880044
+Oh Wonder,Parson James,0.95728505
+Tom Odell,Parson James,0.9565591
+D.O.D,Sophie Ellis-Bextor,0.95651007
+Klangkarussell,Kodaline,0.9561736
+Janieck,Tom Gregory,0.95608544
+Tayc,Gazo,0.95596004
+Gotye,Icona Pop,0.9552028
+Tayc,Heuss L'enfoiré,0.95497036
+Klangkarussell,Zoe Wees,0.95476073
+Soolking,Tayc,0.9544836
+Soolking,Heuss L'enfoiré,0.95431495
+Kodaline,Billy Raffoul,0.9542239
+Tones And I,Ryan Lewis,0.9534363
+Alexandra Stan,Reik,0.95316315
+Sportfreunde Stiller,Glasperlenspiel,0.9529029
+Niall Horan,Shania Twain,0.9524173
+Lukas Graham,DNCE,0.95223105
+Yll Limani,Elvana Gjata,0.9521342
+Jessie Murph,Bailey Zimmerman,0.95159477
+Klangkarussell,Parson James,0.95151365
+Sfera Ebbasta,Mc Kresha,0.95126456
+AYLIVA,KATI K,0.95067966
+Rea Garvey,Bomba Estéreo,0.9505584
+Kodaline,DNCE,0.9502485
+Lukas Graham,Kodaline,0.95017123
+Matt Hansen,Kodaline,0.9499974
+Matt Hansen,Parson James,0.9498739
+Dennis Lloyd,Francesco Yates,0.94963217
+Loredana,Elai,0.9488579
+Matt Hansen,Lukas Graham,0.94884026
+D.O.D,Owl City,0.9487487
+Imanbek,Riton,0.947587
+Tom Odell,Lukas Graham,0.946507
+Chance Peña,Zoe Wees,0.9460782
+Zoe Wees,Oh Wonder,0.94579315
+Xavier Naidoo,Niska,0.94571805
+Hailee Steinfeld,Cassie,0.94443953
+Owl City,Blasterjaxx,0.9438807
+Soolking,MHD,0.9435201
+D.O.D,Deorro,0.9433812
+Tom Gregory,Declan J Donovan,0.9427238
+Mc Kresha,Elvana Gjata,0.9427192
+Jaymes Young,Tujamo,0.94219154
+Janieck,Declan J Donovan,0.94183415
+Zoe Wees,Billy Raffoul,0.94122106
+Nina Chuba,Kraftklub,0.94115245
+Nena,Marteria,0.9408197
+Tom Odell,Kodaline,0.94067144
+Soolking,Niska,0.93910867
+Udo Lindenberg,Max Herre,0.9390868
+Zoe Wees,DNCE,0.9390482
+Ninho,Heuss L'enfoiré,0.9385287
+Xavier Naidoo,MHD,0.9374915
+Marteria,Samy Deluxe,0.93740606
+Blasterjaxx,Deorro,0.9361104
+Lukas Graham,Parson James,0.93539035
+Avril Lavigne,Cassie,0.9352024
+MHD,Gazo,0.9351773
+Lainey Wilson,HARDY,0.9349064
+Sfera Ebbasta,Elvana Gjata,0.93226254
+DNCE,Parson James,0.9318218
+Zoe Wees,Parson James,0.9313512
+Matt Hansen,Zoe Wees,0.93102956
+Marteria,MoTrip,0.93059874
+Ardian Bujupi,Elvana Gjata,0.9301621
+Gazo,Niska,0.92887795
+Shirin David,MHD,0.9286935
+Provinz,Kraftklub,0.92857885
+Kodaline,Parson James,0.9282467
+Shirin David,Tayc,0.92744374
+Sfera Ebbasta,Lacrim,0.92737484
+Ich + Ich,LOTTE,0.92638516
+Loredana,Heuss L'enfoiré,0.92626673
+Tom Odell,Zoe Wees,0.92616785
+Shirin David,Niska,0.9250112
+Elai,SDM,0.9238225

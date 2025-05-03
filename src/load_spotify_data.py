@@ -4,6 +4,7 @@ import csv
 import os
 import time
 import musicbrainzngs
+import pandas as pd
 
 # Spotify API credentials
 # not concealed so this can be easily run
@@ -160,6 +161,41 @@ def search_artists_by_genre(genre_name, limit=50):
 
     return artists
 
+def fill_collaborations_from_existing_artists():
+    # Load existing artist IDs
+    artists_df = pd.read_csv(ARTISTS_FILE)
+    artist_ids = set(artists_df["id"])
+
+    # Load existing collaborations
+    try:
+        collab_df = pd.read_csv(COLLABORATIONS_FILE)
+        existing_pairs = set(tuple(sorted([row['artist_1'], row['artist_2']])) for _, row in collab_df.iterrows())
+    except FileNotFoundError:
+        existing_pairs = set()
+
+    total = len(artist_ids)
+    for idx, artist_id in enumerate(artist_ids):
+        print(f"[{idx+1}/{total}] Processing {artist_id}...")
+
+        try:
+            collabs = get_collaborations(artist_id)
+        except Exception as e:
+            print(f"Error for {artist_id}: {e}")
+            continue
+
+        new_entries = []
+        for collab_id in collabs:
+            if collab_id in artist_ids:
+                pair = tuple(sorted([artist_id, collab_id]))
+                if pair not in existing_pairs:
+                    new_entries.append({"artist_1": pair[0], "artist_2": pair[1]})
+                    existing_pairs.add(pair)
+
+        if new_entries:
+            pd.DataFrame(new_entries).to_csv(COLLABORATIONS_FILE, mode='a', header=False, index=False)
+
+        time.sleep(0.5)  # avoid hitting rate limit
+
 # save artist & collaboration info from a given genre
 def build_genre_graph(genre_name, top_x=50):
 
@@ -230,4 +266,4 @@ def main():
     print("Data collection complete.")
 
 if __name__ == "__main__":
-    main()
+    fill_collaborations_from_existing_artists()
