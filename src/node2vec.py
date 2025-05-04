@@ -81,3 +81,4 @@ for i, j, score in top_links:
     csv_data.append([artist_1_name, artist_2_name, score])
 csv_df = pd.DataFrame(csv_data, columns=["Artist 1", "Artist 2", "Score"])
 csv_df.to_csv("predictions/node2vec.csv", index=False)
+print(f"Collaborations saved to predictions/node2vec.csv")

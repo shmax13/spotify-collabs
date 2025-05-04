@@ -30,6 +30,8 @@ If you accidentally delete any of the CSV files, there is a backup file for each
    pip install -r requirements.txt
    ```
 
+   If you run into setup errors, make sure you use precisely the Python + dependency versions specified in the `requirements.txt` file. For other versions, dependency mismatches can already cause `pip install` to fail.
+
 ## Using Docker
 
 To start the Neo4j instance, which is used for the `populate_neo4j.py` and `logical_knowledge.py`  scripts and to look at the data in the Neo4j browser UI.
