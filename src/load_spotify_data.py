@@ -21,7 +21,7 @@ musicbrainzngs.set_useragent("spotifycollabs", "0.1", "maximilian.j.pfeil@gmail.
 ARTISTS_FILE = 'data/artists.csv'
 COLLABORATIONS_FILE = 'data/collaborations.csv'
 
-
+# get artist country and begin_area from musicbrainz
 def get_musicbrainz_info(artist_name):
     try:
         result = musicbrainzngs.search_artists(artist=artist_name, limit=1)
@@ -35,6 +35,7 @@ def get_musicbrainz_info(artist_name):
         print(f"MusicBrainz error for '{artist_name}': {e}")
     return {'country': None, 'begin_area': None}
 
+# get most artist data from spotify API
 def get_artist_info(artist_id):
     artist = sp.artist(artist_id)
     albums = sp.artist_albums(artist_id, album_type='album', limit=25)['items']
@@ -50,7 +51,7 @@ def get_artist_info(artist_id):
     last_active_year = max(years) if years else None
     active_years = last_active_year - debut_year + 1 if debut_year and last_active_year else None
 
-    # Get extra info from MusicBrainz
+    # get extra info from MusicBrainz
     mb_info = get_musicbrainz_info(artist['name'])
 
     return {
@@ -126,11 +127,10 @@ def search_artists_by_genre(genre_name, limit=50):
         new_artists = result.get('artists', {}).get('items', [])
 
         if not new_artists:
-            break  # no more results
+            break  # no more results. can happen if searching a lesser known genre
 
         for artist in new_artists:
             if artist['id'] not in seen_ids:
-                # Get additional artist details using get_artist_info
                 artist_info = get_artist_info(artist['id'])
 
                 # try avoid API limits
@@ -158,24 +158,29 @@ def search_artists_by_genre(genre_name, limit=50):
 
         offset += 50
 
-
     return artists
 
+# this is used to fill up the CSVs continuously 
+# as API limits tend to shut down the main script occasionally.
 def fill_collaborations_from_existing_artists():
     # Load existing artist IDs
     artists_df = pd.read_csv(ARTISTS_FILE)
     artist_ids = set(artists_df["id"])
 
-    # Load existing collaborations
     try:
         collab_df = pd.read_csv(COLLABORATIONS_FILE)
         existing_pairs = set(tuple(sorted([row['artist_1'], row['artist_2']])) for _, row in collab_df.iterrows())
+        processed_artists = set((row['artist_1']) for _, row in collab_df.iterrows())
     except FileNotFoundError:
         existing_pairs = set()
 
     total = len(artist_ids)
     for idx, artist_id in enumerate(artist_ids):
-        print(f"[{idx+1}/{total}] Processing {artist_id}...")
+        if artist_id in processed_artists:
+            print(f"[{idx+1}/{total}] {artist_id} already processed.")
+            continue
+        else:
+            print(f"[{idx+1}/{total}] Processing {artist_id}...")
 
         try:
             collabs = get_collaborations(artist_id)
@@ -214,10 +219,10 @@ def build_genre_graph(genre_name, top_x=50):
         save_artist(artist)
         discovered_ids.add(artist_id)
 
-    # Step 3: Save intra-group collaborations
+    # Step 3: Save collaborations
     print("Finding internal collaborations...")
     total_artists = len(artists)
-    progress_interval = total_artists // 10  # Log progress every 10% of artists processed
+    progress_interval = total_artists // 10  # log progress every 10% of artists processed
     processed = 0
 
     for artist in artists:
@@ -254,11 +259,12 @@ def ensure_csv_headers():
 
 def main():
     # Step 0: Clean up existing files (optional)
+    # there is backup CSV files in case these are accidentally deleted
     clear_csv_files()
 
     # Step 1: Start building the artist graph
-    genre = "Pop"  # Change this to any starting artist
-    max_artists = 1000  # Adjust based on how big you want the dataset to be
+    genre = "Pop" 
+    max_artists = 1000 
 
     print(f"Getting {max_artists} {genre} artists...")
     build_genre_graph(genre, max_artists)
@@ -266,4 +272,5 @@ def main():
     print("Data collection complete.")
 
 if __name__ == "__main__":
+    # main()
     fill_collaborations_from_existing_artists()

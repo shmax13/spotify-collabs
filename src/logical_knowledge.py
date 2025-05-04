@@ -6,7 +6,7 @@ URI = "bolt://localhost:7687"
 AUTH = ("neo4j", "knowledgegraphs")
 driver = GraphDatabase.driver(URI, auth=AUTH)
 
-def write_predictions_to_log(
+def do_logical_prediction(
     log_path="predictions/logical_rules.csv",
     weight_common_neighbors = 2.0,
     weight_genre_overlap = 5.0,
@@ -76,4 +76,4 @@ def write_predictions_to_log(
         print("Prediction using logical rules complete.")
 
 if __name__ == "__main__":
-    write_predictions_to_log()
+    do_logical_prediction()

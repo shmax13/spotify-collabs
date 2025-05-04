@@ -6,6 +6,9 @@ URI = "bolt://localhost:7687"
 AUTH = ("neo4j", "knowledgegraphs")
 driver = GraphDatabase.driver(URI, auth=AUTH)
 
+ARTISTS_FILE = 'data/artists.csv'
+COLLABORATIONS_FILE = 'data/collaborations.csv'
+
 # clear all nodes and relationships
 def clear_all():
     with driver.session() as session:
@@ -83,8 +86,8 @@ def load_collaborations(csv_file):
 
 def main():
     clear_all()
-    load_artists("data/artists.csv")
-    load_collaborations("data/collaborations.csv")
+    load_artists(ARTISTS_FILE)
+    load_collaborations(COLLABORATIONS_FILE)
     driver.close()
 
 if __name__ == "__main__":

@@ -3,24 +3,25 @@ import torch
 from torch_geometric.nn import Node2Vec
 from sklearn.metrics.pairwise import cosine_similarity
 
-# Load data
 artists_df = pd.read_csv("data/artists.csv")
-collabs_df = pd.read_csv("data/collaborations.csv").dropna()
+collabs_df = pd.read_csv("data/collaborations.csv")
 
-# Keep only artists that appear in collaborations
+# keep only artists that appear in collaborations
 connected_ids = set(collabs_df["artist_1"]) | set(collabs_df["artist_2"])
 artists_df = artists_df[artists_df["id"].isin(connected_ids)].reset_index(drop=True)
 
-# Rebuild mappings
+# rebuild mappings
 id_map = {artist_id: idx for idx, artist_id in enumerate(artists_df["id"])}
 
-# Build edge_index tensor
-edge_index = torch.tensor([
-    [id_map[a] for a in collabs_df["artist_1"]],
-    [id_map[b] for b in collabs_df["artist_2"]]
-], dtype=torch.long)
-edge_index = torch.cat([edge_index, edge_index[[1, 0]]], dim=1)
+edges = []
+for a, b in zip(collabs_df["artist_1"], collabs_df["artist_2"]):
+    a1 = id_map.get(a)
+    a2 = id_map.get(b)
+    if a1 is not None and a2 is not None:
+        edges.append([a1, a2])
+        edges.append([a2, a1])  # ensure bi-directional edges
 
+edge_index = torch.tensor(edges, dtype=torch.long).t().contiguous()
 
 node2vec = Node2Vec(
     edge_index,
@@ -38,6 +39,7 @@ node2vec = node2vec.to(device)
 loader = node2vec.loader(batch_size=128, shuffle=True)
 optimizer = torch.optim.SparseAdam(list(node2vec.parameters()), lr=0.01)
 
+# 1 epoch of training
 def train():
     node2vec.train()
     total_loss = 0
@@ -49,31 +51,29 @@ def train():
         total_loss += loss.item()
     return total_loss / len(loader)
 
-# Train
+# training loop
 for epoch in range(1, 201):
     loss = train()
     print(f"Epoch {epoch:03d} | Loss: {loss:.4f}")
 
-# Inference
+# prepare to score unconnected nodes
 node2vec.eval()
 embeddings = node2vec.embedding.weight.detach().cpu()
-
-# Score unconnected pairs
 num_nodes = len(artists_df)
 existing = set(tuple(sorted((id_map[a], id_map[b]))) for a, b in zip(collabs_df["artist_1"], collabs_df["artist_2"]))
 scores = []
 
+# scoring
 for i in range(num_nodes):
     for j in range(i + 1, num_nodes):
         if (i, j) not in existing:
             sim = cosine_similarity([embeddings[i]], [embeddings[j]])[0][0]
             scores.append((i, j, sim))
 
-# Top results
+# sort top results - similar to how it is logged for prediction with logical rule
 top_links = sorted(scores, key=lambda x: x[2], reverse=True)[:200]
 
-# Create DataFrame and write to CSV
-# Prepare data for CSV output
+# write results to CSV
 csv_data = []
 for i, j, score in top_links:
     artist_1_name = artists_df.loc[i, 'name']
