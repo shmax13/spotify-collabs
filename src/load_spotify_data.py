@@ -258,11 +258,10 @@ def ensure_csv_headers():
             writer.writerow(header_collabs) 
 
 def main():
-    # Step 0: Clean up existing files (optional)
+    # clean up existing files (optional)
     # there is backup CSV files in case these are accidentally deleted
     clear_csv_files()
 
-    # Step 1: Start building the artist graph
     genre = "Pop" 
     max_artists = 1000 
 

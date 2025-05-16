@@ -68,6 +68,10 @@ for i in range(num_nodes):
     for j in range(i + 1, num_nodes):
         if (i, j) not in existing:
             sim = cosine_similarity([embeddings[i]], [embeddings[j]])[0][0]
+            # NOTE: optional fix for Windows OS:
+            # vec_i = embeddings[i].detach().cpu().numpy() if hasattr(embeddings[i], 'detach') else embeddings[i]
+            # vec_j = embeddings[j].detach().cpu().numpy() if hasattr(embeddings[j], 'detach') else embeddings[j]
+            # sim = cosine_similarity([vec_i], [vec_j])[0][0]
             scores.append((i, j, sim))
 
 # sort top results - similar to how it is logged for prediction with logical rule
